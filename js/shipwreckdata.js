@@ -1,4 +1,5 @@
 shipDataRaw = "../data/Shipwrecks/ShipwrecksWAM_002.geojson"
+sharkDataClean = "../data/sharks/sharks_cleaned.csv"
 
 var overlayMaps = {
     Ships: new L.LayerGroup(),
@@ -24,10 +25,23 @@ id: "mapbox/streets-v11",
 accessToken: API_KEY
 }).addTo(map);
 
-let data = d3.json(shipDataRaw).then((rawData)=> {
+let shipData = d3.json(shipDataRaw).then((rawData)=> {
     var ships = L.geoJSON(rawData.features);
     ships.addTo(map);
     ships.addTo(overlayMaps['Ships'])
 });
 
-console.log("test linkage")
+let sharkData = d3.csv(sharkDataClean).then((rawData)=>{
+    
+})
+
+let test = csv2geojson.csv2geojson(sharkDataClean, function(err, data){
+    latfield: 'LocationY',
+    lonfield: 'LocationX',
+    delimiter: ','
+})
+    console.log(data)
+})
+
+
+
