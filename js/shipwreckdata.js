@@ -71,12 +71,29 @@ L.control.layers(null,overlays,{
     collapsed: false
 }).addTo(map);
 
+
+
 // Add ships to the map by filling the previously created ship layer
 let shipData = d3.json(shipDataRaw).then((rawData)=> {
     var ships = L.geoJSON(rawData.features);
     ships.addTo(map);
     ships.addTo(layers['ships'])
 });
+
+// Set up and object containiner a color reference for each shark species
+var sharkColors = {
+    blacktip: 'black',
+    blue: 'darkblue',
+    bull: 'red',
+    bronzeWhaler: 'orange',
+    dusky: 'grey',
+    greyNurse: 'yellow',
+    hammerhead: 'pink',
+    mako: 'purple',
+    tiger: 'green',
+    unknown: 'darkgrey',
+    white: 'white'
+};
 
 // Add sharks to the map by filling the previously created species layers
 let sharkData = d3.csv(sharkDataClean).then((sharkData)=> {
@@ -107,7 +124,9 @@ let sharkData = d3.csv(sharkDataClean).then((sharkData)=> {
         var lon = parseFloat(sharkData[i].LocationX);
 
         // place a new marker on the map, in the correct species layer 
-        var placeMarker = L.marker([lat,lon]);
+        var placeMarker = L.circleMarker([lat,lon],{
+            color: sharkColors[sharkSpecies]
+        });
         placeMarker.addTo(map);
         placeMarker.addTo(layers[sharkSpecies]);
     }
