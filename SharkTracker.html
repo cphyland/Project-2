@@ -1,7 +1,8 @@
  <!DOCTYPE html>
-   <html>
+   <html lang ="en">
 
    <head>
+<<<<<<< HEAD
        <meta charset="utf-8">
        <title>Customize the scroll-bar</title>
 
@@ -12,27 +13,29 @@
            }
        </style>
        <script type="text/javascript" src=""C:\Users\ramir\Desktop\Webpage Project\Project-2\js\shipwreckdata.js""></script>
+=======
+       <meta charset="UTF-8">
+       <meta http-equiv="X-UA-Compatible" content="IE=edge">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <title>Shark Tracker</title>
+       <link rel="stylesheet" href="styles/style.css">
+       <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+       <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.0.0/d3.min.js"
+        integrity="sha512-0x7/VCkKLLt4wnkFqI8Cgv6no+AaS1TDgmHLOoU3hy/WVtYta2J6gnOIHhYYDJlDxPqEqAYLPS4gzVex4mGJLw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+>>>>>>> 222cbfaa3168e23b56ac4865f8024888e220e6c6
    </head>
    <body>
-       <center>
-           <h1 style="color:lawngreen"
-                Australia
-           </h1>
-           <div>
-               <!--Google Map Code -->
-               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60949550.79698232!2d95.47468769797501!3d-21.189562525113576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2b2bfd076787c5df%3A0x538267a1955b1352!2sAustralia!5e0!3m2!1sen!2sus!4v1627345635548!5m2!1sen!2sus"
-                        width="600"
-                        height="450"
-                        style="border:0;"
-                        allowfullscreen=""
-                        loading="lazy">
-                </iframe>
-           </div>
-       </center>
-   </body>
+    
    <h1>Shark Tracker</h1>
    
    <p>Be able to track sharks as they roam the ocean around Australia. Do they reside at known shipwreck locations?</p>
-   
+   <div id='map'></div>
+   <script src="https://npmcdn.com/csv2geojson@latest/csv2geojson.js"></script>
+   <script src="https://d3js.org/d3.v7.min.js"></script>
+   <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+   integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+   crossorigin=""></script>
+   <script src="js/config.js"></script>
+   <script type="text/javascript" src="js/shipwreckdata.js"></script>
    </body>
    </html> 
