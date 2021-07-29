@@ -1,10 +1,12 @@
 import pandas as pd
 import requests
+import json
 from sqlalchemy import create_engine
 
 
 # paths to access and save data
-shark_url= "http://api.fish.wa.gov.au/webapi/v1/RawData"
+shark_url = "http://api.fish.wa.gov.au/webapi/v1/RawData"
+ship_path = "data/shipwrecks/ShipwrecksWAM_002.geojson"
 
 def shark_data(api_url, start_date, end_date):
     """
@@ -51,7 +53,8 @@ def shark_data(api_url, start_date, end_date):
         clean_sharks = clean_sharks[species_filter] # apply the filter to the dataframe
 
         # limit the data to what is required by the leaflet plot
-        clean_sharks = clean_sharks[['InteractionValue','InteractionId','SightingSpeciesValue','SightingDateTime','OwnerValue','LocationX','LocationY']]
+        clean_sharks = clean_sharks[['InteractionValue','InteractionId','SightingSpeciesValue',
+                                    'SightingDateTime','OwnerValue','LocationX','LocationY']]
 
         return clean_sharks
 
@@ -69,10 +72,22 @@ def shark_data(api_url, start_date, end_date):
 
     return filtered_df
 
-def load_database(data_df,table_name,connection_string):
+def load_database(data_df, table_name, connection_string):
+    """ Create a table in a sqlite database from a pandas dataframe. If the sqlite database does not exist, this will create one
+        Args:
+            data_df (pandas.DataFrame): The pandas dataframe to be stored in the sqlite database
+            table_name (str): The name to use for the table
+            connection_string (str): The location of the sqlite database. The database filename must end in .sqlite
+    """
+    # create a connectiong to the database with sqlalchemy
     engine = create_engine(f'sqlite://{connection_string}')
+
+    # load a table into the database with pandas
     data_df.to_sql(table_name, con = engine)
-    
+
+
+
+
 
 
 
