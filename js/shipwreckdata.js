@@ -95,6 +95,29 @@ var sharkColors = {
     white: 'white'
 };
 
+var sharkIcon = L.Icon.extend({
+    options: {
+        iconSize: [25,25],
+        iconAnchor: [13,13],
+        popupAnchor: [-24,-50]
+    }
+});
+
+var sharkMarkers = {
+    blacktip: new sharkIcon({iconUrl: 'black'}),
+    blue: new sharkIcon({iconUrl: 'black'}),
+    bull: new sharkIcon({iconUrl: 'black'}),
+    bronzeWhaler: new sharkIcon({iconUrl: 'black'}),
+    dusky: new sharkIcon({iconUrl: 'black'}),
+    greyNurse: new sharkIcon({iconUrl: 'black'}),
+    hammerhead: new sharkIcon({iconUrl: 'black'}),
+    mako: new sharkIcon({iconUrl: 'black'}),
+    tiger: new sharkIcon({iconUrl: 'black'}),
+    unknown: new sharkIcon({iconUrl: 'black'}),
+    white: new sharkIcon({iconUrl: 'black'})
+};
+
+
 // Add sharks to the map by filling the previously created species layers
 let sharkData = d3.csv(sharkDataClean).then((sharkData)=> {
 
