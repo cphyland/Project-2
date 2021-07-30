@@ -31,9 +31,9 @@ def index():
 @app.route("/update")
 def update_data():
     sharks_df = flask_functions.shark_data(shark_api_url, "2020-01-01", "2021-07-01")
-    flask_functions.load_database(sharks_df, shark_table_name, "data/australia.sqlite")
+    flask_functions.load_database(sharks_df, shark_table_name, "data/sharks/australia.sqlite")
 
-    sharks_df.to_csv("sharks_cleaned.csv")
+    sharks_df.to_csv("data/sharks/sharks_cleaned.csv")
 
     return redirect("/")
 

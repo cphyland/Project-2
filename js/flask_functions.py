@@ -88,10 +88,10 @@ def load_database(data_df, table_name, connection_string):
                 The database filename must end in .sqlite
     """
     # create a connectiong to the database with sqlalchemy
-    engine = create_engine(f'sqlite:///data/sharks/databasename.sqlite')
+    engine = create_engine(f'sqlite:///{connection_string}')
 
     # load a table into the database with pandas
-    data_df.to_sql(table_name, con = engine)
+    data_df.to_sql(table_name, con=engine, if_exists='replace')
 
 
 
