@@ -65,59 +65,55 @@ var overlays = {
     "Unknown": layers.unknown
     };
 
+ 
 // Use the overlay object to create a control panel for each layer, and add it to the map
 // This allows toggling of which layer we want to display
 L.control.layers(null,overlays,{
     collapsed: false
 }).addTo(map);
 
-
+let shipMarker = L.icon({
+    iconUrl: "images/icons8-historic-ship-50.png",
+    iconSize: [13,13],
+    iconAnchor: [5,5],
+    popupAnchr: [-10,-20]
+})
 
 // Add ships to the map by filling the previously created ship layer
 let shipData = d3.json(shipDataRaw).then((rawData)=> {
-    var ships = L.geoJSON(rawData.features);
+    var ships = L.geoJSON(rawData.features, {
+        pointToLayer: function (feature, latlng) {
+            return L.marker(latlng, {
+                icon: shipMarker
+            })
+        }
+    });
     ships.addTo(map);
     ships.addTo(layers['ships'])
 });
 
-// Set up and object containiner a color reference for each shark species
-var sharkColors = {
-    blacktip: 'black',
-    blue: 'darkblue',
-    bull: 'red',
-    bronzeWhaler: 'orange',
-    dusky: 'grey',
-    greyNurse: 'yellow',
-    hammerhead: 'pink',
-    mako: 'purple',
-    tiger: 'green',
-    unknown: 'darkgrey',
-    white: 'white'
-};
-
-var sharkIcon = L.Icon.extend({
-    options: {
-        iconSize: [25,25],
-        iconAnchor: [13,13],
-        popupAnchor: [-24,-50]
-    }
+   // Set up and object containiner a color reference for each shark species
+var customIcon = L.Icon.extend({
+options: {
+    iconSize: [25,25],
+    iconAnchor: [13,13],
+    popupAnchor: [-24,-50]
+}
 });
 
-var sharkMarkers = {
-    blacktip: new sharkIcon({iconUrl: 'black'}),
-    blue: new sharkIcon({iconUrl: 'black'}),
-    bull: new sharkIcon({iconUrl: 'black'}),
-    bronzeWhaler: new sharkIcon({iconUrl: 'black'}),
-    dusky: new sharkIcon({iconUrl: 'black'}),
-    greyNurse: new sharkIcon({iconUrl: 'black'}),
-    hammerhead: new sharkIcon({iconUrl: 'black'}),
-    mako: new sharkIcon({iconUrl: 'black'}),
-    tiger: new sharkIcon({iconUrl: 'black'}),
-    unknown: new sharkIcon({iconUrl: 'black'}),
-    white: new sharkIcon({iconUrl: 'black'})
+var customMarkers = {
+    blacktip: new customIcon({iconUrl: 'images/black-shark-24.png'}),
+    blue: new customIcon({iconUrl: 'images/blue-shark-24.png'}),
+    bull: new customIcon({iconUrl: 'images/black-shark-24.png'}),
+    bronzeWhaler: new customIcon({iconUrl: 'images/orange-shark-24.png'}),
+    dusky: new customIcon({iconUrl: 'images/brown-shark-24.png'}),
+    greyNurse: new customIcon({iconUrl: 'images/gray-shark-24.png'}),
+    hammerhead: new customIcon({iconUrl: 'images/black-shark-24.png'}),
+    mako: new customIcon({iconUrl: 'images/pink-shark-24.png'}),
+    tiger: new customIcon({iconUrl: 'images/purple-shark-24.png'}),
+    unknown: new customIcon({iconUrl: 'images/red-shark-24.png'}),
+    white: new customIcon({iconUrl: 'images/white-shark-24.png'}),
 };
-
-
 // Add sharks to the map by filling the previously created species layers
 let sharkData = d3.csv(sharkDataClean).then((sharkData)=> {
 
@@ -147,8 +143,8 @@ let sharkData = d3.csv(sharkDataClean).then((sharkData)=> {
         var lon = parseFloat(sharkData[i].LocationX);
 
         // place a new marker on the map, in the correct species layer 
-        var placeMarker = L.circleMarker([lat,lon],{
-            color: sharkColors[sharkSpecies]
+        var placeMarker = L.marker([lat,lon],{
+            icon: customMarkers[sharkSpecies]
         });
         placeMarker.addTo(map);
         placeMarker.addTo(layers[sharkSpecies]);
