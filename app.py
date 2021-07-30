@@ -25,8 +25,9 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-  # return render_template("index.html")
-  return "pizza"
+  return render_template("SharkTracker.html")
+  
+  
 
 @app.route("/update")
 def update_data():
