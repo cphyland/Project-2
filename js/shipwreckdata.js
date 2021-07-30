@@ -114,6 +114,7 @@ var customMarkers = {
     unknown: new customIcon({iconUrl: 'images/red-shark-24.png'}),
     white: new customIcon({iconUrl: 'images/white-shark-24.png'}),
 };
+
 // Add sharks to the map by filling the previously created species layers
 let sharkData = d3.csv(sharkDataClean).then((sharkData)=> {
 
@@ -151,6 +152,32 @@ let sharkData = d3.csv(sharkDataClean).then((sharkData)=> {
     }
     layers.unknown.removeFrom(map);
 })
+
+function addLegend(map) {
+    var legend = L.control({position:"bottomleft"});
+
+    legend.onAdd = function(myMap) {
+        var div = L.DomUtil.create("div", "legend");
+        div.innerHTML += '<h3>Map Icons</h3>';
+        div.innerHTML += '<i style="background: #ffffcc"></i><span>0-10</span><br>';
+        div.innerHTML += '<i style="background: #ffeda0"></i><span>11-20</span><br>';
+        div.innerHTML += '<i style="background: #fed976"></i><span>21-30</span><br>';
+        div.innerHTML += '<i style="background: #feb24c"></i><span>31-40</span><br>';
+        div.innerHTML += '<i style="background: #fd8d3c"></i><span>41-50</span><br>';
+        div.innerHTML += '<i style="background: #fc4e2a"></i><span>51-60</span><br>';
+        div.innerHTML += '<i style="background: #e31a1c"></i><span>61-70</span><br>';
+        div.innerHTML += '<i style="background: #b10026"></i><span> >70</span><br>';
+        div.innerHTML += '<i style="background: #fd8d3c"></i><span>41-50</span><br>';
+        div.innerHTML += '<i style="background: #fc4e2a"></i><span>51-60</span><br>';
+        div.innerHTML += '<i style="background: #e31a1c"></i><span>61-70</span><br>';
+        div.innerHTML += '<i style="background: #b10026"></i><span> >70</span><br>';
+
+        return div;
+    }
+    legend.addTo(map);
+}
+
+addLegend(map);
 
 
 

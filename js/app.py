@@ -1,19 +1,17 @@
-from flask import Flask, jsonify
-import numpy as np
+from flask import Flask, render_template, redirect
 import flask_functions
-import sqlalchemy
-from sqlalchemy.ext.automap import automap_base
-from sqlalchemy.orm import Session, session
-from sqlalchemy import create_engine, inspect
-from sqlalchemy import func
+from sqlalchemy import create_engine
+import pandas as pd
 
-shark_url = "http://api.fish.wa.gov.au/webapi/v1.RawData"
+shark_api_url = "http://api.fish.wa.gov.au/webapi/v1/RawData"
+shark_table_name = "sharks1"
+shark_csv_path = "../data/sharks/sharks_cleaned.csv"
 
 
 #################################################
 # Database Setup
 #################################################
-engine = create_engine("sqlite:///data/sharks.sqlite")
+#engine = create_engine("sqlite:///data/sharks.sqlite")
 
 
 #################################################
@@ -27,10 +25,17 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    cleandata = flask_functions.shark_data(shark_url, "1/1/2020", "7/1/2021")
-    flask_functions.load_database(cleandata, "cleanSharkTable", "data/projectdatabase")
-    
+  # return render_template("index.html")
+  return "pizza"
 
+@app.route("/update")
+def update_data():
+    sharks_df = flask_functions.shark_data(shark_api_url, "2020-01-01", "2021-07-01")
+    flask_functions.load_database(sharks_df, shark_table_name, "data/australia.sqlite")
+
+    sharks_df.to_csv("sharks_cleaned.csv")
+
+    return redirect("/")
 
 if __name__ == "__main__":
     app.run(debug=True)

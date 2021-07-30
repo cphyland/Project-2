@@ -1,1008 +1,1008 @@
 ,InteractionValue,InteractionId,SightingSpeciesValue,SightingDateTime,OwnerValue,LocationX,LocationY
-36,sighted,1,unknown sp.,2021-06-30T16:10:47,Public report,115.736,-32.505
-37,sighted,1,white,2021-06-30T08:57:04,Public report,115.186,-34.3263
-39,sighted,1,unknown sp.,2021-06-28T10:30:54,Public report,115.059,-33.5457
-40,sighted,1,unknown sp.,2021-06-27T14:00:20,Public report,115.629,-33.3272
-41,sighted,1,white,2021-06-26T10:00:10,Public report,117.16,-35.0381
-42,sighted,1,unknown sp.,2021-06-23T14:44:14,Public report,114.969,-29.785
-43,sighted,1,tiger,2021-06-21T14:15:02,Public report,122.201,-17.9555
-44,Detected,4,white,2021-06-21T03:49:00,Fisheries Advise,115.622596,-33.326036
-45,sighted,1,unknown sp.,2021-06-20T09:08:32,Public report,122.201,-17.9555
-46,sighted,1,white,2021-06-20T07:25:28,Public report,121.833,-33.8923
-47,caught & released,3,tiger,2021-06-19T12:40:27,Fisheries Advise,118.082,-34.9903
-48,caught & released,3,tiger,2021-06-19T12:20:12,Fisheries Advise,118.082,-34.9903
-49,caught & released,3,tiger,2021-06-19T10:29:10,Fisheries Advise,118.085,-34.9993
-50,sighted,1,white,2021-06-19T09:30:52,Public report,116.931,-35.0408
-51,tagged & released,2,white,2021-06-18T15:46:03,Fisheries Advise,118.085,-34.9993
-53,sighted,1,tiger,2021-06-17T10:08:17,Public report,115.044,-33.5364
-54,sighted,1,unknown sp.,2021-06-13T12:00:47,Public report,115.028,-34.2208
-55,Detected,4,white,2021-06-13T07:02:00,Fisheries Advise,115.74365,-32.02628
-56,Detected,4,white,2021-06-13T06:16:00,Fisheries Advise,115.74365,-32.02628
-57,Detected,4,white,2021-06-13T06:10:00,Fisheries Advise,115.74365,-32.02628
-58,Detected,4,white,2021-06-13T06:05:00,Fisheries Advise,115.74365,-32.02628
-59,Detected,4,white,2021-06-13T06:00:00,Fisheries Advise,115.74365,-32.02628
-60,sighted,1,unknown sp.,2021-06-12T12:07:20,Public report,113.768,-23.1423
-61,Detected,4,white,2021-06-11T17:38:00,Fisheries Advise,117.92172,-35.02144
-62,Detected,4,white,2021-06-11T17:32:00,Fisheries Advise,117.92172,-35.02144
-64,Detected,4,white,2021-06-11T15:05:00,Fisheries Advise,117.94592,-35.08678
-65,Detected,4,white,2021-06-11T14:50:00,Fisheries Advise,117.94592,-35.08678
-66,Detected,4,white,2021-06-11T14:44:00,Fisheries Advise,117.94592,-35.08678
-67,Detected,4,white,2021-06-11T14:34:00,Fisheries Advise,117.94592,-35.08678
-68,Detected,4,white,2021-06-11T14:24:00,Fisheries Advise,117.94592,-35.08678
-69,sighted,1,bronze whaler,2021-06-11T11:20:03,Fisheries Advise,113.763,-23.18
-70,sighted,1,bronze whaler,2021-06-07T15:11:06,Public report,115.138,-33.6287
-71,sighted,1,unknown sp.,2021-06-07T11:44:31,UPDATE to prior report,115.653,-32.5802
-72,sighted,1,unknown sp.,2021-06-07T11:09:54,Public report,115.653,-32.5802
-73,Detected,4,white,2021-06-05T22:49:00,Fisheries Advise,115.74408,-31.98765
-74,Detected,4,white,2021-06-05T22:42:00,Fisheries Advise,115.74408,-31.98765
-75,Detected,4,white,2021-06-05T22:22:00,Fisheries Advise,115.74646,-31.97784
-76,Detected,4,white,2021-06-05T20:58:00,Fisheries Advise,115.74737,-31.93879
-77,Detected,4,white,2021-06-05T20:12:00,Fisheries Advise,115.74737,-31.93879
-78,Detected,4,white,2021-06-05T19:50:00,Fisheries Advise,115.74752,-31.92875
-79,sighted,1,bronze whaler,2021-06-05T13:28:39,Public report,122.201,-17.9555
-80,sighted,1,white,2021-06-05T12:00:33,UPDATE to prior report,115.085,-33.5679
-81,sighted,1,white,2021-06-05T12:00:11,Public report,115.092,-33.5757
-82,sighted,1,tiger,2021-06-05T11:54:47,DBCA officers report,115.008,-30.2832
-83,Detected,4,white,2021-06-04T12:09:00,Fisheries Advise,115.72142,-31.76424
-84,Detected,4,white,2021-06-04T11:06:00,Fisheries Advise,115.726533,-31.781833
-85,Detected,4,white,2021-06-04T11:00:00,Fisheries Advise,115.726533,-31.781833
-86,Detected,4,white,2021-06-04T10:57:00,Fisheries Advise,115.726483,-31.788617
-87,Detected,4,white,2021-06-04T10:48:00,Fisheries Advise,115.726483,-31.788617
-88,Detected,4,white,2021-06-04T10:43:00,Fisheries Advise,115.726483,-31.788617
-89,sighted,1,unknown sp.,2021-06-04T10:26:08,Public report,115.105,-33.601
-90,Detected,4,white,2021-06-04T05:51:00,Fisheries Advise,115.73751,-31.89295
-91,Detected,4,white,2021-06-04T05:35:00,Fisheries Advise,115.74832,-31.89806
-92,Detected,4,white,2021-06-04T05:29:00,Fisheries Advise,115.74832,-31.89806
-93,Detected,4,white,2021-06-04T04:07:00,Fisheries Advise,115.74752,-31.92875
-94,Detected,4,white,2021-06-04T04:00:00,Fisheries Advise,115.74752,-31.92875
-95,Detected,4,white,2021-06-04T03:55:00,Fisheries Advise,115.74737,-31.93879
-96,Detected,4,white,2021-06-03T22:52:00,Fisheries Advise,115.74408,-31.98765
-97,Detected,4,white,2021-06-03T22:46:00,Fisheries Advise,115.74408,-31.98765
-98,sighted,1,unknown sp.,2021-06-03T16:55:30,Public report,115.105,-33.601
-99,Detected,4,white,2021-06-01T20:38:00,Fisheries Advise,115.74737,-31.93879
-100,Detected,4,white,2021-06-01T20:33:00,Fisheries Advise,115.74737,-31.93879
-101,Detected,4,white,2021-06-01T18:07:00,Fisheries Advise,115.73751,-31.89295
-102,Detected,4,white,2021-06-01T16:32:00,Fisheries Advise,115.72967,-31.88565
-103,Detected,4,white,2021-06-01T16:12:00,Fisheries Advise,115.093091,-33.57247
-104,Detected,4,white,2021-06-01T16:10:00,Fisheries Advise,115.72967,-31.88565
-105,Detected,4,white,2021-06-01T15:48:00,Fisheries Advise,115.72427,-31.87541
-106,sighted,1,white,2021-06-01T13:20:16,Public report,115.085,-33.5658
-107,Detected,4,white,2021-06-01T12:47:00,Fisheries Advise,115.093091,-33.57247
-108,Detected,4,white,2021-06-01T12:40:00,Fisheries Advise,115.093091,-33.57247
-109,Detected,4,white,2021-06-01T12:29:00,Fisheries Advise,115.093091,-33.57247
-110,Detected,4,white,2021-06-01T11:32:00,Fisheries Advise,115.093091,-33.57247
-111,Detected,4,white,2021-06-01T11:21:00,Fisheries Advise,115.093091,-33.57247
-112,sighted,1,white,2021-06-01T10:42:23,Public report,115.495,-31.9829
-113,Detected,4,white,2021-05-31T23:33:00,Fisheries Advise,115.726483,-31.788617
-114,Detected,4,white,2021-05-31T16:09:00,Fisheries Advise,115.72967,-31.88565
-115,Detected,4,white,2021-05-31T15:41:00,Fisheries Advise,115.72427,-31.87541
-116,Detected,4,white,2021-05-31T15:35:00,Fisheries Advise,115.72427,-31.87541
-117,Detected,4,white,2021-05-31T11:03:00,Fisheries Advise,115.72427,-31.87541
-118,Detected,4,white,2021-05-31T10:15:00,Fisheries Advise,115.72427,-31.87541
-119,Detected,4,white,2021-05-31T10:00:00,Fisheries Advise,115.72427,-31.87541
-120,Detected,4,white,2021-05-31T09:50:00,Fisheries Advise,115.72427,-31.87541
-121,Detected,4,white,2021-05-31T09:17:00,Fisheries Advise,115.72967,-31.88565
-122,Detected,4,white,2021-05-31T08:49:00,Fisheries Advise,115.73751,-31.89295
-123,sighted,1,white,2021-05-30T15:37:49,Public report,121.863,-33.8829
-124,Detected,4,white,2021-05-30T14:19:00,Fisheries Advise,115.73751,-31.89295
-125,Detected,4,white,2021-05-30T02:42:00,Fisheries Advise,115.726483,-31.788617
-126,Detected,4,white,2021-05-29T15:57:00,Fisheries Advise,115.74408,-31.98765
-127,Detected,4,white,2021-05-29T14:00:00,Fisheries Advise,115.74365,-32.02628
-128,Detected,4,white,2021-05-29T13:36:00,Fisheries Advise,115.74365,-32.02628
-129,sighted,1,unknown sp.,2021-05-29T12:51:16,UPDATE to prior report,122.201,-17.9555
-130,sighted,1,unknown sp.,2021-05-29T12:40:00,SLS Lifesavers report,122.201,-17.9555
-131,sighted,1,unknown sp.,2021-05-28T13:20:39,Public report,114.99,-33.985
-132,Detected,4,white,2021-05-27T18:20:00,Fisheries Advise,115.045567,-33.542016
-133,Detected,4,white,2021-05-27T18:20:00,Fisheries Advise,115.037667,-33.539567
-134,Detected,4,white,2021-05-27T18:10:00,Fisheries Advise,115.045567,-33.542016
-135,sighted,1,white,2021-05-27T16:14:31,Public report,121.84,-33.8867
-136,Detected,4,white,2021-05-27T15:37:00,Fisheries Advise,115.093091,-33.57247
-137,sighted,1,unknown sp.,2021-05-27T10:40:23,Public report,115.754,-31.9365
-138,sighted,1,unknown sp.,2021-05-27T08:10:30,Public report,115.737,-32.3164
-139,sighted,1,white,2021-05-26T16:29:09,Public report,121.843,-33.887
-140,sighted,1,white,2021-05-26T07:37:44,Public report,115.194,-34.3329
-141,sighted,1,white,2021-05-25T16:00:52,UPDATE to prior report,121.894,-33.8624
-142,caught & released,3,white,2021-05-25T16:00:35,Fisheries Advise,121.913,-33.8622
-143,sighted,1,unknown sp.,2021-05-25T12:22:08,Public report,115.649,-33.3202
-144,sighted,1,white,2021-05-23T12:30:10,Public report,113.632,-22.8544
-145,sighted,1,tiger,2021-05-22T13:55:00,Fisheries Advise,115.476,-32.0172
-146,sighted,1,unknown sp.,2021-05-22T07:23:16,Public report,115.755,-31.8944
-147,sighted,1,unknown sp.,2021-05-21T17:30:09,Public report,115.111,-33.613
-148,Detected,4,white,2021-05-21T15:17:00,Fisheries Advise,121.87883,-33.882133
-149,Detected,4,white,2021-05-21T15:07:00,Fisheries Advise,121.87883,-33.882133
-150,Detected,4,white,2021-05-21T15:01:00,Fisheries Advise,121.87883,-33.882133
-151,Detected,4,white,2021-05-21T14:56:00,Fisheries Advise,121.87883,-33.882133
-152,Detected,4,white,2021-05-21T14:51:00,Fisheries Advise,121.87883,-33.882133
-153,Detected,4,white,2021-05-21T14:46:00,Fisheries Advise,121.87883,-33.882133
-154,sighted,1,bronze whaler,2021-05-21T11:50:39,Public report,115.686,-32.2694
-155,sighted,1,unknown sp.,2021-05-21T11:25:44,Fisheries Advise,122.201,-17.9555
-156,sighted,1,unknown sp.,2021-05-21T11:21:27,Public report,122.201,-17.9555
-157,sighted,1,unknown sp.,2021-05-21T11:21:00,UPDATE to prior report,122.201,-17.9555
-158,sighted,1,tiger,2021-05-21T10:35:00,Fisheries Advise,115.476,-32.0172
-159,sighted,1,unknown sp.,2021-05-20T14:50:23,Public report,114.92,-29.252
-160,sighted,1,white,2021-05-20T14:45:24,Public report,122.231,-17.9739
-161,sighted,1,unknown sp.,2021-05-20T14:45:00,UPDATE to prior report,122.231,-17.9739
-162,sighted,1,unknown sp.,2021-05-20T14:45:00,Public report,122.201,-17.7148
-163,sighted,1,unknown sp.,2021-05-20T14:06:52,Public report,115.111,-33.613
-164,caught & released,3,tiger,2021-05-20T05:09:00,SMART drumline trial,114.981,-33.9091
-165,caught & released,3,tiger,2021-05-20T02:22:00,SMART drumline trial,114.99,-33.8244
-166,caught & released,3,tiger,2021-05-20T02:08:00,SMART drumline trial,114.989,-33.8367
-167,sighted,1,bronze whaler,2021-05-19T15:18:47,Public report,122.233,-33.9946
-168,caught & released,3,bronze whaler,2021-05-19T05:09:00,SMART drumline trial,114.97,-33.8626
-169,Detected,4,white,2021-05-18T12:31:00,Fisheries Advise,115.74365,-32.02628
-170,sighted,1,white,2021-05-17T11:39:04,Public report,117.921,-35.015
-171,caught & released,3,tiger,2021-05-17T01:50:00,SMART drumline trial,114.99,-33.8244
-172,Detected,4,bronze whaler,2021-05-16T23:04:00,Fisheries Advise,121.87883,-33.882133
-173,sighted,1,bronze whaler,2021-05-16T14:30:43,Public report,121.877,-33.8782
-174,sighted,1,tiger,2021-05-16T09:20:23,Public report,115.69,-32.2924
-175,caught & released,3,tiger,2021-05-16T01:45:00,SMART drumline trial,114.97,-33.8626
-176,sighted,1,unknown sp.,2021-05-11T18:47:25,Public report,115.78,-32.0004
-177,Detected,4,white,2021-05-11T09:43:00,Fisheries Advise,115.74312,-31.99596
-178,Detected,4,white,2021-05-11T09:38:00,Fisheries Advise,115.74312,-31.99596
-180,sighted,1,bull,2021-05-09T12:04:07,Public report,115.861,-31.9679
-181,sighted,1,white,2021-05-08T14:50:54,Public report,115.484,-32.0168
-182,sighted,1,unknown sp.,2021-05-07T15:47:29,Public report,115.633,-32.5975
-183,Detected,4,white,2021-05-07T12:32:00,Fisheries Advise,115.74312,-31.99596
-184,Detected,4,white,2021-05-07T12:26:00,Fisheries Advise,115.74312,-31.99596
-185,sighted,1,unknown sp.,2021-05-05T11:08:05,Public report,115.04,-33.5452
-186,sighted,1,bronze whaler,2021-05-05T11:06:36,Public report,115.04,-33.5452
-187,sighted,1,unknown sp.,2021-05-04T09:59:35,Public report,115.721,-31.7369
-188,sighted,1,unknown sp.,2021-05-03T17:46:04,Public report,122.209,-18.0006
-190,sighted,1,white,2021-05-02T10:00:27,Public report,115.646,-33.3042
-191,sighted,1,unknown sp.,2021-04-30T11:05:11,Public report,115.04,-33.5452
-192,sighted,1,unknown sp.,2021-04-29T16:30:19,Public report,122.201,-17.9555
-193,sighted,1,unknown sp.,2021-04-29T07:00:36,Public report,115.626,-33.3362
-194,sighted,1,bronze whaler,2021-04-28T14:28:19,Public report,117.997,-35.0216
-195,Detected,4,white,2021-04-28T00:58:00,Fisheries Advise,115.045567,-33.542016
-196,Detected,4,white,2021-04-28T00:52:00,Fisheries Advise,115.045567,-33.542016
-197,Detected,4,white,2021-04-28T00:48:00,Fisheries Advise,115.045567,-33.542016
-198,Detected,4,white,2021-04-28T00:46:00,Fisheries Advise,115.045567,-33.542016
-199,sighted,1,unknown sp.,2021-04-27T16:00:40,Public report,118.082,-34.9903
-200,sighted,1,white,2021-04-27T11:26:20,Public report,118.082,-34.9903
-201,sighted,1,white,2021-04-27T10:11:34,Public report,115.194,-34.3329
-202,sighted,1,unknown sp.,2021-04-27T09:44:48,SLS Westpac Heli report,115.649,-32.5829
-203,sighted,1,unknown sp.,2021-04-27T09:28:00,Public report,121.823,-33.894
-204,sighted,1,unknown sp.,2021-04-26T15:33:14,SLS Westpac Heli report,115.755,-31.9656
-205,sighted,1,white,2021-04-26T13:30:34,Public report,115.617,-33.3309
-206,sighted,1,unknown sp.,2021-04-26T10:13:43,SLS Westpac Heli report,114.992,-33.9473
-207,sighted,1,unknown sp.,2021-04-26T09:07:32,SLS Westpac Heli report,114.991,-33.6806
-208,sighted,1,unknown sp.,2021-04-26T08:43:17,SLS Westpac Heli report,115.204,-33.651
-209,sighted,1,unknown sp.,2021-04-25T15:50:12,Public report,115.16,-34.3666
-210,sighted,1,unknown sp.,2021-04-25T15:27:06,SLS Westpac Heli report,115.105,-33.601
-211,sighted,1,unknown sp.,2021-04-25T15:03:44,SLS Westpac Heli report,115.754,-31.9763
-212,sighted,1,unknown sp.,2021-04-25T14:14:16,SLS Westpac Heli report,115.024,-34.2233
-213,sighted,1,unknown sp.,2021-04-25T13:09:28,SLS Westpac Heli report,115.02,-33.6466
-214,sighted,1,unknown sp.,2021-04-25T12:25:31,SLS Westpac Heli report,115.754,-31.9553
-215,sighted,1,unknown sp.,2021-04-25T12:12:33,SLS Westpac Heli report,115.757,-31.9499
-217,sighted,1,unknown sp.,2021-04-25T09:24:44,SLS Westpac Heli report,115.685,-31.6495
-218,sighted,1,white,2021-04-25T08:44:58,SLS Westpac Heli report,115.756,-31.9292
-219,sighted,1,unknown sp.,2021-04-24T14:47:59,SLS Westpac Heli report,115.755,-31.973
-220,sighted,1,unknown sp.,2021-04-24T14:41:53,SLS Westpac Heli report,114.982,-33.9609
-221,sighted,1,unknown sp.,2021-04-24T13:12:07,SLS Westpac Heli report,115.28,-33.6566
-222,sighted,1,unknown sp.,2021-04-24T10:13:54,SLS Westpac Heli report,115.02,-33.6466
-223,sighted,1,unknown sp.,2021-04-24T08:22:54,SLS Westpac Heli report,115.111,-33.613
-224,caught & released,3,tiger,2021-04-24T05:26:00,SMART drumline trial,114.978,-33.8548
-225,caught & released,3,bronze whaler,2021-04-24T05:03:00,SMART drumline trial,114.987,-33.8482
-226,sighted,1,mako,2021-04-23T19:00:49,Public report,115.619,-33.3245
-227,sighted,1,unknown sp.,2021-04-23T15:37:31,SLS Westpac Heli report,115.542,-31.9919
-228,sighted,1,unknown sp.,2021-04-23T13:10:44,Public report,115.343,-33.6355
-229,sighted,1,bronze whaler,2021-04-23T13:09:01,Public report,122.233,-33.9946
-230,sighted,1,unknown sp.,2021-04-23T13:01:39,Public report,122.542,-33.9343
-231,sighted,1,unknown sp.,2021-04-23T10:07:22,Public report,115.762,-32.1097
-232,sighted,1,unknown sp.,2021-04-23T10:07:00,UPDATE to prior report,115.762,-32.1097
-233,sighted,1,unknown sp.,2021-04-22T14:57:23,SLS Westpac Heli report,115.685,-32.2663
-234,sighted,1,unknown sp.,2021-04-21T17:30:27,Public report,115.786,-32.0106
-235,Detected,4,white,2021-04-21T16:10:00,Fisheries Advise,115.037667,-33.539567
-236,Detected,4,white,2021-04-21T16:04:00,Fisheries Advise,115.037667,-33.539567
-237,Detected,4,white,2021-04-21T16:02:00,Fisheries Advise,115.045567,-33.542016
-238,Detected,4,white,2021-04-21T16:02:00,Fisheries Advise,115.037667,-33.539567
-239,Detected,4,white,2021-04-21T15:56:00,Fisheries Advise,115.037667,-33.539567
-240,Detected,4,white,2021-04-21T15:52:00,Fisheries Advise,115.045567,-33.542016
-241,Detected,4,white,2021-04-21T15:50:00,Fisheries Advise,115.045567,-33.542016
-242,Detected,4,white,2021-04-21T15:44:00,Fisheries Advise,115.045567,-33.542016
-243,sighted,1,unknown sp.,2021-04-21T15:23:10,SLS Westpac Heli report,115.522,-32.0214
-244,Detected,4,white,2021-04-21T14:19:00,Fisheries Advise,115.093091,-33.57247
-245,sighted,1,unknown sp.,2021-04-21T11:57:41,Public report,122.165,-34.0068
-246,sighted,1,unknown sp.,2021-04-21T10:54:00,SLS Westpac Heli report,115.687,-32.2712
-247,sighted,1,bronze whaler,2021-04-21T09:00:45,Public report,115.019,-33.6556
-248,sighted,1,bronze whaler,2021-04-21T08:34:06,Public report,115.04,-33.5452
-249,sighted,1,bronze whaler,2021-04-20T15:40:53,Public report,116.925,-20.7126
-250,Detected,4,bronze whaler,2021-04-20T08:53:00,Fisheries Advise,121.87883,-33.882133
-251,sighted,1,white,2021-04-20T06:40:58,Public report,115.754,-31.96
-252,sighted,1,unknown sp.,2021-04-19T15:50:15,Public report,116.702,-20.6643
-253,Detected,4,bronze whaler,2021-04-19T15:48:00,Fisheries Advise,121.87883,-33.882133
-254,Detected,4,bronze whaler,2021-04-19T14:41:00,Fisheries Advise,121.87883,-33.882133
-255,sighted,1,bronze whaler,2021-04-19T09:07:19,Public report,122.233,-33.9946
-256,sighted,1,unknown sp.,2021-04-19T08:40:35,Public report,122.233,-33.9946
-257,sighted,1,unknown sp.,2021-04-18T16:39:45,Public report,121.985,-33.8298
-258,sighted,1,unknown sp.,2021-04-18T15:51:47,SLS Westpac Heli report,115.498,-32.0158
-259,sighted,1,hammerhead,2021-04-18T14:38:04,SLS Westpac Heli report,115.757,-31.9196
-260,sighted,1,unknown sp.,2021-04-18T13:05:06,Public report,115.777,-32.0279
-261,sighted,1,tiger,2021-04-18T12:08:01,Public report,115.7,-31.689
-262,sighted,1,unknown sp.,2021-04-18T10:40:18,SLS Westpac Heli report,115.015,-33.6603
-263,sighted,1,tiger,2021-04-17T17:19:11,Public report,115.04,-33.5452
-264,sighted,1,tiger,2021-04-17T15:18:19,SLS Westpac Heli report,115.079,-33.5637
-265,sighted,1,white,2021-04-17T14:40:33,Public report,115.59,-33.4031
-266,sighted,1,tiger,2021-04-17T14:10:35,Public report,115.02,-33.6466
-267,sighted,1,bronze whaler,2021-04-17T14:10:16,Public report,115.02,-33.6466
-268,sighted,1,unknown sp.,2021-04-17T09:38:28,SLS Westpac Heli report,115.0,-34.0133
-269,sighted,1,tiger,2021-04-16T15:24:35,Public report,115.04,-33.5452
-270,sighted,1,unknown sp.,2021-04-16T15:02:12,SLS Westpac Heli report,115.027,-34.1641
-271,sighted,1,unknown sp.,2021-04-16T14:54:15,SLS Westpac Heli report,115.036,-34.1915
-272,sighted,1,unknown sp.,2021-04-16T14:54:00,UPDATE to prior report,114.995,-34.003
-273,sighted,1,unknown sp.,2021-04-16T14:45:11,SLS Westpac Heli report,116.907,-35.0568
-274,sighted,1,unknown sp.,2021-04-16T14:38:08,SLS Westpac Heli report,114.982,-33.9609
-275,sighted,1,unknown sp.,2021-04-16T14:22:37,SLS Westpac Heli report,114.997,-33.8208
-276,sighted,1,white,2021-04-16T13:58:07,SLS Westpac Heli report,115.067,-33.56
-277,sighted,1,bronze whaler,2021-04-16T12:00:40,Public report,122.128,-34.0209
-278,sighted,1,unknown sp.,2021-04-16T10:48:27,SLS Westpac Heli report,114.994,-33.7762
-279,sighted,1,unknown sp.,2021-04-16T10:13:39,SLS Westpac Heli report,115.02,-34.1409
-280,sighted,1,unknown sp.,2021-04-16T09:55:43,SLS Westpac Heli report,115.02,-34.1409
-281,sighted,1,unknown sp.,2021-04-16T09:20:37,SLS Westpac Heli report,114.991,-33.7733
-282,caught & released,3,mako,2021-04-16T05:47:00,SMART drumline trial,114.975,-33.8737
-283,caught & released,3,tiger,2021-04-16T03:47:00,SMART drumline trial,114.98,-33.8975
-284,sighted,1,unknown sp.,2021-04-15T15:43:26,SLS Westpac Heli report,115.551,-32.0112
-285,sighted,1,unknown sp.,2021-04-15T15:33:20,SLS Westpac Heli report,115.54,-31.9898
-286,sighted,1,white,2021-04-15T15:30:15,Public report,118.003,-35.0157
-287,sighted,1,unknown sp.,2021-04-15T15:28:09,SLS Westpac Heli report,115.105,-33.6011
-288,sighted,1,unknown sp.,2021-04-15T15:21:11,SLS Westpac Heli report,115.104,-33.5921
-289,sighted,1,unknown sp.,2021-04-15T15:12:42,SLS Westpac Heli report,115.004,-33.5325
-290,sighted,1,unknown sp.,2021-04-15T14:59:51,SLS Westpac Heli report,114.995,-33.6764
-291,sighted,1,unknown sp.,2021-04-15T14:35:25,SLS Westpac Heli report,115.001,-34.0433
-292,sighted,1,unknown sp.,2021-04-15T14:25:42,SLS Westpac Heli report,115.036,-34.1915
-293,sighted,1,unknown sp.,2021-04-15T14:17:03,SLS Westpac Heli report,115.065,-34.2908
-294,sighted,1,unknown sp.,2021-04-15T13:53:17,SLS Westpac Heli report,114.982,-33.9609
-295,sighted,1,unknown sp.,2021-04-15T13:34:19,SLS Westpac Heli report,114.992,-33.692
-296,sighted,1,white,2021-04-15T09:30:17,Public report,115.069,-33.5522
-297,sighted,1,unknown sp.,2021-04-15T09:28:02,SLS Westpac Heli report,114.985,-33.9703
-298,sighted,1,unknown sp.,2021-04-15T09:03:53,SLS Westpac Heli report,114.995,-34.003
-299,sighted,1,unknown sp.,2021-04-14T15:28:40,SLS Westpac Heli report,115.551,-32.0112
-300,sighted,1,unknown sp.,2021-04-14T13:41:11,SLS Westpac Heli report,115.106,-33.6029
-301,sighted,1,unknown sp.,2021-04-14T10:10:41,SLS Westpac Heli report,115.022,-34.1574
-302,sighted,1,unknown sp.,2021-04-14T09:57:18,SLS Westpac Heli report,115.026,-34.1888
-303,sighted,1,unknown sp.,2021-04-14T09:43:15,SLS Westpac Heli report,115.001,-34.0433
-304,sighted,1,unknown sp.,2021-04-14T09:11:39,SLS Westpac Heli report,114.989,-33.6994
-305,sighted,1,unknown sp.,2021-04-13T18:20:07,Public report,115.735,-32.0553
-306,Detected,4,bronze whaler,2021-04-13T15:59:00,Fisheries Advise,117.94592,-35.08678
-307,sighted,1,unknown sp.,2021-04-13T15:43:34,SLS Westpac Heli report,115.302,-33.6552
-308,sighted,1,unknown sp.,2021-04-13T15:30:24,SLS Westpac Heli report,115.104,-33.5921
-309,sighted,1,unknown sp.,2021-04-13T15:24:57,SLS Westpac Heli report,115.069,-33.5601
-310,Detected,4,white,2021-04-11T23:04:00,Fisheries Advise,117.94592,-35.08678
-311,Detected,4,white,2021-04-11T22:58:00,Fisheries Advise,117.94592,-35.08678
-312,Detected,4,white,2021-04-11T22:53:00,Fisheries Advise,117.94592,-35.08678
-313,sighted,1,unknown sp.,2021-04-11T17:55:23,Public report,115.755,-31.9295
-314,sighted,1,unknown sp.,2021-04-11T13:58:27,SLS Westpac Heli report,115.745,-32.0356
-315,sighted,1,unknown sp.,2021-04-11T12:48:38,SLS Westpac Heli report,115.748,-32.0299
-316,sighted,1,unknown sp.,2021-04-10T15:21:10,SLS Westpac Heli report,115.027,-33.6324
-317,sighted,1,unknown sp.,2021-04-10T14:51:22,SLS Westpac Heli report,115.106,-33.6077
-318,sighted,1,unknown sp.,2021-04-10T11:06:24,SLS Westpac Heli report,115.04,-34.2047
-319,sighted,1,unknown sp.,2021-04-10T10:49:02,SLS Westpac Heli report,115.034,-34.1759
-320,sighted,1,unknown sp.,2021-04-10T10:30:49,SLS Westpac Heli report,115.749,-32.0289
-321,sighted,1,unknown sp.,2021-04-10T10:05:23,SLS Westpac Heli report,114.991,-33.6806
-322,sighted,1,unknown sp.,2021-04-10T09:43:25,SLS Westpac Heli report,115.105,-33.6011
-323,sighted,1,unknown sp.,2021-04-10T09:23:45,SLS Westpac Heli report,115.745,-32.037
-324,sighted,1,unknown sp.,2021-04-10T08:44:19,SLS Lifesavers report,115.744,-32.0383
-325,sighted,1,bronze whaler,2021-04-09T16:19:42,Public report,115.343,-33.6355
-326,sighted,1,unknown sp.,2021-04-09T15:35:42,SLS Westpac Heli report,115.123,-33.6227
-327,sighted,1,bronze whaler,2021-04-09T12:22:11,Public report,115.04,-33.5452
-328,sighted,1,tiger,2021-04-09T11:29:46,SLS Westpac Heli report,115.079,-33.5637
-329,sighted,1,unknown sp.,2021-04-09T11:28:31,SLS Westpac Heli report,115.041,-33.5431
-330,sighted,1,bronze whaler,2021-04-09T11:03:52,Public report,115.04,-33.5452
-331,sighted,1,unknown sp.,2021-04-09T10:33:39,SLS Westpac Heli report,115.024,-34.2233
-332,sighted,1,unknown sp.,2021-04-09T09:09:04,Public report,115.008,-33.56
-333,sighted,1,unknown sp.,2021-04-08T15:18:43,SLS Westpac Heli report,115.744,-32.0391
-334,sighted,1,unknown sp.,2021-04-08T14:43:03,SLS Westpac Heli report,115.744,-32.0391
-335,sighted,1,unknown sp.,2021-04-08T10:25:16,SLS Westpac Heli report,115.654,-32.5798
-336,sighted,1,unknown sp.,2021-04-08T08:09:35,UPDATE to prior report,115.751,-31.9958
-337,sighted,1,unknown sp.,2021-04-08T07:58:46,Public report,115.751,-31.9958
-338,sighted,1,unknown sp.,2021-04-07T15:09:50,SLS Westpac Heli report,115.047,-33.5441
-339,sighted,1,unknown sp.,2021-04-07T11:53:23,Public report,115.744,-31.8286
-340,sighted,1,unknown sp.,2021-04-07T10:53:14,SLS Westpac Heli report,114.994,-33.7762
-341,sighted,1,unknown sp.,2021-04-07T10:23:33,SLS Westpac Heli report,115.0,-34.0133
-342,sighted,1,unknown sp.,2021-04-07T10:16:02,SLS Westpac Heli report,115.617,-31.5391
-344,caught & released,3,tiger,2021-04-07T08:55:00,SMART drumline trial,114.978,-33.8548
-345,sighted,1,tiger,2021-04-07T08:52:54,Public report,115.04,-33.5452
-346,sighted,1,unknown sp.,2021-04-07T08:40:09,Public report,114.614,-28.704
-347,sighted,1,unknown sp.,2021-04-07T08:30:54,Public report,117.918,-35.0249
-348,Detected,4,bronze whaler,2021-04-06T16:14:00,Fisheries Advise,121.87883,-33.882133
-349,sighted,1,unknown sp.,2021-04-06T15:29:32,SLS Westpac Heli report,115.272,-33.6566
-350,sighted,1,unknown sp.,2021-04-06T15:09:22,SLS Westpac Heli report,115.748,-32.0299
-351,sighted,1,unknown sp.,2021-04-06T14:57:02,SLS Westpac Heli report,115.751,-31.8767
-352,sighted,1,unknown sp.,2021-04-06T14:44:29,SLS Westpac Heli report,115.058,-33.5487
-353,sighted,1,unknown sp.,2021-04-06T13:45:00,Public report,115.302,-33.6547
-354,sighted,1,unknown sp.,2021-04-06T11:20:30,Public report,118.082,-34.9903
-355,sighted,1,tiger,2021-04-06T10:52:24,Public report,115.046,-30.5227
-356,sighted,1,unknown sp.,2021-04-06T10:01:59,SLS Westpac Heli report,114.979,-33.6977
-357,sighted,1,unknown sp.,2021-04-06T09:07:45,Public report,115.686,-32.2694
-358,"caught, relocated & released",6,tiger,2021-04-06T07:21:00,SMART drumline trial,114.987,-33.8482
-359,caught & released,3,tiger,2021-04-06T05:58:00,SMART drumline trial,114.981,-33.9091
-360,sighted,1,unknown sp.,2021-04-05T15:04:15,SLS Westpac Heli report,115.742,-32.0401
-361,sighted,1,unknown sp.,2021-04-05T15:01:18,SLS Westpac Heli report,115.009,-33.5525
-362,sighted,1,tiger,2021-04-05T11:23:05,Fisheries Advise,115.503,-31.991
-363,sighted,1,unknown sp.,2021-04-05T10:53:53,Public report,122.201,-17.9555
-364,sighted,1,hammerhead,2021-04-05T09:58:00,SLS Westpac Heli report,115.747,-32.4758
-365,caught & released,3,mako,2021-04-05T08:27:00,SMART drumline trial,114.978,-33.8548
-366,caught & released,3,tiger,2021-04-05T07:57:00,SMART drumline trial,114.99,-33.8244
-367,sighted,1,unknown sp.,2021-04-05T06:31:54,Public report,115.751,-31.9958
-368,caught & released,3,tiger,2021-04-05T02:21:00,SMART drumline trial,114.981,-33.9091
-369,sighted,1,tiger,2021-04-04T18:20:16,Public report,115.745,-32.0346
-371,caught & released,3,dusky,2021-04-04T03:03:00,SMART drumline trial,114.97,-33.8626
-372,sighted,1,white,2021-04-03T15:47:46,SLS Westpac Heli report,115.051,-33.5439
-373,sighted,1,white,2021-04-03T15:00:39,SLS Westpac Heli report,115.051,-33.5439
-374,sighted,1,unknown sp.,2021-04-03T14:56:15,SLS Westpac Heli report,115.756,-31.9452
-375,sighted,1,unknown sp.,2021-04-03T14:32:42,SLS Westpac Heli report,115.754,-31.9365
-376,sighted,1,unknown sp.,2021-04-03T14:22:13,Public report,115.754,-31.9365
-377,sighted,1,unknown sp.,2021-04-03T12:01:51,Public report,115.755,-31.8944
-378,sighted,1,blacktip,2021-04-03T09:30:59,Public report,115.621,-31.5451
-379,sighted,1,bronze whaler,2021-04-02T16:00:41,Public report,118.17,-34.955
-380,sighted,1,unknown sp.,2021-04-02T15:48:15,SLS Westpac Heli report,115.204,-33.651
-381,sighted,1,unknown sp.,2021-04-02T14:57:20,SLS Westpac Heli report,115.04,-33.5452
-382,sighted,1,unknown sp.,2021-04-02T11:31:39,SLS Westpac Heli report,114.992,-33.692
-383,sighted,1,unknown sp.,2021-04-02T11:14:33,SLS Westpac Heli report,114.992,-33.9354
-384,sighted,1,unknown sp.,2021-04-02T10:41:50,SLS Westpac Heli report,115.065,-34.2908
-385,sighted,1,unknown sp.,2021-04-02T10:36:14,SLS Westpac Heli report,115.036,-34.1915
-386,sighted,1,unknown sp.,2021-04-02T10:16:41,SLS Westpac Heli report,115.556,-32.0033
-387,sighted,1,hammerhead,2021-04-01T14:32:00,SLS Westpac Heli report,115.756,-31.9414
-388,sighted,1,mako,2021-04-01T10:28:08,Fisheries Advise,114.975,-33.8641
-389,caught & released,3,tiger,2021-04-01T04:52:00,SMART drumline trial,114.992,-33.8125
-390,sighted,1,unknown sp.,2021-03-31T14:00:11,Public report,117.899,-35.1166
-391,caught & released,3,tiger,2021-03-31T03:41:00,SMART drumline trial,114.992,-33.8125
-392,sighted,1,bull,2021-03-30T16:00:03,Public report,115.718,-32.5382
-393,sighted,1,unknown sp.,2021-03-30T14:20:20,Public report,121.85,-33.8884
-394,sighted,1,unknown sp.,2021-03-30T14:03:31,Public report,118.199,-34.9753
-395,sighted,1,white,2021-03-30T10:56:59,Public report,121.846,-33.887
-396,sighted,1,unknown sp.,2021-03-30T08:45:26,SLS Westpac Heli report,115.691,-32.2691
-397,sighted,1,unknown sp.,2021-03-29T15:48:35,SLS Westpac Heli report,115.751,-31.8767
-398,sighted,1,unknown sp.,2021-03-29T15:27:22,Public report,121.856,-33.8877
-399,sighted,1,unknown sp.,2021-03-29T14:54:18,Public report,122.233,-33.9946
-400,sighted,1,bronze whaler,2021-03-29T14:13:28,DBCA officers report,118.199,-34.9753
-401,sighted,1,unknown sp.,2021-03-29T10:24:51,Public report,115.858,-32.0346
-402,sighted,1,unknown sp.,2021-03-29T10:00:57,Public report,116.93,-35.0412
-403,sighted,1,unknown sp.,2021-03-29T09:16:01,Public report,117.796,-35.069
-404,sighted,1,unknown sp.,2021-03-28T16:23:29,SLS Lifesavers report,115.754,-31.8975
-405,sighted,1,unknown sp.,2021-03-28T14:52:38,SLS Westpac Heli report,115.104,-33.5921
-406,sighted,1,bronze whaler,2021-03-28T14:26:33,Public report,117.075,-35.0351
-407,sighted,1,unknown sp.,2021-03-28T10:30:23,Public report,115.786,-32.0106
-408,sighted,1,tiger,2021-03-28T09:52:48,Public report,117.799,-35.0675
-409,sighted,1,unknown sp.,2021-03-28T08:57:02,SLS Lifesavers report,115.749,-32.0265
-410,sighted,1,unknown sp.,2021-03-28T08:12:54,Public report,115.745,-32.0346
-411,sighted,1,unknown sp.,2021-03-27T13:40:00,Fisheries Advise,113.768,-23.1423
-412,sighted,1,unknown sp.,2021-03-27T12:20:01,Fisheries Advise,113.768,-23.1423
-413,sighted,1,unknown sp.,2021-03-27T11:30:25,Public report,115.065,-34.2908
-414,sighted,1,bronze whaler,2021-03-27T10:30:11,Public report,122.233,-33.9946
-415,sighted,1,unknown sp.,2021-03-27T09:42:59,Public report,117.775,-35.0595
-416,Detected,4,white,2021-03-27T00:56:00,Fisheries Advise,121.827742,-33.897738
-417,Detected,4,white,2021-03-27T00:40:00,Fisheries Advise,121.828767,-33.892958
-418,Detected,4,white,2021-03-27T00:33:00,Fisheries Advise,121.828767,-33.892958
-419,Detected,4,white,2021-03-27T00:28:00,Fisheries Advise,121.828767,-33.892958
-420,sighted,1,unknown sp.,2021-03-26T13:11:45,Public report,121.823,-33.894
-421,sighted,1,unknown sp.,2021-03-26T09:20:01,Public report,122.301,-33.9432
-422,sighted,1,unknown sp.,2021-03-25T13:19:56,Public report,115.026,-33.6211
-423,sighted,1,unknown sp.,2021-03-25T12:00:15,Public report,118.199,-34.9753
-424,sighted,1,unknown sp.,2021-03-25T09:40:04,SLS Westpac Heli report,115.755,-31.9656
-425,sighted,1,unknown sp.,2021-03-25T08:41:58,SLS Westpac Heli report,115.66,-31.6087
-426,Detected,4,white,2021-03-24T22:46:00,Fisheries Advise,121.87883,-33.882133
-427,Detected,4,white,2021-03-24T22:41:00,Fisheries Advise,121.87883,-33.882133
-428,Detected,4,white,2021-03-24T17:12:00,Fisheries Advise,121.828767,-33.892958
-429,caught & released,3,tiger,2021-03-24T01:09:00,SMART drumline trial,114.97,-33.8626
-430,caught & released,3,tiger,2021-03-23T04:15:00,SMART drumline trial,114.99,-33.8244
-431,"caught, relocated & released",6,tiger,2021-03-23T01:36:00,SMART drumline trial,114.981,-33.9091
-432,sighted,1,unknown sp.,2021-03-22T14:40:49,Public report,121.856,-33.8877
-433,sighted,1,unknown sp.,2021-03-21T15:32:03,SLS Westpac Heli report,115.542,-31.9899
-434,sighted,1,white,2021-03-21T14:45:46,Public report,121.85,-33.8884
-435,sighted,1,unknown sp.,2021-03-21T14:17:43,SLS Westpac Heli report,114.982,-33.9609
-436,sighted,1,bronze whaler,2021-03-21T12:49:48,Public report,121.85,-33.8884
-437,sighted,1,white,2021-03-21T12:42:06,Public report,121.85,-33.8884
-438,sighted,1,unknown sp.,2021-03-21T11:30:21,SLS Westpac Heli report,115.085,-33.5658
-439,sighted,1,bronze whaler,2021-03-21T10:52:26,SLS Westpac Heli report,114.992,-33.9473
-440,sighted,1,bronze whaler,2021-03-21T09:00:36,Public report,122.233,-33.9946
-441,caught & released,3,dusky,2021-03-21T01:13:00,SMART drumline trial,114.981,-33.9091
-442,sighted,1,white,2021-03-20T16:00:26,Public report,122.202,-34.0026
-443,sighted,1,unknown sp.,2021-03-20T15:23:45,SLS Westpac Heli report,115.105,-33.6011
-444,sighted,1,unknown sp.,2021-03-20T15:10:19,Public report,115.023,-33.6371
-445,sighted,1,unknown sp.,2021-03-20T14:15:38,Public report,116.931,-35.0408
-446,sighted,1,unknown sp.,2021-03-20T11:59:31,Public report,115.749,-32.0265
-447,sighted,1,unknown sp.,2021-03-20T11:27:13,SLS Westpac Heli report,115.127,-33.6251
-448,sighted,1,unknown sp.,2021-03-20T11:15:24,SLS Westpac Heli report,115.051,-33.5439
-449,sighted,1,bronze whaler,2021-03-20T10:01:31,SLS Westpac Heli report,114.982,-33.9609
-450,sighted,1,bronze whaler,2021-03-19T11:50:52,Public report,121.858,-33.8879
-451,sighted,1,unknown sp.,2021-03-19T10:27:00,SLS Westpac Heli report,115.745,-32.0356
-452,sighted,1,unknown sp.,2021-03-19T07:43:29,Public report,115.745,-32.0346
-453,caught & released,3,mako,2021-03-19T02:49:00,SMART drumline trial,114.97,-33.8626
-454,sighted,1,unknown sp.,2021-03-18T14:57:00,SLS Westpac Heli report,115.756,-31.9245
-455,sighted,1,unknown sp.,2021-03-18T11:09:23,Public report,122.201,-17.9555
-456,sighted,1,unknown sp.,2021-03-17T14:39:48,SLS Westpac Heli report,115.756,-31.9269
-457,sighted,1,bronze whaler,2021-03-17T13:45:26,Public report,117.354,-34.9933
-458,sighted,1,unknown sp.,2021-03-16T15:40:56,Public report,121.822,-33.8952
-459,sighted,1,unknown sp.,2021-03-16T08:34:08,Public report,115.89,-32.0204
-461,caught & released,3,mako,2021-03-16T06:53:00,SMART drumline trial,114.97,-33.8626
-462,sighted,1,unknown sp.,2021-03-15T15:10:24,Public report,115.019,-33.6556
-463,sighted,1,unknown sp.,2021-03-15T14:36:31,Public report,115.024,-33.6464
-464,sighted,1,tiger,2021-03-14T15:27:16,SLS Westpac Heli report,115.127,-33.6251
-465,sighted,1,bronze whaler,2021-03-14T15:24:47,SLS Westpac Heli report,115.123,-33.6227
-466,sighted,1,unknown sp.,2021-03-14T15:17:24,SLS Westpac Heli report,115.542,-31.9899
-467,sighted,1,unknown sp.,2021-03-14T15:13:48,SLS Westpac Heli report,115.058,-33.5457
-468,sighted,1,bronze whaler,2021-03-14T14:24:37,SLS Westpac Heli report,114.982,-33.9609
-469,sighted,1,bronze whaler,2021-03-14T14:22:19,SLS Westpac Heli report,114.992,-33.9466
-470,sighted,1,unknown sp.,2021-03-14T13:35:44,SLS Westpac Heli report,115.311,-33.654
-471,sighted,1,unknown sp.,2021-03-14T11:24:36,Public report,115.525,-32.0243
-472,sighted,1,unknown sp.,2021-03-14T09:31:02,SLS Westpac Heli report,115.085,-33.5658
-473,caught & released,3,dusky,2021-03-14T08:39:00,SMART drumline trial,114.978,-33.8548
-475,sighted,1,unknown sp.,2021-03-13T12:32:17,Public report,115.713,-33.2786
-476,sighted,1,bull,2021-03-13T08:40:42,Public report,122.18,-17.974
-477,caught & released,3,mako,2021-03-13T06:07:00,SMART drumline trial,114.978,-33.8548
-478,caught & released,3,mako,2021-03-13T02:55:00,SMART drumline trial,114.97,-33.8626
-479,sighted,1,unknown sp.,2021-03-12T10:29:00,SLS Westpac Heli report,115.694,-32.53
-480,sighted,1,white,2021-03-11T14:40:48,Public report,121.823,-33.894
-481,sighted,1,unknown sp.,2021-03-11T12:50:07,Public report,121.843,-33.887
-482,sighted,1,unknown sp.,2021-03-11T10:01:54,Public report,115.731,-32.3627
-483,sighted,1,unknown sp.,2021-03-11T10:00:21,UPDATE to prior report,115.731,-32.3627
-484,sighted,1,bronze whaler,2021-03-11T09:27:53,Public report,115.015,-33.6603
-485,caught & released,3,bronze whaler,2021-03-11T02:10:00,SMART drumline trial,114.978,-33.8548
-486,caught & released,3,tiger,2021-03-11T01:27:00,SMART drumline trial,114.981,-33.9091
-487,sighted,1,unknown sp.,2021-03-10T17:29:09,SLS Lifesavers report,115.754,-31.9365
-488,sighted,1,bronze whaler,2021-03-10T16:07:56,Public report,121.85,-33.8884
-489,sighted,1,white,2021-03-10T15:03:30,Public report,121.823,-33.894
-490,sighted,1,unknown sp.,2021-03-10T14:58:57,SLS Westpac Heli report,115.755,-31.8944
-491,sighted,1,white,2021-03-10T14:51:07,Public report,121.795,-33.909
-492,sighted,1,white,2021-03-10T13:22:04,Public report,115.001,-34.0433
-493,sighted,1,unknown sp.,2021-03-09T11:21:28,Public report,115.751,-32.0189
-494,sighted,1,unknown sp.,2021-03-09T09:07:49,Public report,115.858,-32.0346
-495,sighted,1,unknown sp.,2021-03-09T08:47:23,Public report,114.99,-33.985
-496,caught & released,3,tiger,2021-03-09T01:08:00,SMART drumline trial,114.97,-33.8626
-497,sighted,1,white,2021-03-08T18:30:54,Public report,114.979,-33.7001
-498,sighted,1,unknown sp.,2021-03-08T15:09:00,SLS Westpac Heli report,115.653,-31.5983
-499,sighted,1,unknown sp.,2021-03-08T15:06:42,SLS Westpac Heli report,115.625,-31.5512
-501,caught & released,3,tiger,2021-03-08T01:41:00,SMART drumline trial,114.992,-33.8125
-502,sighted,1,white,2021-03-07T10:30:49,DBCA officers report,115.691,-32.3055
-503,sighted,1,unknown sp.,2021-03-07T10:07:25,Public report,121.985,-33.8298
-504,caught & released,3,bronze whaler,2021-03-07T04:25:00,SMART drumline trial,114.975,-33.8737
-505,sighted,1,unknown sp.,2021-03-06T12:10:08,Public report,114.597,-28.7904
-507,sighted,1,unknown sp.,2021-03-06T09:42:22,Public report,115.524,-32.0249
-508,sighted,1,unknown sp.,2021-03-06T08:34:32,Public report,115.617,-33.357
-509,sighted,1,unknown sp.,2021-03-06T07:33:58,Public report,115.382,-31.119
-510,sighted,1,unknown sp.,2021-03-05T20:00:35,Public report,114.978,-29.9455
-511,sighted,1,unknown sp.,2021-03-05T11:18:13,Public report,122.176,-17.9733
-512,sighted,1,unknown sp.,2021-03-05T07:55:38,Public report,115.733,-31.814
-513,sighted,1,unknown sp.,2021-03-04T12:27:12,Public report,114.992,-33.9841
-514,sighted,1,unknown sp.,2021-03-03T15:06:10,SLS Westpac Heli report,115.754,-31.96
-515,sighted,1,bronze whaler,2021-03-03T08:00:00,Public report,114.997,-34.0051
-516,caught & released,3,mako,2021-03-03T01:51:00,SMART drumline trial,114.97,-33.8626
-517,sighted,1,unknown sp.,2021-03-02T16:34:15,Public report,115.02,-33.6466
-518,sighted,1,white,2021-03-02T13:05:56,Public report,115.521,-31.9784
-519,sighted,1,bronze whaler,2021-03-02T11:12:27,Public report,114.997,-34.0051
-520,caught & released,3,tiger,2021-03-02T06:49:00,SMART drumline trial,114.989,-33.8367
-521,caught & released,3,tiger,2021-03-02T04:06:00,SMART drumline trial,114.989,-33.8367
-522,caught & released,3,tiger,2021-03-02T02:35:00,SMART drumline trial,114.981,-33.9091
-523,sighted,1,unknown sp.,2021-03-01T14:50:29,UPDATE to prior report,115.755,-31.9792
-524,sighted,1,unknown sp.,2021-03-01T14:50:20,SLS Westpac Heli report,115.755,-31.9792
-525,sighted,1,bronze whaler,2021-03-01T10:41:24,SLS Westpac Heli report,115.015,-33.6603
-526,sighted,1,unknown sp.,2021-03-01T08:00:44,Public report,115.621,-31.5451
-527,sighted,1,bronze whaler,2021-02-28T16:30:48,Public report,115.136,-34.3767
-528,sighted,1,white,2021-02-28T13:00:21,Public report,115.662,-32.1144
-529,sighted,1,unknown sp.,2021-02-28T08:15:32,Public report,115.484,-32.0071
-531,sighted,1,unknown sp.,2021-02-27T16:03:36,SLS Westpac Heli report,115.204,-33.651
-532,sighted,1,unknown sp.,2021-02-25T11:44:05,Public report,114.996,-33.9998
-533,sighted,1,unknown sp.,2021-02-24T21:15:50,Public report,115.866,-31.9744
-534,sighted,1,unknown sp.,2021-02-24T20:20:05,UPDATE to prior report,115.866,-31.9744
-536,sighted,1,tiger,2021-02-24T15:48:58,Fisheries Advise,114.998,-33.6701
-537,sighted,1,unknown sp.,2021-02-24T11:42:38,Public report,115.755,-31.9295
-538,sighted,1,unknown sp.,2021-02-24T08:39:36,Public report,115.853,-32.0111
-539,Detected,4,bronze whaler,2021-02-24T02:53:00,Fisheries Advise,121.87883,-33.882133
-540,sighted,1,unknown sp.,2021-02-23T18:05:44,Public report,121.906,-33.8614
-541,sighted,1,unknown sp.,2021-02-23T15:53:54,SLS Westpac Heli report,115.508,-32.0174
-542,sighted,1,unknown sp.,2021-02-23T15:50:52,SLS Westpac Heli report,115.508,-32.0174
-543,sighted,1,unknown sp.,2021-02-23T15:44:00,SLS Westpac Heli report,115.491,-31.9992
-544,sighted,1,unknown sp.,2021-02-23T11:45:22,Public report,115.03,-33.635
-545,sighted,1,unknown sp.,2021-02-23T10:17:26,SLS Westpac Heli report,115.717,-32.5208
-546,caught & released,3,bronze whaler,2021-02-23T07:26:00,SMART drumline trial,114.978,-33.8852
-547,"caught, relocated & released",6,tiger,2021-02-23T03:54:00,SMART drumline trial,114.989,-33.8367
-548,sighted,1,unknown sp.,2021-02-22T15:41:23,SLS Westpac Heli report,115.56,-32.0024
-549,sighted,1,hammerhead,2021-02-22T13:32:13,SLS Westpac Heli report,115.756,-31.9342
-550,sighted,1,white,2021-02-22T12:30:11,Public report,115.664,-32.1221
-551,sighted,1,hammerhead,2021-02-21T15:48:05,SLS Westpac Heli report,115.751,-31.8767
-552,sighted,1,unknown sp.,2021-02-20T15:16:34,SLS Westpac Heli report,115.111,-33.613
-553,sighted,1,bull,2021-02-20T13:30:11,Public report,117.945,-35.0627
-554,sighted,1,unknown sp.,2021-02-20T12:18:24,SLS Westpac Heli report,115.028,-34.2211
-555,sighted,1,unknown sp.,2021-02-20T12:09:18,SLS Westpac Heli report,115.744,-31.8286
-556,sighted,1,unknown sp.,2021-02-20T10:20:48,Public report,115.556,-31.991
-557,sighted,1,bronze whaler,2021-02-20T09:40:44,SLS Westpac Heli report,115.668,-31.9988
-558,sighted,1,bronze whaler,2021-02-20T09:40:08,UPDATE to prior report,115.668,-31.9988
-559,sighted,1,white,2021-02-20T09:00:20,Fisheries Advise,114.148,-21.9563
-560,sighted,1,unknown sp.,2021-02-20T07:43:53,Public report,115.735,-32.0553
-561,sighted,1,bull,2021-02-20T00:21:10,Public report,115.853,-32.0111
-562,sighted,1,white,2021-02-19T19:37:47,Public report,115.749,-32.0265
-563,sighted,1,unknown sp.,2021-02-19T17:48:13,Public report,115.754,-31.96
-564,sighted,1,unknown sp.,2021-02-19T17:19:43,Public report,115.855,-32.0232
-565,sighted,1,bronze whaler,2021-02-19T15:21:19,Public report,122.233,-33.9946
-566,sighted,1,white,2021-02-19T15:00:00,Public report,117.17,-35.0255
-567,sighted,1,bronze whaler,2021-02-19T13:15:38,Fisheries Advise,115.028,-34.2208
-568,sighted,1,bull,2021-02-19T12:50:00,Public report,115.792,-32.0133
-569,sighted,1,bull,2021-02-19T11:30:45,Public report,115.792,-32.0133
-570,sighted,1,tiger,2021-02-17T16:12:23,Public report,115.04,-30.2943
-571,sighted,1,unknown sp.,2021-02-17T15:56:40,SLS Westpac Heli report,115.753,-32.0842
-572,sighted,1,unknown sp.,2021-02-17T15:23:02,SLS Westpac Heli report,115.755,-31.8944
-573,sighted,1,unknown sp.,2021-02-17T06:40:10,Public report,115.901,-32.0253
-574,sighted,1,bull,2021-02-17T04:00:00,Public report,115.853,-32.0111
-575,sighted,1,unknown sp.,2021-02-16T16:10:51,Public report,115.755,-31.9295
-576,sighted,1,unknown sp.,2021-02-16T15:58:00,SLS Westpac Heli report,115.555,-32.0055
-577,sighted,1,unknown sp.,2021-02-16T15:20:33,Public report,116.738,-35.0291
-578,sighted,1,bull,2021-02-15T10:55:49,Public report,115.78,-32.0058
-579,sighted,1,unknown sp.,2021-02-15T10:47:08,SLS Westpac Heli report,115.542,-31.9919
-580,sighted,1,unknown sp.,2021-02-15T10:26:46,SLS Westpac Heli report,115.457,-32.0254
-581,sighted,1,unknown sp.,2021-02-14T15:44:20,SLS Westpac Heli report,115.292,-33.6563
-582,sighted,1,unknown sp.,2021-02-14T12:36:16,SLS Westpac Heli report,114.992,-33.9473
-583,sighted,1,tiger,2021-02-14T11:23:38,SLS Westpac Heli report,115.1,-33.5834
-584,sighted,1,unknown sp.,2021-02-14T09:43:44,SLS Westpac Heli report,115.02,-33.6466
-586,caught & released,3,tiger,2021-02-14T06:48:00,SMART drumline trial,114.99,-33.8244
-587,sighted,1,unknown sp.,2021-02-13T17:30:52,Public report,115.708,-32.5208
-588,sighted,1,white,2021-02-13T15:56:26,SLS Westpac Heli report,115.085,-33.5658
-589,Detected,4,white,2021-02-13T15:37:00,Fisheries Advise,115.093091,-33.57247
-590,Detected,4,white,2021-02-13T15:31:00,Fisheries Advise,115.093091,-33.57247
-591,sighted,1,unknown sp.,2021-02-13T15:00:16,Public report,115.1,-33.5834
-592,sighted,1,tiger,2021-02-13T11:45:31,SLS Westpac Heli report,115.653,-31.5983
-593,sighted,1,unknown sp.,2021-02-13T11:39:28,Fisheries Advise,115.028,-34.2208
-594,"caught, relocated & released",6,tiger,2021-02-13T02:10:00,SMART drumline trial,114.98,-33.8975
-595,sighted,1,unknown sp.,2021-02-12T18:34:19,Public report,122.18,-17.974
-596,sighted,1,unknown sp.,2021-02-12T10:50:37,Public report,122.201,-17.9555
-597,sighted,1,hammerhead,2021-02-10T15:56:25,Public report,119.439,-34.4057
-599,sighted,1,tiger,2021-02-09T18:00:28,DBCA officers report,114.052,-21.8364
-600,sighted,1,bronze whaler,2021-02-09T15:58:27,Public report,117.331,-35.0293
-601,sighted,1,unknown sp.,2021-02-09T12:20:17,Public report,122.18,-17.974
-602,sighted,1,unknown sp.,2021-02-09T10:24:27,SLS Westpac Heli report,115.691,-32.2691
-603,sighted,1,unknown sp.,2021-02-09T07:47:28,Public report,115.715,-32.5194
-604,sighted,1,bronze whaler,2021-02-08T16:30:36,Public report,115.032,-33.5369
-605,sighted,1,unknown sp.,2021-02-08T16:00:52,Public report,115.855,-32.0232
-606,sighted,1,unknown sp.,2021-02-07T16:00:06,Public report,114.607,-28.6815
-607,caught & released,3,tiger,2021-02-07T03:15:00,SMART drumline trial,114.987,-33.8482
-608,sighted,1,unknown sp.,2021-02-06T15:42:18,SLS Westpac Heli report,115.015,-33.6603
-609,sighted,1,unknown sp.,2021-02-06T13:16:12,SLS Westpac Heli report,115.015,-33.6603
-610,sighted,1,unknown sp.,2021-02-06T13:15:24,SLS Westpac Heli report,115.027,-33.6372
-611,sighted,1,unknown sp.,2021-02-06T11:49:16,SLS Westpac Heli report,115.02,-33.6488
-612,sighted,1,unknown sp.,2021-02-06T11:45:59,SLS Westpac Heli report,115.027,-33.6372
-613,sighted,1,tiger,2021-02-06T11:31:43,SLS Westpac Heli report,115.105,-33.605
-614,sighted,1,white,2021-02-06T10:30:00,UPDATE to prior report,114.614,-28.704
-615,sighted,1,tiger,2021-02-06T09:54:53,SLS Westpac Heli report,115.127,-33.6251
-616,sighted,1,unknown sp.,2021-02-06T09:40:52,SLS Westpac Heli report,115.027,-33.6372
-617,sighted,1,unknown sp.,2021-02-06T09:31:43,SLS Westpac Heli report,114.979,-33.6977
-618,sighted,1,white,2021-02-06T08:30:37,Public report,114.614,-28.704
-619,caught & released,3,bronze whaler,2021-02-06T06:15:00,SMART drumline trial,114.981,-33.9091
-620,caught & released,3,tiger,2021-02-06T05:07:00,SMART drumline trial,114.98,-33.8975
-621,sighted,1,tiger,2021-02-05T15:07:48,SLS Westpac Heli report,115.748,-32.0146
-622,sighted,1,unknown sp.,2021-02-05T11:50:15,Public report,115.686,-32.2694
-623,sighted,1,tiger,2021-02-05T11:31:01,SLS Westpac Heli report,115.758,-31.9161
-624,sighted,1,unknown sp.,2021-02-04T18:00:02,Public report,114.99,-33.985
-625,sighted,1,unknown sp.,2021-02-04T14:30:15,Public report,115.744,-32.4855
-626,sighted,1,unknown sp.,2021-02-04T11:20:49,Public report,115.733,-31.814
-627,sighted,1,white,2021-02-04T09:38:52,Public report,115.001,-34.0433
-628,sighted,1,bull,2021-02-04T07:30:14,Public report,115.901,-32.0281
-629,sighted,1,unknown sp.,2021-02-03T13:57:24,SLS Lifesavers report,115.756,-31.9392
-630,sighted,1,bull,2021-02-03T10:02:38,Public report,115.741,-33.299
-632,sighted,1,bull,2021-02-02T15:28:42,Public report,115.833,-32.0046
-633,sighted,1,white,2021-02-02T15:00:45,Public report,122.233,-33.9946
-634,sighted,1,unknown sp.,2021-02-02T14:51:10,Public report,115.763,-32.1076
-635,sighted,1,unknown sp.,2021-02-02T12:30:36,Public report,117.334,-35.0261
-636,sighted,1,unknown sp.,2021-02-02T10:53:47,Public report,115.176,-34.3254
-637,sighted,1,unknown sp.,2021-02-02T09:42:38,SLS Westpac Heli report,115.756,-31.9432
-638,sighted,1,unknown sp.,2021-02-02T09:39:28,Public report,115.718,-32.3058
-639,sighted,1,tiger,2021-02-01T14:57:34,SLS Westpac Heli report,115.686,-32.2694
-640,sighted,1,bronze whaler,2021-02-01T09:20:56,Public report,116.931,-35.0408
-641,sighted,1,tiger,2021-01-31T11:53:00,SLS Westpac Heli report,115.037,-33.5433
-642,sighted,1,white,2021-01-31T11:25:34,Public report,114.561,-28.546
-643,sighted,1,white,2021-01-31T11:19:28,Public report,114.561,-28.546
-644,sighted,1,unknown sp.,2021-01-31T10:30:26,Public report,115.556,-31.991
-645,sighted,1,unknown sp.,2021-01-31T08:04:38,Public report,115.472,-32.0132
-646,tagged & released,2,white,2021-01-31T08:00:58,Fisheries Advise,122.833,-33.9084
-647,caught & released,3,tiger,2021-01-31T02:29:00,SMART drumline trial,114.975,-33.8737
-648,Detected,4,white,2021-01-31T00:49:00,Fisheries Advise,115.093091,-33.57247
-649,sighted,1,hammerhead,2021-01-30T14:49:22,SLS Westpac Heli report,115.757,-31.9196
-650,sighted,1,unknown sp.,2021-01-30T14:45:52,SLS Lifesavers report,117.33,-35.0297
-651,sighted,1,unknown sp.,2021-01-30T14:29:06,SLS Westpac Heli report,114.99,-33.985
-652,sighted,1,unknown sp.,2021-01-30T10:30:39,Public report,114.987,-33.8639
-653,tagged & released,2,white,2021-01-30T09:30:44,Fisheries Advise,122.836,-33.9059
-654,sighted,1,unknown sp.,2021-01-30T08:30:07,Public report,115.792,-32.0133
-655,sighted,1,unknown sp.,2021-01-30T06:50:02,Public report,115.745,-32.1342
-656,sighted,1,bull,2021-01-29T23:15:14,Public report,115.853,-32.0111
-657,Detected,4,white,2021-01-29T21:19:00,Fisheries Advise,115.093091,-33.57247
-658,Detected,4,white,2021-01-29T21:14:00,Fisheries Advise,115.093091,-33.57247
-659,Detected,4,white,2021-01-29T19:50:00,Fisheries Advise,115.093091,-33.57247
-660,sighted,1,unknown sp.,2021-01-29T13:42:09,Public report,116.93,-35.0412
-662,sighted,1,tiger,2021-01-29T10:01:03,SLS Westpac Heli report,115.058,-33.5487
-663,Detected,4,white,2021-01-29T05:14:00,Fisheries Advise,115.093091,-33.57247
-664,Detected,4,white,2021-01-29T03:00:00,Fisheries Advise,115.045567,-33.542016
-665,Detected,4,white,2021-01-29T02:54:00,Fisheries Advise,115.045567,-33.542016
-666,Detected,4,white,2021-01-28T21:32:00,Fisheries Advise,115.093091,-33.57247
-667,Detected,4,white,2021-01-28T21:26:00,Fisheries Advise,115.093091,-33.57247
-668,sighted,1,unknown sp.,2021-01-28T16:03:28,Public report,115.745,-32.1366
-669,sighted,1,unknown sp.,2021-01-28T13:14:53,SLS Westpac Heli report,115.755,-31.8944
-670,sighted,1,unknown sp.,2021-01-28T12:00:16,Public report,117.368,-34.9724
-671,sighted,1,unknown sp.,2021-01-28T10:38:29,SLS Westpac Heli report,115.027,-34.1641
-672,sighted,1,unknown sp.,2021-01-28T10:26:41,DBCA officers report,115.556,-31.991
-673,sighted,1,unknown sp.,2021-01-28T10:02:25,SLS Westpac Heli report,114.992,-33.9473
-674,sighted,1,unknown sp.,2021-01-28T09:13:17,SLS Westpac Heli report,115.226,-33.6553
-675,Detected,4,white,2021-01-27T23:51:00,Fisheries Advise,115.093091,-33.57247
-676,Detected,4,white,2021-01-27T23:45:00,Fisheries Advise,115.093091,-33.57247
-677,Detected,4,white,2021-01-27T20:00:00,Fisheries Advise,115.045567,-33.542016
-678,Detected,4,white,2021-01-27T18:54:00,Fisheries Advise,115.037667,-33.539567
-679,Detected,4,white,2021-01-27T18:50:00,Fisheries Advise,115.045567,-33.542016
-680,Detected,4,white,2021-01-27T18:48:00,Fisheries Advise,115.045567,-33.542016
-681,Detected,4,white,2021-01-27T18:42:00,Fisheries Advise,115.045567,-33.542016
-682,sighted,1,unknown sp.,2021-01-27T16:20:40,Public report,117.945,-35.0922
-683,sighted,1,unknown sp.,2021-01-27T16:07:56,SLS Westpac Heli report,115.746,-32.033
-684,sighted,1,tiger,2021-01-27T14:48:47,UPDATE to prior report,115.745,-32.0364
-685,sighted,1,white,2021-01-27T14:11:56,SLS Westpac Heli report,115.745,-32.0364
-686,Detected,4,bronze whaler,2021-01-27T13:42:00,Fisheries Advise,121.87883,-33.882133
-687,Detected,4,bronze whaler,2021-01-27T13:14:00,Fisheries Advise,121.87883,-33.882133
-688,sighted,1,unknown sp.,2021-01-27T12:25:20,SLS Westpac Heli report,115.745,-32.0364
-689,sighted,1,unknown sp.,2021-01-27T12:12:13,Public report,115.749,-32.0265
-690,sighted,1,unknown sp.,2021-01-27T12:09:04,Public report,115.745,-32.0346
-691,sighted,1,unknown sp.,2021-01-27T11:55:09,Public report,115.749,-32.0265
-692,sighted,1,unknown sp.,2021-01-27T11:48:52,SLS Westpac Heli report,115.542,-31.9899
-693,sighted,1,unknown sp.,2021-01-27T11:19:06,SLS Westpac Heli report,115.047,-33.5441
-694,sighted,1,bull,2021-01-27T06:45:00,Public report,115.763,-32.0269
-695,"caught, relocated & released",6,tiger,2021-01-27T03:21:00,SMART drumline trial,114.992,-33.8125
-696,sighted,1,unknown sp.,2021-01-26T16:49:13,Public report,117.629,-35.1107
-697,sighted,1,unknown sp.,2021-01-26T15:13:15,SLS Westpac Heli report,115.256,-33.6567
-698,sighted,1,unknown sp.,2021-01-26T15:00:13,Public report,114.99,-33.985
-699,sighted,1,unknown sp.,2021-01-26T14:46:53,Public report,115.095,-33.5811
-700,sighted,1,unknown sp.,2021-01-26T12:46:41,SLS Westpac Heli report,114.992,-33.9473
-701,sighted,1,unknown sp.,2021-01-26T11:09:07,Public report,117.629,-35.1087
-702,sighted,1,unknown sp.,2021-01-26T11:08:08,Public report,115.111,-33.613
-703,sighted,1,tiger,2021-01-26T10:40:51,Public report,115.484,-32.0168
-704,sighted,1,tiger,2021-01-26T09:02:40,Public report,115.105,-33.6011
-705,sighted,1,unknown sp.,2021-01-26T08:38:04,Public report,122.233,-33.9946
-706,caught & released,3,tiger,2021-01-26T08:22:00,SMART drumline trial,114.978,-33.8852
-707,caught & released,3,tiger,2021-01-26T07:40:00,SMART drumline trial,114.987,-33.8482
-708,caught & released,3,tiger,2021-01-26T06:59:00,SMART drumline trial,114.99,-33.8244
-709,"caught, relocated & released",6,tiger,2021-01-26T06:39:00,SMART drumline trial,114.97,-33.8626
-710,Detected,4,white,2021-01-26T00:10:00,Fisheries Advise,115.093091,-33.57247
-711,Detected,4,white,2021-01-26T00:01:00,Fisheries Advise,115.093091,-33.57247
-712,Detected,4,bronze whaler,2021-01-25T19:38:00,Fisheries Advise,115.093091,-33.57247
-713,Detected,4,white,2021-01-25T18:57:00,Fisheries Advise,115.093091,-33.57247
-714,sighted,1,unknown sp.,2021-01-25T17:07:57,Public report,115.75,-32.1198
-715,sighted,1,unknown sp.,2021-01-25T15:27:03,SLS Westpac Heli report,115.498,-32.0158
-716,sighted,1,unknown sp.,2021-01-25T14:43:56,SLS Westpac Heli report,115.204,-33.651
-717,sighted,1,unknown sp.,2021-01-25T13:54:34,Public report,114.99,-33.985
-718,sighted,1,unknown sp.,2021-01-25T13:03:32,Public report,114.986,-33.9761
-719,sighted,1,unknown sp.,2021-01-25T12:20:10,Public report,121.843,-33.887
-720,sighted,1,unknown sp.,2021-01-25T12:01:06,SLS Westpac Heli report,115.542,-31.9899
-721,sighted,1,unknown sp.,2021-01-25T10:54:14,Public report,121.843,-33.887
-722,sighted,1,bronze whaler,2021-01-25T10:34:53,Public report,115.546,-31.9979
-723,sighted,1,unknown sp.,2021-01-25T09:27:33,Public report,121.873,-33.8793
-724,sighted,1,white,2021-01-25T09:20:00,Public report,115.256,-33.6567
-725,Detected,4,white,2021-01-24T22:33:00,Fisheries Advise,115.093091,-33.57247
-726,Detected,4,white,2021-01-24T22:27:00,Fisheries Advise,115.093091,-33.57247
-727,Detected,4,white,2021-01-24T22:22:00,Fisheries Advise,115.093091,-33.57247
-728,Detected,4,white,2021-01-24T21:54:00,Fisheries Advise,115.093091,-33.57247
-729,sighted,1,bronze whaler,2021-01-24T15:15:57,DBCA officers report,122.233,-33.9946
-730,sighted,1,unknown sp.,2021-01-24T14:54:46,SLS Westpac Heli report,114.996,-33.6703
-731,Detected,4,bronze whaler,2021-01-24T14:32:00,Fisheries Advise,121.87883,-33.882133
-732,Detected,4,bronze whaler,2021-01-24T14:32:00,Fisheries Advise,121.87883,-33.882133
-733,sighted,1,unknown sp.,2021-01-24T12:32:50,Public report,121.897,-33.8564
-734,sighted,1,bull,2021-01-24T09:10:11,Public report,115.679,-31.7802
-735,sighted,1,unknown sp.,2021-01-24T07:55:10,Public report,115.882,-31.9653
-736,sighted,1,white,2021-01-24T06:30:53,Public report,115.716,-31.7589
-737,caught & released,3,bronze whaler,2021-01-24T04:40:00,SMART drumline trial,114.987,-33.8482
-738,caught & released,3,tiger,2021-01-24T03:23:00,SMART drumline trial,114.981,-33.9091
-739,sighted,1,unknown sp.,2021-01-23T14:21:40,Public report,119.381,-34.3867
-740,sighted,1,unknown sp.,2021-01-23T14:15:43,SLS Westpac Heli report,115.024,-34.2233
-741,sighted,1,tiger,2021-01-23T14:01:47,Public report,115.519,-31.9804
-742,sighted,1,bronze whaler,2021-01-23T13:58:38,SLS Westpac Heli report,114.982,-33.9609
-743,sighted,1,bull,2021-01-23T12:42:18,Public report,115.853,-32.0111
-744,sighted,1,unknown sp.,2021-01-23T11:25:57,SLS Westpac Heli report,115.536,-31.9896
-745,sighted,1,hammerhead,2021-01-23T05:42:42,Public report,117.331,-35.0293
-746,caught & released,3,tiger,2021-01-23T02:50:00,SMART drumline trial,114.978,-33.8548
-747,sighted,1,unknown sp.,2021-01-22T16:04:24,SLS Westpac Heli report,115.226,-33.6531
-748,sighted,1,unknown sp.,2021-01-22T15:45:54,SLS Westpac Heli report,115.682,-34.4928
-749,sighted,1,hammerhead,2021-01-22T15:01:32,SLS Westpac Heli report,115.047,-33.5441
-750,sighted,1,unknown sp.,2021-01-22T15:00:44,SLS Westpac Heli report,115.04,-33.5452
-751,sighted,1,hammerhead,2021-01-22T15:00:41,SLS Westpac Heli report,115.04,-33.5452
-752,sighted,1,unknown sp.,2021-01-22T14:02:08,Public report,115.5,-31.993
-755,sighted,1,unknown sp.,2021-01-22T11:01:01,SLS Westpac Heli report,114.985,-33.9703
-756,sighted,1,unknown sp.,2021-01-22T10:56:04,SLS Westpac Heli report,114.997,-34.0051
-757,Detected,4,white,2021-01-21T22:56:00,Fisheries Advise,115.093091,-33.57247
-758,sighted,1,unknown sp.,2021-01-21T18:00:42,Public report,115.028,-34.2208
-759,sighted,1,unknown sp.,2021-01-21T15:00:27,SLS Westpac Heli report,115.009,-33.5525
-760,sighted,1,white,2021-01-21T14:53:35,Public report,118.082,-34.9903
-761,sighted,1,bull,2021-01-21T12:00:13,Public report,115.775,-32.0125
-762,sighted,1,unknown sp.,2021-01-21T11:17:18,SLS Westpac Heli report,115.089,-33.5694
-763,sighted,1,unknown sp.,2021-01-21T10:59:10,Public report,115.751,-31.9958
-764,sighted,1,bronze whaler,2021-01-21T10:30:30,SLS Westpac Heli report,114.992,-33.9473
-765,sighted,1,unknown sp.,2021-01-20T15:45:13,SLS Westpac Heli report,115.542,-31.9899
-766,sighted,1,tiger,2021-01-20T15:41:05,SLS Westpac Heli report,115.536,-31.9894
-767,sighted,1,unknown sp.,2021-01-20T15:35:58,SLS Westpac Heli report,115.105,-33.6011
-768,sighted,1,hammerhead,2021-01-20T15:03:37,SLS Westpac Heli report,115.04,-33.5452
-769,sighted,1,unknown sp.,2021-01-20T13:14:35,Public report,117.89,-35.0492
-770,Detected,4,white,2021-01-20T12:55:00,Fisheries Advise,115.093091,-33.57247
-771,sighted,1,hammerhead,2021-01-20T10:23:55,SLS Westpac Heli report,115.687,-32.2712
-772,sighted,1,hammerhead,2021-01-20T10:03:34,SLS Westpac Heli report,115.089,-33.5746
-773,sighted,1,unknown sp.,2021-01-20T08:30:50,Public report,115.026,-30.2656
-774,sighted,1,unknown sp.,2021-01-19T16:47:08,Public report,114.602,-28.7656
-775,sighted,1,unknown sp.,2021-01-19T15:39:40,SLS Westpac Heli report,115.288,-33.6567
-776,sighted,1,unknown sp.,2021-01-19T15:29:01,SLS Westpac Heli report,115.102,-33.5931
-777,sighted,1,unknown sp.,2021-01-19T15:12:49,SLS Westpac Heli report,115.012,-33.6613
-778,sighted,1,tiger,2021-01-19T15:01:36,SLS Westpac Heli report,115.733,-31.7761
-779,sighted,1,tiger,2021-01-19T14:58:00,SLS Westpac Heli report,115.004,-33.5325
-780,sighted,1,unknown sp.,2021-01-19T14:30:37,Public report,122.233,-33.9946
-781,sighted,1,tiger,2021-01-19T11:30:58,Public report,114.608,-28.7724
-782,caught & released,3,tiger,2021-01-19T10:26:00,SMART drumline trial,114.98,-33.8975
-783,sighted,1,unknown sp.,2021-01-19T09:52:09,SLS Westpac Heli report,115.032,-33.5369
-784,sighted,1,tiger,2021-01-19T07:31:49,Fisheries Advise,114.984,-33.8585
-785,"caught, relocated & released",6,tiger,2021-01-19T06:39:00,SMART drumline trial,114.992,-33.8125
-786,sighted,1,tiger,2021-01-19T05:27:11,Public report,115.1,-33.5834
-787,sighted,1,unknown sp.,2021-01-19T05:24:11,Public report,115.698,-33.3094
-788,caught & released,3,tiger,2021-01-19T02:16:00,SMART drumline trial,114.975,-33.8737
-789,caught & released,3,tiger,2021-01-19T00:54:00,SMART drumline trial,114.992,-33.8125
-790,sighted,1,grey nurse,2021-01-18T19:10:41,Public report,115.169,-34.3439
-791,sighted,1,bull,2021-01-18T18:11:43,Public report,115.792,-32.0133
-792,sighted,1,bull,2021-01-18T17:17:11,Public report,115.865,-32.0275
-793,sighted,1,unknown sp.,2021-01-18T16:50:09,SLS Lifesavers report,115.733,-31.773
-794,sighted,1,unknown sp.,2021-01-18T16:28:11,Public report,115.731,-31.7723
-795,sighted,1,unknown sp.,2021-01-18T15:07:02,SLS Westpac Heli report,115.524,-31.9918
-796,sighted,1,tiger,2021-01-18T14:52:09,SLS Westpac Heli report,115.089,-33.5746
-797,sighted,1,hammerhead,2021-01-18T14:43:30,SLS Westpac Heli report,115.758,-31.9098
-798,sighted,1,tiger,2021-01-18T14:36:59,SLS Westpac Heli report,115.757,-31.9196
-799,sighted,1,tiger,2021-01-18T14:17:53,SLS Westpac Heli report,115.758,-31.9098
-800,sighted,1,unknown sp.,2021-01-18T13:18:49,SLS Lifesavers report,114.983,-33.9678
-801,sighted,1,unknown sp.,2021-01-18T11:57:52,Public report,115.751,-31.8767
-802,sighted,1,unknown sp.,2021-01-18T11:07:20,Public report,115.027,-34.1641
-803,sighted,1,unknown sp.,2021-01-18T10:38:18,SLS Westpac Heli report,114.992,-33.9473
-804,sighted,1,white,2021-01-18T09:22:06,Public report,115.182,-34.3305
-805,sighted,1,unknown sp.,2021-01-17T18:30:55,Public report,115.343,-33.6355
-806,sighted,1,white,2021-01-17T16:27:45,Public report,115.546,-31.9979
-807,sighted,1,tiger,2021-01-17T15:50:05,Public report,115.542,-31.9899
-808,sighted,1,unknown sp.,2021-01-17T15:28:22,SLS Westpac Heli report,115.508,-32.0174
-809,sighted,1,unknown sp.,2021-01-17T15:18:45,SLS Westpac Heli report,115.058,-33.5457
-810,sighted,1,unknown sp.,2021-01-17T15:10:55,SLS Westpac Heli report,115.536,-31.9889
-811,sighted,1,unknown sp.,2021-01-17T15:07:50,SLS Westpac Heli report,115.542,-31.9899
-812,sighted,1,bronze whaler,2021-01-17T15:00:50,Public report,114.988,-33.9087
-813,sighted,1,unknown sp.,2021-01-17T14:56:30,SLS Westpac Heli report,115.027,-33.6372
-814,sighted,1,unknown sp.,2021-01-17T14:10:17,SLS Lifesavers report,115.089,-33.5746
-815,sighted,1,unknown sp.,2021-01-17T12:39:57,Public report,115.674,-32.5581
-816,sighted,1,white,2021-01-17T12:30:26,Public report,122.165,-34.0068
-817,caught & released,3,tiger,2021-01-17T05:47:00,SMART drumline trial,114.989,-33.8367
-818,Detected,4,white,2021-01-16T20:36:00,Fisheries Advise,115.093091,-33.57247
-819,Detected,4,white,2021-01-16T20:27:00,Fisheries Advise,115.093091,-33.57247
-820,Detected,4,white,2021-01-16T19:07:00,Fisheries Advise,115.093091,-33.57247
-821,Detected,4,white,2021-01-16T18:59:00,Fisheries Advise,115.093091,-33.57247
-822,Detected,4,white,2021-01-16T18:54:00,Fisheries Advise,115.093091,-33.57247
-823,tagged & released,2,white,2021-01-16T14:54:34,Fisheries Advise,123.564,-34.3693
-824,sighted,1,unknown sp.,2021-01-16T14:30:13,SLS Westpac Heli report,115.204,-33.651
-825,tagged & released,2,white,2021-01-16T12:55:56,Fisheries Advise,123.564,-34.3693
-826,tagged & released,2,white,2021-01-16T11:20:01,Fisheries Advise,123.564,-34.3693
-827,caught & released,3,tiger,2021-01-16T10:28:00,SMART drumline trial,114.989,-33.8367
-828,sighted,1,unknown sp.,2021-01-16T10:12:26,Public report,114.994,-33.6929
-829,sighted,1,unknown sp.,2021-01-16T09:54:53,Public report,121.906,-33.8614
-831,caught & released,3,mako,2021-01-16T07:55:00,SMART drumline trial,114.981,-33.9091
-832,Detected,4,white,2021-01-16T05:22:00,Fisheries Advise,115.093091,-33.57247
-833,"caught, relocated & released",6,tiger,2021-01-16T04:48:00,SMART drumline trial,114.975,-33.8737
-834,sighted,1,unknown sp.,2021-01-15T20:49:28,Public report,115.855,-32.0232
-835,tagged & released,2,white,2021-01-15T19:08:06,Fisheries Advise,123.564,-34.3693
-836,sighted,1,unknown sp.,2021-01-15T18:30:25,Public report,115.855,-32.0367
-837,Detected,4,white,2021-01-15T17:24:00,Fisheries Advise,115.093091,-33.57247
-838,tagged & released,2,white,2021-01-15T14:54:00,Fisheries Advise,123.564,-34.3693
-839,sighted,1,unknown sp.,2021-01-15T14:22:44,SLS Westpac Heli report,115.632,-33.3185
-840,tagged & released,2,white,2021-01-15T13:50:36,Fisheries Advise,123.564,-34.3693
-841,sighted,1,white,2021-01-15T12:51:45,UPDATE to prior report,115.632,-33.3185
-842,sighted,1,unknown sp.,2021-01-15T12:39:42,UPDATE to prior report,115.632,-33.3185
-843,sighted,1,unknown sp.,2021-01-15T12:24:51,Public report,115.632,-33.3185
-844,sighted,1,unknown sp.,2021-01-15T11:59:16,DBCA officers report,114.167,-21.8406
-845,sighted,1,hammerhead,2021-01-15T11:51:18,Public report,115.585,-32.0279
-846,sighted,1,bronze whaler,2021-01-15T11:42:41,Fisheries Advise,122.233,-33.9946
-847,tagged & released,2,white,2021-01-15T11:40:40,Fisheries Advise,123.564,-34.3693
-848,sighted,1,unknown sp.,2021-01-15T11:37:17,SLS Westpac Heli report,115.089,-33.5746
-849,sighted,1,unknown sp.,2021-01-15T10:27:14,Public report,115.627,-33.3343
-850,sighted,1,unknown sp.,2021-01-15T10:01:39,SLS Westpac Heli report,115.089,-33.5746
-851,sighted,1,tiger,2021-01-15T09:57:40,SLS Westpac Heli report,115.105,-33.6011
-852,caught & released,3,tiger,2021-01-15T08:30:00,SMART drumline trial,114.989,-33.8367
-853,caught & released,3,tiger,2021-01-15T03:15:00,SMART drumline trial,114.992,-33.8125
-854,Detected,4,tiger,2021-01-14T23:56:00,Fisheries Advise,115.73338,-32.34915
-855,Detected,4,white,2021-01-14T19:43:00,Fisheries Advise,115.093091,-33.57247
-856,Detected,4,white,2021-01-14T18:16:00,Fisheries Advise,115.093091,-33.57247
-857,sighted,1,unknown sp.,2021-01-14T17:50:28,Public report,115.89,-32.0204
-858,sighted,1,white,2021-01-14T17:15:58,Public report,118.402,-34.8802
-859,sighted,1,unknown sp.,2021-01-14T15:58:56,SLS Westpac Heli report,115.542,-31.9899
-860,sighted,1,hammerhead,2021-01-14T15:29:51,SLS Westpac Heli report,115.752,-32.0163
-861,sighted,1,unknown sp.,2021-01-14T13:14:19,Public report,121.894,-33.8639
-862,sighted,1,unknown sp.,2021-01-14T09:39:07,Public report,115.858,-32.0346
-864,sighted,1,bull,2021-01-14T08:20:24,Public report,115.778,-32.0228
-865,Detected,4,white,2021-01-14T04:40:00,Fisheries Advise,115.093091,-33.57247
-866,Detected,4,white,2021-01-14T04:15:00,Fisheries Advise,115.093091,-33.57247
-867,Detected,4,white,2021-01-14T03:36:00,Fisheries Advise,115.093091,-33.57247
-868,Detected,4,bronze whaler,2021-01-13T22:59:00,Fisheries Advise,117.94592,-35.08678
-869,Detected,4,white,2021-01-13T18:22:00,Fisheries Advise,115.093091,-33.57247
-870,sighted,1,unknown sp.,2021-01-13T17:31:02,Public report,115.026,-33.6211
-871,sighted,1,unknown sp.,2021-01-13T16:47:48,SLS Lifesavers report,115.027,-33.6372
-872,sighted,1,unknown sp.,2021-01-13T15:02:27,SLS Westpac Heli report,115.028,-33.6341
-873,sighted,1,unknown sp.,2021-01-13T14:51:24,SLS Westpac Heli report,115.02,-33.6466
-874,sighted,1,unknown sp.,2021-01-13T14:47:41,SLS Westpac Heli report,115.028,-33.6341
-875,Detected,4,white,2021-01-13T14:41:00,Fisheries Advise,115.093091,-33.57247
-876,sighted,1,unknown sp.,2021-01-13T11:45:48,UPDATE to prior report,115.027,-33.6372
-877,sighted,1,unknown sp.,2021-01-13T11:45:41,SLS Westpac Heli report,115.027,-33.6372
-878,sighted,1,unknown sp.,2021-01-13T10:47:54,SLS Westpac Heli report,115.026,-33.6381
-879,sighted,1,unknown sp.,2021-01-13T09:46:58,SLS Westpac Heli report,115.027,-33.6372
-880,caught & released,3,tiger,2021-01-13T05:18:00,SMART drumline trial,114.978,-33.8548
-881,caught & released,3,hammerhead,2021-01-13T02:28:00,SMART drumline trial,114.978,-33.8548
-882,caught & released,3,tiger,2021-01-13T00:58:00,SMART drumline trial,114.97,-33.8626
-883,sighted,1,bronze whaler,2021-01-12T18:05:00,Public report,115.602,-33.4057
-884,sighted,1,unknown sp.,2021-01-12T16:20:36,Public report,115.748,-32.4443
-885,sighted,1,unknown sp.,2021-01-12T15:21:05,SLS Westpac Heli report,115.292,-33.6563
-886,sighted,1,unknown sp.,2021-01-12T14:50:17,Public report,115.744,-32.136
-887,sighted,1,unknown sp.,2021-01-12T12:15:02,Public report,115.491,-31.9992
-888,sighted,1,unknown sp.,2021-01-12T11:09:10,SLS Westpac Heli report,115.204,-33.651
-889,sighted,1,unknown sp.,2021-01-12T06:30:27,Public report,115.001,-34.0753
-890,sighted,1,unknown sp.,2021-01-12T05:58:10,Public report,115.754,-31.9365
-891,Detected,4,bronze whaler,2021-01-11T22:48:00,Fisheries Advise,117.94592,-35.08678
-892,Detected,4,bronze whaler,2021-01-11T22:40:00,Fisheries Advise,117.94592,-35.08678
-893,Detected,4,bronze whaler,2021-01-11T22:32:00,Fisheries Advise,117.94592,-35.08678
-894,sighted,1,tiger,2021-01-11T16:30:42,Public report,115.683,-33.2013
-895,sighted,1,bull,2021-01-11T16:00:03,Public report,115.735,-32.0553
-896,sighted,1,unknown sp.,2021-01-11T15:51:35,SLS Westpac Heli report,115.542,-31.9899
-897,sighted,1,tiger,2021-01-11T15:41:05,SLS Westpac Heli report,115.5,-31.993
-898,sighted,1,unknown sp.,2021-01-11T14:44:34,SLS Westpac Heli report,115.18,-33.6416
-899,sighted,1,white,2021-01-11T10:45:23,Public report,115.5,-31.993
-900,sighted,1,unknown sp.,2021-01-11T09:50:22,SLS Westpac Heli report,115.1,-33.5834
-901,sighted,1,unknown sp.,2021-01-11T09:41:47,SLS Westpac Heli report,115.204,-33.651
-902,sighted,1,unknown sp.,2021-01-11T06:50:07,Public report,115.747,-32.409
-903,caught & released,3,tiger,2021-01-11T02:15:00,SMART drumline trial,114.978,-33.8852
-904,sighted,1,bull,2021-01-10T09:53:31,Public report,114.998,-33.6701
-905,sighted,1,unknown sp.,2021-01-10T06:39:41,UPDATE to prior report,121.823,-33.894
-906,sighted,1,unknown sp.,2021-01-10T06:38:30,Public report,126.046,-32.2724
-907,sighted,1,unknown sp.,2021-01-10T06:03:15,UPDATE to prior report,115.716,-32.3711
-908,sighted,1,unknown sp.,2021-01-10T05:59:48,Public report,115.716,-32.3711
-909,Detected,4,white,2021-01-09T18:23:00,Fisheries Advise,114.976043,-33.859383
-910,Detected,4,white,2021-01-09T18:16:00,Fisheries Advise,114.976043,-33.859383
-911,sighted,1,unknown sp.,2021-01-09T17:08:16,Public report,122.233,-33.9946
-912,sighted,1,unknown sp.,2021-01-09T16:30:14,Public report,115.69,-31.6722
-913,sighted,1,unknown sp.,2021-01-09T15:39:13,SLS Westpac Heli report,115.297,-33.6557
-914,sighted,1,white,2021-01-09T14:00:38,Public report,115.457,-32.0254
-915,sighted,1,white,2021-01-09T14:00:28,UPDATE to prior report,115.74,-32.1453
-916,sighted,1,tiger,2021-01-09T11:30:21,Public report,115.691,-31.6955
-917,sighted,1,unknown sp.,2021-01-09T11:00:26,Public report,115.027,-33.6324
-918,sighted,1,unknown sp.,2021-01-09T09:15:52,SLS Lifesavers report,115.742,-32.0401
-919,sighted,1,unknown sp.,2021-01-09T09:07:43,SLS Westpac Heli report,114.998,-33.6701
-920,caught & released,3,tiger,2021-01-09T08:51:00,SMART drumline trial,114.99,-33.8244
-921,sighted,1,unknown sp.,2021-01-09T07:50:29,SLS Westpac Heli report,115.744,-31.8286
-922,caught & released,3,tiger,2021-01-09T07:11:00,SMART drumline trial,114.987,-33.8482
-923,caught & released,3,tiger,2021-01-09T03:03:00,SMART drumline trial,114.981,-33.9091
-924,"caught, relocated & released",6,tiger,2021-01-09T00:59:00,SMART drumline trial,114.992,-33.8125
-925,caught & released,3,tiger,2021-01-09T00:11:00,SMART drumline trial,114.987,-33.8482
-926,sighted,1,unknown sp.,2021-01-08T18:15:31,Public report,115.32,-33.6249
-927,sighted,1,unknown sp.,2021-01-08T16:57:31,Public report,115.472,-32.0132
-928,sighted,1,unknown sp.,2021-01-08T15:41:55,SLS Westpac Heli report,115.198,-33.6483
-929,sighted,1,tiger,2021-01-08T15:35:43,SLS Westpac Heli report,115.752,-32.0163
-930,sighted,1,hammerhead,2021-01-08T15:28:25,SLS Westpac Heli report,115.754,-31.8975
-931,sighted,1,tiger,2021-01-08T15:26:32,SLS Westpac Heli report,115.754,-31.8975
-932,sighted,1,unknown sp.,2021-01-08T15:20:52,Public report,121.895,-33.8609
-933,sighted,1,tiger,2021-01-08T15:19:57,SLS Westpac Heli report,115.754,-31.8975
-934,sighted,1,unknown sp.,2021-01-08T15:15:02,SLS Westpac Heli report,114.996,-33.6703
-935,sighted,1,hammerhead,2021-01-08T15:14:38,SLS Westpac Heli report,115.752,-31.8749
-936,sighted,1,hammerhead,2021-01-08T14:57:41,SLS Westpac Heli report,115.752,-31.8703
-937,sighted,1,unknown sp.,2021-01-08T11:32:36,Public report,115.624,-32.0661
-938,sighted,1,bronze whaler,2021-01-08T10:36:32,SLS Westpac Heli report,114.982,-33.9609
-939,sighted,1,unknown sp.,2021-01-08T09:38:03,Public report,121.863,-33.8829
-940,sighted,1,unknown sp.,2021-01-08T09:08:48,Public report,121.877,-33.8782
-941,sighted,1,unknown sp.,2021-01-08T08:19:32,Public report,122.201,-17.9555
-942,sighted,1,tiger,2021-01-07T17:30:02,Fisheries Advise,114.997,-33.8163
-943,sighted,1,bronze whaler,2021-01-07T17:16:17,Public report,115.16,-34.3666
-944,sighted,1,unknown sp.,2021-01-07T15:52:20,SLS Westpac Heli report,115.536,-31.9894
-945,sighted,1,white,2021-01-07T15:45:10,SLS Westpac Heli report,115.536,-31.9894
-946,sighted,1,hammerhead,2021-01-07T15:31:18,SLS Westpac Heli report,115.756,-32.0887
-947,sighted,1,unknown sp.,2021-01-07T15:29:01,SLS Westpac Heli report,115.02,-33.6488
-948,sighted,1,hammerhead,2021-01-07T15:22:43,SLS Westpac Heli report,115.742,-32.0401
-949,sighted,1,tiger,2021-01-07T15:16:53,SLS Westpac Heli report,115.04,-33.5452
-950,sighted,1,hammerhead,2021-01-07T15:10:02,SLS Westpac Heli report,115.751,-31.8767
-951,sighted,1,unknown sp.,2021-01-07T14:30:36,Public report,115.127,-33.6251
-952,sighted,1,unknown sp.,2021-01-07T14:07:52,Public report,115.026,-34.1888
-953,sighted,1,hammerhead,2021-01-07T12:58:48,Public report,115.117,-33.5985
-954,sighted,1,unknown sp.,2021-01-07T10:55:04,SLS Westpac Heli report,114.992,-33.9473
-955,sighted,1,unknown sp.,2021-01-07T09:50:56,Public report,122.201,-17.9555
-956,sighted,1,unknown sp.,2021-01-07T09:46:57,SLS Westpac Heli report,115.23,-33.6559
-957,sighted,1,unknown sp.,2021-01-07T08:26:06,Public report,121.991,-33.8323
-958,caught & released,3,tiger,2021-01-07T07:09:00,SMART drumline trial,114.981,-33.9091
-959,caught & released,3,tiger,2021-01-07T05:08:00,SMART drumline trial,114.975,-33.8737
-960,caught & released,3,tiger,2021-01-07T04:30:00,SMART drumline trial,114.987,-33.8482
-961,caught & released,3,tiger,2021-01-07T03:44:00,SMART drumline trial,114.978,-33.8548
-962,Detected,4,white,2021-01-07T01:44:00,Fisheries Advise,115.093091,-33.57247
-963,Detected,4,tiger,2021-01-06T23:16:00,Fisheries Advise,122.0137,-33.8393
-964,Detected,4,tiger,2021-01-06T23:04:00,Fisheries Advise,122.0137,-33.8393
-965,Detected,4,tiger,2021-01-06T22:56:00,Fisheries Advise,122.0137,-33.8393
-966,sighted,1,unknown sp.,2021-01-06T15:10:04,SLS Westpac Heli report,115.102,-33.5882
-967,sighted,1,unknown sp.,2021-01-06T14:48:49,SLS Westpac Heli report,115.756,-31.8953
-968,sighted,1,unknown sp.,2021-01-06T14:42:57,SLS Westpac Heli report,115.754,-31.9553
-969,sighted,1,unknown sp.,2021-01-06T11:22:13,Public report,115.754,-31.8975
-970,sighted,1,unknown sp.,2021-01-06T11:21:17,SLS Westpac Heli report,115.536,-31.9889
-971,sighted,1,unknown sp.,2021-01-06T11:10:00,SLS Westpac Heli report,115.508,-32.0174
-972,sighted,1,unknown sp.,2021-01-06T10:59:07,SLS Westpac Heli report,115.556,-31.991
-973,sighted,1,hammerhead,2021-01-06T10:38:25,SLS Westpac Heli report,115.755,-31.9792
-974,sighted,1,tiger,2021-01-06T10:37:10,SLS Westpac Heli report,115.758,-31.9161
-975,"caught, relocated & released",6,tiger,2021-01-06T10:35:00,SMART drumline trial,114.987,-33.8482
-976,sighted,1,unknown sp.,2021-01-06T10:34:54,SLS Westpac Heli report,115.758,-31.9098
-977,sighted,1,unknown sp.,2021-01-06T09:38:33,SLS Westpac Heli report,115.754,-31.8975
-978,sighted,1,unknown sp.,2021-01-06T08:26:08,Public report,115.754,-31.8975
-979,sighted,1,unknown sp.,2021-01-06T08:24:11,Public report,115.754,-31.8975
-980,caught & released,3,tiger,2021-01-06T07:54:00,SMART drumline trial,114.987,-33.8482
-981,Detected,4,white,2021-01-06T03:56:00,Fisheries Advise,115.093091,-33.57247
-982,caught & released,3,tiger,2021-01-06T02:37:00,SMART drumline trial,114.992,-33.8125
-983,caught & released,3,tiger,2021-01-05T23:42:00,SMART drumline trial,114.978,-33.8548
-984,sighted,1,unknown sp.,2021-01-05T17:15:33,Public report,115.001,-34.0753
-985,sighted,1,unknown sp.,2021-01-05T15:30:06,SLS Westpac Heli report,115.099,-33.581
-986,sighted,1,unknown sp.,2021-01-05T15:19:15,SLS Westpac Heli report,115.198,-33.6483
-987,sighted,1,unknown sp.,2021-01-05T15:15:27,SLS Westpac Heli report,115.686,-32.2694
-988,sighted,1,unknown sp.,2021-01-05T14:58:00,SLS Westpac Heli report,115.755,-31.9792
-989,sighted,1,bronze whaler,2021-01-05T13:03:50,Public report,115.515,-31.9885
-990,Detected,4,white,2021-01-05T12:32:00,Fisheries Advise,115.093091,-33.57247
-991,Detected,4,white,2021-01-05T12:21:00,Fisheries Advise,115.093091,-33.57247
-992,sighted,1,tiger,2021-01-05T12:20:46,Public report,115.464,-32.0141
-995,sighted,1,bronze whaler,2021-01-05T09:56:36,Public report,115.515,-31.9885
-996,caught & released,3,tiger,2021-01-05T07:48:00,SMART drumline trial,114.975,-33.8737
-997,caught & released,3,tiger,2021-01-05T06:01:00,SMART drumline trial,114.987,-33.8482
-998,Detected,4,white,2021-01-05T02:16:00,Fisheries Advise,115.093091,-33.57247
-999,caught & released,3,tiger,2021-01-05T00:18:00,SMART drumline trial,114.975,-33.8737
-1000,caught & released,3,tiger,2021-01-04T23:55:00,SMART drumline trial,114.978,-33.8852
-1001,Detected,4,white,2021-01-04T19:04:00,Fisheries Advise,121.87883,-33.882133
-1002,Detected,4,white,2021-01-04T18:59:00,Fisheries Advise,121.87883,-33.882133
-1003,sighted,1,unknown sp.,2021-01-04T16:03:46,SLS Westpac Heli report,115.302,-33.6547
-1004,sighted,1,unknown sp.,2021-01-04T16:03:39,Public report,115.754,-31.8975
-1005,sighted,1,unknown sp.,2021-01-04T16:00:33,SLS Westpac Heli report,115.226,-33.6531
-1006,sighted,1,unknown sp.,2021-01-04T15:38:18,Public report,115.754,-31.8975
-1007,sighted,1,unknown sp.,2021-01-04T15:22:39,SLS Westpac Heli report,115.02,-33.6466
-1008,Detected,4,white,2021-01-04T14:52:00,Fisheries Advise,115.093091,-33.57247
-1009,Detected,4,white,2021-01-04T14:47:00,Fisheries Advise,115.093091,-33.57247
-1010,sighted,1,unknown sp.,2021-01-04T14:33:09,SLS Westpac Heli report,115.751,-31.8767
-1011,sighted,1,unknown sp.,2021-01-04T14:16:10,SLS Westpac Heli report,115.752,-31.8822
-1012,sighted,1,unknown sp.,2021-01-04T13:30:04,Public report,115.754,-31.8975
-1013,sighted,1,unknown sp.,2021-01-04T13:13:09,Public report,115.226,-33.6531
-1014,sighted,1,unknown sp.,2021-01-04T12:05:48,Public report,115.617,-33.357
-1015,sighted,1,hammerhead,2021-01-04T11:35:02,Public report,115.755,-31.8944
-1016,sighted,1,unknown sp.,2021-01-04T11:33:02,Public report,115.755,-31.8944
-1017,sighted,1,tiger,2021-01-04T11:27:52,Public report,115.693,-31.6783
-1018,sighted,1,unknown sp.,2021-01-04T10:15:12,SLS Westpac Heli report,115.758,-31.9098
-1019,sighted,1,unknown sp.,2021-01-04T10:12:29,SLS Westpac Heli report,115.758,-31.9135
-1020,sighted,1,unknown sp.,2021-01-04T09:54:03,SLS Westpac Heli report,115.226,-33.6531
-1021,sighted,1,unknown sp.,2021-01-04T09:47:46,SLS Westpac Heli report,115.752,-31.8822
-1022,sighted,1,unknown sp.,2021-01-04T09:43:50,SLS Westpac Heli report,115.758,-31.9098
-1023,sighted,1,unknown sp.,2021-01-04T09:40:39,SLS Westpac Heli report,115.758,-31.9175
-1024,sighted,1,unknown sp.,2021-01-04T09:07:23,Public report,115.752,-31.8822
-1025,sighted,1,unknown sp.,2021-01-04T08:43:51,Public report,115.752,-31.8822
-1026,sighted,1,tiger,2021-01-04T07:09:33,Public report,115.752,-31.8556
-1027,caught & released,3,tiger,2021-01-04T06:01:00,SMART drumline trial,114.987,-33.8482
-1028,sighted,1,tiger,2021-01-04T05:51:36,Public report,115.751,-31.8767
-1029,Detected,4,white,2021-01-04T01:03:00,Fisheries Advise,115.093091,-33.57247
-1030,Detected,4,white,2021-01-04T00:57:00,Fisheries Advise,115.093091,-33.57247
-1031,sighted,1,unknown sp.,2021-01-03T19:10:09,Public report,122.013,-33.9609
-1032,sighted,1,unknown sp.,2021-01-03T17:03:30,Public report,115.226,-33.6531
-1033,sighted,1,unknown sp.,2021-01-03T16:44:35,SLS Lifesavers report,115.755,-31.8944
-1034,sighted,1,unknown sp.,2021-01-03T15:46:01,SLS Westpac Heli report,115.248,-33.6568
-1035,sighted,1,unknown sp.,2021-01-03T15:08:33,SLS Westpac Heli report,115.542,-31.9899
-1036,sighted,1,unknown sp.,2021-01-03T15:06:44,SLS Westpac Heli report,115.536,-31.9894
-1037,sighted,1,unknown sp.,2021-01-03T14:56:34,SLS Lifesavers report,115.753,-31.8779
-1038,sighted,1,unknown sp.,2021-01-03T14:51:22,SLS Westpac Heli report,115.256,-33.6567
-1039,sighted,1,unknown sp.,2021-01-03T14:25:17,Public report,121.985,-33.8298
-1040,sighted,1,unknown sp.,2021-01-03T14:22:32,SLS Westpac Heli report,115.752,-31.8822
-1041,sighted,1,unknown sp.,2021-01-03T14:18:55,Public report,117.775,-35.0595
-1042,caught & released,3,tiger,2021-01-03T08:10:00,SMART drumline trial,114.97,-33.8626
-1043,sighted,1,tiger,2021-01-03T07:19:00,Public report,115.755,-31.8944
-1044,"caught, relocated & released",6,tiger,2021-01-03T03:10:00,SMART drumline trial,114.987,-33.8482
-1045,sighted,1,bronze whaler,2021-01-02T15:40:37,SLS Westpac Heli report,115.256,-33.6567
-1046,sighted,1,hammerhead,2021-01-02T15:40:26,SLS Westpac Heli report,115.687,-32.2712
-1047,sighted,1,unknown sp.,2021-01-02T15:12:20,SLS Westpac Heli report,115.02,-33.6466
-1048,sighted,1,unknown sp.,2021-01-02T14:50:34,SLS Lifesavers report,117.331,-35.0293
-1049,sighted,1,tiger,2021-01-02T13:48:52,Public report,115.346,-33.6442
-1050,sighted,1,unknown sp.,2021-01-02T13:36:55,Public report,114.99,-33.985
-1051,sighted,1,unknown sp.,2021-01-02T11:29:01,SLS Westpac Heli report,115.198,-33.6483
-1052,caught & released,3,mako,2021-01-02T10:35:00,SMART drumline trial,114.978,-33.8548
-1053,sighted,1,bronze whaler,2021-01-02T09:30:14,SLS Westpac Heli report,115.18,-33.6416
-1054,caught & released,3,tiger,2021-01-02T00:58:00,SMART drumline trial,114.975,-33.8737
-1055,sighted,1,tiger,2021-01-01T16:00:22,Public report,115.484,-32.0071
-1056,sighted,1,white,2021-01-01T15:30:07,Public report,122.58,-33.924
-1057,sighted,1,white,2021-01-01T15:30:02,Public report,122.542,-33.9343
-1058,sighted,1,unknown sp.,2021-01-01T15:27:36,SLS Westpac Heli report,115.051,-33.5439
-1059,sighted,1,tiger,2021-01-01T12:52:09,Public report,114.615,-28.761
-1060,sighted,1,white,2021-01-01T11:52:33,Public report,121.933,-33.8329
-1061,sighted,1,unknown sp.,2021-01-01T10:50:01,SLS Westpac Heli report,114.992,-33.9473
-1062,sighted,1,unknown sp.,2021-01-01T10:18:02,Public report,122.146,-34.0119
-1063,sighted,1,unknown sp.,2021-01-01T10:16:38,Public report,115.346,-33.6441
-1064,Detected,4,white,2021-01-01T00:49:00,Fisheries Advise,115.093091,-33.57247
-1065,Detected,4,white,2021-01-01T00:43:00,Fisheries Advise,115.093091,-33.57247
-1066,Detected,4,white,2021-01-01T00:38:00,Fisheries Advise,115.093091,-33.57247
+52,sighted,1,unknown sp.,2021-06-30T16:10:47,Public report,115.736,-32.505
+53,sighted,1,white,2021-06-30T08:57:04,Public report,115.186,-34.3263
+55,sighted,1,unknown sp.,2021-06-28T10:30:54,Public report,115.059,-33.5457
+56,sighted,1,unknown sp.,2021-06-27T14:00:20,Public report,115.629,-33.3272
+57,sighted,1,white,2021-06-26T10:00:10,Public report,117.16,-35.0381
+58,sighted,1,unknown sp.,2021-06-23T14:44:14,Public report,114.969,-29.785
+59,sighted,1,tiger,2021-06-21T14:15:02,Public report,122.201,-17.9555
+60,Detected,4,white,2021-06-21T03:49:00,Fisheries Advise,115.622596,-33.326036
+61,sighted,1,unknown sp.,2021-06-20T09:08:32,Public report,122.201,-17.9555
+62,sighted,1,white,2021-06-20T07:25:28,Public report,121.833,-33.8923
+63,caught & released,3,tiger,2021-06-19T12:40:27,Fisheries Advise,118.082,-34.9903
+64,caught & released,3,tiger,2021-06-19T12:20:12,Fisheries Advise,118.082,-34.9903
+65,caught & released,3,tiger,2021-06-19T10:29:10,Fisheries Advise,118.085,-34.9993
+66,sighted,1,white,2021-06-19T09:30:52,Public report,116.931,-35.0408
+67,tagged & released,2,white,2021-06-18T15:46:03,Fisheries Advise,118.085,-34.9993
+69,sighted,1,tiger,2021-06-17T10:08:17,Public report,115.044,-33.5364
+70,sighted,1,unknown sp.,2021-06-13T12:00:47,Public report,115.028,-34.2208
+71,Detected,4,white,2021-06-13T07:02:00,Fisheries Advise,115.74365,-32.02628
+72,Detected,4,white,2021-06-13T06:16:00,Fisheries Advise,115.74365,-32.02628
+73,Detected,4,white,2021-06-13T06:10:00,Fisheries Advise,115.74365,-32.02628
+74,Detected,4,white,2021-06-13T06:05:00,Fisheries Advise,115.74365,-32.02628
+75,Detected,4,white,2021-06-13T06:00:00,Fisheries Advise,115.74365,-32.02628
+76,sighted,1,unknown sp.,2021-06-12T12:07:20,Public report,113.768,-23.1423
+77,Detected,4,white,2021-06-11T17:38:00,Fisheries Advise,117.92172,-35.02144
+78,Detected,4,white,2021-06-11T17:32:00,Fisheries Advise,117.92172,-35.02144
+80,Detected,4,white,2021-06-11T15:05:00,Fisheries Advise,117.94592,-35.08678
+81,Detected,4,white,2021-06-11T14:50:00,Fisheries Advise,117.94592,-35.08678
+82,Detected,4,white,2021-06-11T14:44:00,Fisheries Advise,117.94592,-35.08678
+83,Detected,4,white,2021-06-11T14:34:00,Fisheries Advise,117.94592,-35.08678
+84,Detected,4,white,2021-06-11T14:24:00,Fisheries Advise,117.94592,-35.08678
+85,sighted,1,bronze whaler,2021-06-11T11:20:03,Fisheries Advise,113.763,-23.18
+86,sighted,1,bronze whaler,2021-06-07T15:11:06,Public report,115.138,-33.6287
+87,sighted,1,unknown sp.,2021-06-07T11:44:31,UPDATE to prior report,115.653,-32.5802
+88,sighted,1,unknown sp.,2021-06-07T11:09:54,Public report,115.653,-32.5802
+89,Detected,4,white,2021-06-05T22:49:00,Fisheries Advise,115.74408,-31.98765
+90,Detected,4,white,2021-06-05T22:42:00,Fisheries Advise,115.74408,-31.98765
+91,Detected,4,white,2021-06-05T22:22:00,Fisheries Advise,115.74646,-31.97784
+92,Detected,4,white,2021-06-05T20:58:00,Fisheries Advise,115.74737,-31.93879
+93,Detected,4,white,2021-06-05T20:12:00,Fisheries Advise,115.74737,-31.93879
+94,Detected,4,white,2021-06-05T19:50:00,Fisheries Advise,115.74752,-31.92875
+95,sighted,1,bronze whaler,2021-06-05T13:28:39,Public report,122.201,-17.9555
+96,sighted,1,white,2021-06-05T12:00:33,UPDATE to prior report,115.085,-33.5679
+97,sighted,1,white,2021-06-05T12:00:11,Public report,115.092,-33.5757
+98,sighted,1,tiger,2021-06-05T11:54:47,DBCA officers report,115.008,-30.2832
+99,Detected,4,white,2021-06-04T12:09:00,Fisheries Advise,115.72142,-31.76424
+100,Detected,4,white,2021-06-04T11:06:00,Fisheries Advise,115.726533,-31.781833
+101,Detected,4,white,2021-06-04T11:00:00,Fisheries Advise,115.726533,-31.781833
+102,Detected,4,white,2021-06-04T10:57:00,Fisheries Advise,115.726483,-31.788617
+103,Detected,4,white,2021-06-04T10:48:00,Fisheries Advise,115.726483,-31.788617
+104,Detected,4,white,2021-06-04T10:43:00,Fisheries Advise,115.726483,-31.788617
+105,sighted,1,unknown sp.,2021-06-04T10:26:08,Public report,115.105,-33.601
+106,Detected,4,white,2021-06-04T05:51:00,Fisheries Advise,115.73751,-31.89295
+107,Detected,4,white,2021-06-04T05:35:00,Fisheries Advise,115.74832,-31.89806
+108,Detected,4,white,2021-06-04T05:29:00,Fisheries Advise,115.74832,-31.89806
+109,Detected,4,white,2021-06-04T04:07:00,Fisheries Advise,115.74752,-31.92875
+110,Detected,4,white,2021-06-04T04:00:00,Fisheries Advise,115.74752,-31.92875
+111,Detected,4,white,2021-06-04T03:55:00,Fisheries Advise,115.74737,-31.93879
+112,Detected,4,white,2021-06-03T22:52:00,Fisheries Advise,115.74408,-31.98765
+113,Detected,4,white,2021-06-03T22:46:00,Fisheries Advise,115.74408,-31.98765
+114,sighted,1,unknown sp.,2021-06-03T16:55:30,Public report,115.105,-33.601
+115,Detected,4,white,2021-06-01T20:38:00,Fisheries Advise,115.74737,-31.93879
+116,Detected,4,white,2021-06-01T20:33:00,Fisheries Advise,115.74737,-31.93879
+117,Detected,4,white,2021-06-01T18:07:00,Fisheries Advise,115.73751,-31.89295
+118,Detected,4,white,2021-06-01T16:32:00,Fisheries Advise,115.72967,-31.88565
+119,Detected,4,white,2021-06-01T16:12:00,Fisheries Advise,115.093091,-33.57247
+120,Detected,4,white,2021-06-01T16:10:00,Fisheries Advise,115.72967,-31.88565
+121,Detected,4,white,2021-06-01T15:48:00,Fisheries Advise,115.72427,-31.87541
+122,sighted,1,white,2021-06-01T13:20:16,Public report,115.085,-33.5658
+123,Detected,4,white,2021-06-01T12:47:00,Fisheries Advise,115.093091,-33.57247
+124,Detected,4,white,2021-06-01T12:40:00,Fisheries Advise,115.093091,-33.57247
+125,Detected,4,white,2021-06-01T12:29:00,Fisheries Advise,115.093091,-33.57247
+126,Detected,4,white,2021-06-01T11:32:00,Fisheries Advise,115.093091,-33.57247
+127,Detected,4,white,2021-06-01T11:21:00,Fisheries Advise,115.093091,-33.57247
+128,sighted,1,white,2021-06-01T10:42:23,Public report,115.495,-31.9829
+129,Detected,4,white,2021-05-31T23:33:00,Fisheries Advise,115.726483,-31.788617
+130,Detected,4,white,2021-05-31T16:09:00,Fisheries Advise,115.72967,-31.88565
+131,Detected,4,white,2021-05-31T15:41:00,Fisheries Advise,115.72427,-31.87541
+132,Detected,4,white,2021-05-31T15:35:00,Fisheries Advise,115.72427,-31.87541
+133,Detected,4,white,2021-05-31T11:03:00,Fisheries Advise,115.72427,-31.87541
+134,Detected,4,white,2021-05-31T10:15:00,Fisheries Advise,115.72427,-31.87541
+135,Detected,4,white,2021-05-31T10:00:00,Fisheries Advise,115.72427,-31.87541
+136,Detected,4,white,2021-05-31T09:50:00,Fisheries Advise,115.72427,-31.87541
+137,Detected,4,white,2021-05-31T09:17:00,Fisheries Advise,115.72967,-31.88565
+138,Detected,4,white,2021-05-31T08:49:00,Fisheries Advise,115.73751,-31.89295
+139,sighted,1,white,2021-05-30T15:37:49,Public report,121.863,-33.8829
+140,Detected,4,white,2021-05-30T14:19:00,Fisheries Advise,115.73751,-31.89295
+141,Detected,4,white,2021-05-30T02:42:00,Fisheries Advise,115.726483,-31.788617
+142,Detected,4,white,2021-05-29T15:57:00,Fisheries Advise,115.74408,-31.98765
+143,Detected,4,white,2021-05-29T14:00:00,Fisheries Advise,115.74365,-32.02628
+144,Detected,4,white,2021-05-29T13:36:00,Fisheries Advise,115.74365,-32.02628
+145,sighted,1,unknown sp.,2021-05-29T12:51:16,UPDATE to prior report,122.201,-17.9555
+146,sighted,1,unknown sp.,2021-05-29T12:40:00,SLS Lifesavers report,122.201,-17.9555
+147,sighted,1,unknown sp.,2021-05-28T13:20:39,Public report,114.99,-33.985
+148,Detected,4,white,2021-05-27T18:20:00,Fisheries Advise,115.045567,-33.542016
+149,Detected,4,white,2021-05-27T18:20:00,Fisheries Advise,115.037667,-33.539567
+150,Detected,4,white,2021-05-27T18:10:00,Fisheries Advise,115.045567,-33.542016
+151,sighted,1,white,2021-05-27T16:14:31,Public report,121.84,-33.8867
+152,Detected,4,white,2021-05-27T15:37:00,Fisheries Advise,115.093091,-33.57247
+153,sighted,1,unknown sp.,2021-05-27T10:40:23,Public report,115.754,-31.9365
+154,sighted,1,unknown sp.,2021-05-27T08:10:30,Public report,115.737,-32.3164
+155,sighted,1,white,2021-05-26T16:29:09,Public report,121.843,-33.887
+156,sighted,1,white,2021-05-26T07:37:44,Public report,115.194,-34.3329
+157,sighted,1,white,2021-05-25T16:00:52,UPDATE to prior report,121.894,-33.8624
+158,caught & released,3,white,2021-05-25T16:00:35,Fisheries Advise,121.913,-33.8622
+159,sighted,1,unknown sp.,2021-05-25T12:22:08,Public report,115.649,-33.3202
+160,sighted,1,white,2021-05-23T12:30:10,Public report,113.632,-22.8544
+161,sighted,1,tiger,2021-05-22T13:55:00,Fisheries Advise,115.476,-32.0172
+162,sighted,1,unknown sp.,2021-05-22T07:23:16,Public report,115.755,-31.8944
+163,sighted,1,unknown sp.,2021-05-21T17:30:09,Public report,115.111,-33.613
+164,Detected,4,white,2021-05-21T15:17:00,Fisheries Advise,121.87883,-33.882133
+165,Detected,4,white,2021-05-21T15:07:00,Fisheries Advise,121.87883,-33.882133
+166,Detected,4,white,2021-05-21T15:01:00,Fisheries Advise,121.87883,-33.882133
+167,Detected,4,white,2021-05-21T14:56:00,Fisheries Advise,121.87883,-33.882133
+168,Detected,4,white,2021-05-21T14:51:00,Fisheries Advise,121.87883,-33.882133
+169,Detected,4,white,2021-05-21T14:46:00,Fisheries Advise,121.87883,-33.882133
+170,sighted,1,bronze whaler,2021-05-21T11:50:39,Public report,115.686,-32.2694
+171,sighted,1,unknown sp.,2021-05-21T11:25:44,Fisheries Advise,122.201,-17.9555
+172,sighted,1,unknown sp.,2021-05-21T11:21:27,Public report,122.201,-17.9555
+173,sighted,1,unknown sp.,2021-05-21T11:21:00,UPDATE to prior report,122.201,-17.9555
+174,sighted,1,tiger,2021-05-21T10:35:00,Fisheries Advise,115.476,-32.0172
+175,sighted,1,unknown sp.,2021-05-20T14:50:23,Public report,114.92,-29.252
+176,sighted,1,white,2021-05-20T14:45:24,Public report,122.231,-17.9739
+177,sighted,1,unknown sp.,2021-05-20T14:45:00,UPDATE to prior report,122.231,-17.9739
+178,sighted,1,unknown sp.,2021-05-20T14:45:00,Public report,122.201,-17.7148
+179,sighted,1,unknown sp.,2021-05-20T14:06:52,Public report,115.111,-33.613
+180,caught & released,3,tiger,2021-05-20T05:09:00,SMART drumline trial,114.981,-33.9091
+181,caught & released,3,tiger,2021-05-20T02:22:00,SMART drumline trial,114.99,-33.8244
+182,caught & released,3,tiger,2021-05-20T02:08:00,SMART drumline trial,114.989,-33.8367
+183,sighted,1,bronze whaler,2021-05-19T15:18:47,Public report,122.233,-33.9946
+184,caught & released,3,bronze whaler,2021-05-19T05:09:00,SMART drumline trial,114.97,-33.8626
+185,Detected,4,white,2021-05-18T12:31:00,Fisheries Advise,115.74365,-32.02628
+186,sighted,1,white,2021-05-17T11:39:04,Public report,117.921,-35.015
+187,caught & released,3,tiger,2021-05-17T01:50:00,SMART drumline trial,114.99,-33.8244
+188,Detected,4,bronze whaler,2021-05-16T23:04:00,Fisheries Advise,121.87883,-33.882133
+189,sighted,1,bronze whaler,2021-05-16T14:30:43,Public report,121.877,-33.8782
+190,sighted,1,tiger,2021-05-16T09:20:23,Public report,115.69,-32.2924
+191,caught & released,3,tiger,2021-05-16T01:45:00,SMART drumline trial,114.97,-33.8626
+192,sighted,1,unknown sp.,2021-05-11T18:47:25,Public report,115.78,-32.0004
+193,Detected,4,white,2021-05-11T09:43:00,Fisheries Advise,115.74312,-31.99596
+194,Detected,4,white,2021-05-11T09:38:00,Fisheries Advise,115.74312,-31.99596
+196,sighted,1,bull,2021-05-09T12:04:07,Public report,115.861,-31.9679
+197,sighted,1,white,2021-05-08T14:50:54,Public report,115.484,-32.0168
+198,sighted,1,unknown sp.,2021-05-07T15:47:29,Public report,115.633,-32.5975
+199,Detected,4,white,2021-05-07T12:32:00,Fisheries Advise,115.74312,-31.99596
+200,Detected,4,white,2021-05-07T12:26:00,Fisheries Advise,115.74312,-31.99596
+201,sighted,1,unknown sp.,2021-05-05T11:08:05,Public report,115.04,-33.5452
+202,sighted,1,bronze whaler,2021-05-05T11:06:36,Public report,115.04,-33.5452
+203,sighted,1,unknown sp.,2021-05-04T09:59:35,Public report,115.721,-31.7369
+204,sighted,1,unknown sp.,2021-05-03T17:46:04,Public report,122.209,-18.0006
+206,sighted,1,white,2021-05-02T10:00:27,Public report,115.646,-33.3042
+207,sighted,1,unknown sp.,2021-04-30T11:05:11,Public report,115.04,-33.5452
+208,sighted,1,unknown sp.,2021-04-29T16:30:19,Public report,122.201,-17.9555
+209,sighted,1,unknown sp.,2021-04-29T07:00:36,Public report,115.626,-33.3362
+210,sighted,1,bronze whaler,2021-04-28T14:28:19,Public report,117.997,-35.0216
+211,Detected,4,white,2021-04-28T00:58:00,Fisheries Advise,115.045567,-33.542016
+212,Detected,4,white,2021-04-28T00:52:00,Fisheries Advise,115.045567,-33.542016
+213,Detected,4,white,2021-04-28T00:48:00,Fisheries Advise,115.045567,-33.542016
+214,Detected,4,white,2021-04-28T00:46:00,Fisheries Advise,115.045567,-33.542016
+215,sighted,1,unknown sp.,2021-04-27T16:00:40,Public report,118.082,-34.9903
+216,sighted,1,white,2021-04-27T11:26:20,Public report,118.082,-34.9903
+217,sighted,1,white,2021-04-27T10:11:34,Public report,115.194,-34.3329
+218,sighted,1,unknown sp.,2021-04-27T09:44:48,SLS Westpac Heli report,115.649,-32.5829
+219,sighted,1,unknown sp.,2021-04-27T09:28:00,Public report,121.823,-33.894
+220,sighted,1,unknown sp.,2021-04-26T15:33:14,SLS Westpac Heli report,115.755,-31.9656
+221,sighted,1,white,2021-04-26T13:30:34,Public report,115.617,-33.3309
+222,sighted,1,unknown sp.,2021-04-26T10:13:43,SLS Westpac Heli report,114.992,-33.9473
+223,sighted,1,unknown sp.,2021-04-26T09:07:32,SLS Westpac Heli report,114.991,-33.6806
+224,sighted,1,unknown sp.,2021-04-26T08:43:17,SLS Westpac Heli report,115.204,-33.651
+225,sighted,1,unknown sp.,2021-04-25T15:50:12,Public report,115.16,-34.3666
+226,sighted,1,unknown sp.,2021-04-25T15:27:06,SLS Westpac Heli report,115.105,-33.601
+227,sighted,1,unknown sp.,2021-04-25T15:03:44,SLS Westpac Heli report,115.754,-31.9763
+228,sighted,1,unknown sp.,2021-04-25T14:14:16,SLS Westpac Heli report,115.024,-34.2233
+229,sighted,1,unknown sp.,2021-04-25T13:09:28,SLS Westpac Heli report,115.02,-33.6466
+230,sighted,1,unknown sp.,2021-04-25T12:25:31,SLS Westpac Heli report,115.754,-31.9553
+231,sighted,1,unknown sp.,2021-04-25T12:12:33,SLS Westpac Heli report,115.757,-31.9499
+233,sighted,1,unknown sp.,2021-04-25T09:24:44,SLS Westpac Heli report,115.685,-31.6495
+234,sighted,1,white,2021-04-25T08:44:58,SLS Westpac Heli report,115.756,-31.9292
+235,sighted,1,unknown sp.,2021-04-24T14:47:59,SLS Westpac Heli report,115.755,-31.973
+236,sighted,1,unknown sp.,2021-04-24T14:41:53,SLS Westpac Heli report,114.982,-33.9609
+237,sighted,1,unknown sp.,2021-04-24T13:12:07,SLS Westpac Heli report,115.28,-33.6566
+238,sighted,1,unknown sp.,2021-04-24T10:13:54,SLS Westpac Heli report,115.02,-33.6466
+239,sighted,1,unknown sp.,2021-04-24T08:22:54,SLS Westpac Heli report,115.111,-33.613
+240,caught & released,3,tiger,2021-04-24T05:26:00,SMART drumline trial,114.978,-33.8548
+241,caught & released,3,bronze whaler,2021-04-24T05:03:00,SMART drumline trial,114.987,-33.8482
+242,sighted,1,mako,2021-04-23T19:00:49,Public report,115.619,-33.3245
+243,sighted,1,unknown sp.,2021-04-23T15:37:31,SLS Westpac Heli report,115.542,-31.9919
+244,sighted,1,unknown sp.,2021-04-23T13:10:44,Public report,115.343,-33.6355
+245,sighted,1,bronze whaler,2021-04-23T13:09:01,Public report,122.233,-33.9946
+246,sighted,1,unknown sp.,2021-04-23T13:01:39,Public report,122.542,-33.9343
+247,sighted,1,unknown sp.,2021-04-23T10:07:22,Public report,115.762,-32.1097
+248,sighted,1,unknown sp.,2021-04-23T10:07:00,UPDATE to prior report,115.762,-32.1097
+249,sighted,1,unknown sp.,2021-04-22T14:57:23,SLS Westpac Heli report,115.685,-32.2663
+250,sighted,1,unknown sp.,2021-04-21T17:30:27,Public report,115.786,-32.0106
+251,Detected,4,white,2021-04-21T16:10:00,Fisheries Advise,115.037667,-33.539567
+252,Detected,4,white,2021-04-21T16:04:00,Fisheries Advise,115.037667,-33.539567
+253,Detected,4,white,2021-04-21T16:02:00,Fisheries Advise,115.045567,-33.542016
+254,Detected,4,white,2021-04-21T16:02:00,Fisheries Advise,115.037667,-33.539567
+255,Detected,4,white,2021-04-21T15:56:00,Fisheries Advise,115.037667,-33.539567
+256,Detected,4,white,2021-04-21T15:52:00,Fisheries Advise,115.045567,-33.542016
+257,Detected,4,white,2021-04-21T15:50:00,Fisheries Advise,115.045567,-33.542016
+258,Detected,4,white,2021-04-21T15:44:00,Fisheries Advise,115.045567,-33.542016
+259,sighted,1,unknown sp.,2021-04-21T15:23:10,SLS Westpac Heli report,115.522,-32.0214
+260,Detected,4,white,2021-04-21T14:19:00,Fisheries Advise,115.093091,-33.57247
+261,sighted,1,unknown sp.,2021-04-21T11:57:41,Public report,122.165,-34.0068
+262,sighted,1,unknown sp.,2021-04-21T10:54:00,SLS Westpac Heli report,115.687,-32.2712
+263,sighted,1,bronze whaler,2021-04-21T09:00:45,Public report,115.019,-33.6556
+264,sighted,1,bronze whaler,2021-04-21T08:34:06,Public report,115.04,-33.5452
+265,sighted,1,bronze whaler,2021-04-20T15:40:53,Public report,116.925,-20.7126
+266,Detected,4,bronze whaler,2021-04-20T08:53:00,Fisheries Advise,121.87883,-33.882133
+267,sighted,1,white,2021-04-20T06:40:58,Public report,115.754,-31.96
+268,sighted,1,unknown sp.,2021-04-19T15:50:15,Public report,116.702,-20.6643
+269,Detected,4,bronze whaler,2021-04-19T15:48:00,Fisheries Advise,121.87883,-33.882133
+270,Detected,4,bronze whaler,2021-04-19T14:41:00,Fisheries Advise,121.87883,-33.882133
+271,sighted,1,bronze whaler,2021-04-19T09:07:19,Public report,122.233,-33.9946
+272,sighted,1,unknown sp.,2021-04-19T08:40:35,Public report,122.233,-33.9946
+273,sighted,1,unknown sp.,2021-04-18T16:39:45,Public report,121.985,-33.8298
+274,sighted,1,unknown sp.,2021-04-18T15:51:47,SLS Westpac Heli report,115.498,-32.0158
+275,sighted,1,hammerhead,2021-04-18T14:38:04,SLS Westpac Heli report,115.757,-31.9196
+276,sighted,1,unknown sp.,2021-04-18T13:05:06,Public report,115.777,-32.0279
+277,sighted,1,tiger,2021-04-18T12:08:01,Public report,115.7,-31.689
+278,sighted,1,unknown sp.,2021-04-18T10:40:18,SLS Westpac Heli report,115.015,-33.6603
+279,sighted,1,tiger,2021-04-17T17:19:11,Public report,115.04,-33.5452
+280,sighted,1,tiger,2021-04-17T15:18:19,SLS Westpac Heli report,115.079,-33.5637
+281,sighted,1,white,2021-04-17T14:40:33,Public report,115.59,-33.4031
+282,sighted,1,tiger,2021-04-17T14:10:35,Public report,115.02,-33.6466
+283,sighted,1,bronze whaler,2021-04-17T14:10:16,Public report,115.02,-33.6466
+284,sighted,1,unknown sp.,2021-04-17T09:38:28,SLS Westpac Heli report,115.0,-34.0133
+285,sighted,1,tiger,2021-04-16T15:24:35,Public report,115.04,-33.5452
+286,sighted,1,unknown sp.,2021-04-16T15:02:12,SLS Westpac Heli report,115.027,-34.1641
+287,sighted,1,unknown sp.,2021-04-16T14:54:15,SLS Westpac Heli report,115.036,-34.1915
+288,sighted,1,unknown sp.,2021-04-16T14:54:00,UPDATE to prior report,114.995,-34.003
+289,sighted,1,unknown sp.,2021-04-16T14:45:11,SLS Westpac Heli report,116.907,-35.0568
+290,sighted,1,unknown sp.,2021-04-16T14:38:08,SLS Westpac Heli report,114.982,-33.9609
+291,sighted,1,unknown sp.,2021-04-16T14:22:37,SLS Westpac Heli report,114.997,-33.8208
+292,sighted,1,white,2021-04-16T13:58:07,SLS Westpac Heli report,115.067,-33.56
+293,sighted,1,bronze whaler,2021-04-16T12:00:40,Public report,122.128,-34.0209
+294,sighted,1,unknown sp.,2021-04-16T10:48:27,SLS Westpac Heli report,114.994,-33.7762
+295,sighted,1,unknown sp.,2021-04-16T10:13:39,SLS Westpac Heli report,115.02,-34.1409
+296,sighted,1,unknown sp.,2021-04-16T09:55:43,SLS Westpac Heli report,115.02,-34.1409
+297,sighted,1,unknown sp.,2021-04-16T09:20:37,SLS Westpac Heli report,114.991,-33.7733
+298,caught & released,3,mako,2021-04-16T05:47:00,SMART drumline trial,114.975,-33.8737
+299,caught & released,3,tiger,2021-04-16T03:47:00,SMART drumline trial,114.98,-33.8975
+300,sighted,1,unknown sp.,2021-04-15T15:43:26,SLS Westpac Heli report,115.551,-32.0112
+301,sighted,1,unknown sp.,2021-04-15T15:33:20,SLS Westpac Heli report,115.54,-31.9898
+302,sighted,1,white,2021-04-15T15:30:15,Public report,118.003,-35.0157
+303,sighted,1,unknown sp.,2021-04-15T15:28:09,SLS Westpac Heli report,115.105,-33.6011
+304,sighted,1,unknown sp.,2021-04-15T15:21:11,SLS Westpac Heli report,115.104,-33.5921
+305,sighted,1,unknown sp.,2021-04-15T15:12:42,SLS Westpac Heli report,115.004,-33.5325
+306,sighted,1,unknown sp.,2021-04-15T14:59:51,SLS Westpac Heli report,114.995,-33.6764
+307,sighted,1,unknown sp.,2021-04-15T14:35:25,SLS Westpac Heli report,115.001,-34.0433
+308,sighted,1,unknown sp.,2021-04-15T14:25:42,SLS Westpac Heli report,115.036,-34.1915
+309,sighted,1,unknown sp.,2021-04-15T14:17:03,SLS Westpac Heli report,115.065,-34.2908
+310,sighted,1,unknown sp.,2021-04-15T13:53:17,SLS Westpac Heli report,114.982,-33.9609
+311,sighted,1,unknown sp.,2021-04-15T13:34:19,SLS Westpac Heli report,114.992,-33.692
+312,sighted,1,white,2021-04-15T09:30:17,Public report,115.069,-33.5522
+313,sighted,1,unknown sp.,2021-04-15T09:28:02,SLS Westpac Heli report,114.985,-33.9703
+314,sighted,1,unknown sp.,2021-04-15T09:03:53,SLS Westpac Heli report,114.995,-34.003
+315,sighted,1,unknown sp.,2021-04-14T15:28:40,SLS Westpac Heli report,115.551,-32.0112
+316,sighted,1,unknown sp.,2021-04-14T13:41:11,SLS Westpac Heli report,115.106,-33.6029
+317,sighted,1,unknown sp.,2021-04-14T10:10:41,SLS Westpac Heli report,115.022,-34.1574
+318,sighted,1,unknown sp.,2021-04-14T09:57:18,SLS Westpac Heli report,115.026,-34.1888
+319,sighted,1,unknown sp.,2021-04-14T09:43:15,SLS Westpac Heli report,115.001,-34.0433
+320,sighted,1,unknown sp.,2021-04-14T09:11:39,SLS Westpac Heli report,114.989,-33.6994
+321,sighted,1,unknown sp.,2021-04-13T18:20:07,Public report,115.735,-32.0553
+322,Detected,4,bronze whaler,2021-04-13T15:59:00,Fisheries Advise,117.94592,-35.08678
+323,sighted,1,unknown sp.,2021-04-13T15:43:34,SLS Westpac Heli report,115.302,-33.6552
+324,sighted,1,unknown sp.,2021-04-13T15:30:24,SLS Westpac Heli report,115.104,-33.5921
+325,sighted,1,unknown sp.,2021-04-13T15:24:57,SLS Westpac Heli report,115.069,-33.5601
+326,Detected,4,white,2021-04-11T23:04:00,Fisheries Advise,117.94592,-35.08678
+327,Detected,4,white,2021-04-11T22:58:00,Fisheries Advise,117.94592,-35.08678
+328,Detected,4,white,2021-04-11T22:53:00,Fisheries Advise,117.94592,-35.08678
+329,sighted,1,unknown sp.,2021-04-11T17:55:23,Public report,115.755,-31.9295
+330,sighted,1,unknown sp.,2021-04-11T13:58:27,SLS Westpac Heli report,115.745,-32.0356
+331,sighted,1,unknown sp.,2021-04-11T12:48:38,SLS Westpac Heli report,115.748,-32.0299
+332,sighted,1,unknown sp.,2021-04-10T15:21:10,SLS Westpac Heli report,115.027,-33.6324
+333,sighted,1,unknown sp.,2021-04-10T14:51:22,SLS Westpac Heli report,115.106,-33.6077
+334,sighted,1,unknown sp.,2021-04-10T11:06:24,SLS Westpac Heli report,115.04,-34.2047
+335,sighted,1,unknown sp.,2021-04-10T10:49:02,SLS Westpac Heli report,115.034,-34.1759
+336,sighted,1,unknown sp.,2021-04-10T10:30:49,SLS Westpac Heli report,115.749,-32.0289
+337,sighted,1,unknown sp.,2021-04-10T10:05:23,SLS Westpac Heli report,114.991,-33.6806
+338,sighted,1,unknown sp.,2021-04-10T09:43:25,SLS Westpac Heli report,115.105,-33.6011
+339,sighted,1,unknown sp.,2021-04-10T09:23:45,SLS Westpac Heli report,115.745,-32.037
+340,sighted,1,unknown sp.,2021-04-10T08:44:19,SLS Lifesavers report,115.744,-32.0383
+341,sighted,1,bronze whaler,2021-04-09T16:19:42,Public report,115.343,-33.6355
+342,sighted,1,unknown sp.,2021-04-09T15:35:42,SLS Westpac Heli report,115.123,-33.6227
+343,sighted,1,bronze whaler,2021-04-09T12:22:11,Public report,115.04,-33.5452
+344,sighted,1,tiger,2021-04-09T11:29:46,SLS Westpac Heli report,115.079,-33.5637
+345,sighted,1,unknown sp.,2021-04-09T11:28:31,SLS Westpac Heli report,115.041,-33.5431
+346,sighted,1,bronze whaler,2021-04-09T11:03:52,Public report,115.04,-33.5452
+347,sighted,1,unknown sp.,2021-04-09T10:33:39,SLS Westpac Heli report,115.024,-34.2233
+348,sighted,1,unknown sp.,2021-04-09T09:09:04,Public report,115.008,-33.56
+349,sighted,1,unknown sp.,2021-04-08T15:18:43,SLS Westpac Heli report,115.744,-32.0391
+350,sighted,1,unknown sp.,2021-04-08T14:43:03,SLS Westpac Heli report,115.744,-32.0391
+351,sighted,1,unknown sp.,2021-04-08T10:25:16,SLS Westpac Heli report,115.654,-32.5798
+352,sighted,1,unknown sp.,2021-04-08T08:09:35,UPDATE to prior report,115.751,-31.9958
+353,sighted,1,unknown sp.,2021-04-08T07:58:46,Public report,115.751,-31.9958
+354,sighted,1,unknown sp.,2021-04-07T15:09:50,SLS Westpac Heli report,115.047,-33.5441
+355,sighted,1,unknown sp.,2021-04-07T11:53:23,Public report,115.744,-31.8286
+356,sighted,1,unknown sp.,2021-04-07T10:53:14,SLS Westpac Heli report,114.994,-33.7762
+357,sighted,1,unknown sp.,2021-04-07T10:23:33,SLS Westpac Heli report,115.0,-34.0133
+358,sighted,1,unknown sp.,2021-04-07T10:16:02,SLS Westpac Heli report,115.617,-31.5391
+360,caught & released,3,tiger,2021-04-07T08:55:00,SMART drumline trial,114.978,-33.8548
+361,sighted,1,tiger,2021-04-07T08:52:54,Public report,115.04,-33.5452
+362,sighted,1,unknown sp.,2021-04-07T08:40:09,Public report,114.614,-28.704
+363,sighted,1,unknown sp.,2021-04-07T08:30:54,Public report,117.918,-35.0249
+364,Detected,4,bronze whaler,2021-04-06T16:14:00,Fisheries Advise,121.87883,-33.882133
+365,sighted,1,unknown sp.,2021-04-06T15:29:32,SLS Westpac Heli report,115.272,-33.6566
+366,sighted,1,unknown sp.,2021-04-06T15:09:22,SLS Westpac Heli report,115.748,-32.0299
+367,sighted,1,unknown sp.,2021-04-06T14:57:02,SLS Westpac Heli report,115.751,-31.8767
+368,sighted,1,unknown sp.,2021-04-06T14:44:29,SLS Westpac Heli report,115.058,-33.5487
+369,sighted,1,unknown sp.,2021-04-06T13:45:00,Public report,115.302,-33.6547
+370,sighted,1,unknown sp.,2021-04-06T11:20:30,Public report,118.082,-34.9903
+371,sighted,1,tiger,2021-04-06T10:52:24,Public report,115.046,-30.5227
+372,sighted,1,unknown sp.,2021-04-06T10:01:59,SLS Westpac Heli report,114.979,-33.6977
+373,sighted,1,unknown sp.,2021-04-06T09:07:45,Public report,115.686,-32.2694
+374,"caught, relocated & released",6,tiger,2021-04-06T07:21:00,SMART drumline trial,114.987,-33.8482
+375,caught & released,3,tiger,2021-04-06T05:58:00,SMART drumline trial,114.981,-33.9091
+376,sighted,1,unknown sp.,2021-04-05T15:04:15,SLS Westpac Heli report,115.742,-32.0401
+377,sighted,1,unknown sp.,2021-04-05T15:01:18,SLS Westpac Heli report,115.009,-33.5525
+378,sighted,1,tiger,2021-04-05T11:23:05,Fisheries Advise,115.503,-31.991
+379,sighted,1,unknown sp.,2021-04-05T10:53:53,Public report,122.201,-17.9555
+380,sighted,1,hammerhead,2021-04-05T09:58:00,SLS Westpac Heli report,115.747,-32.4758
+381,caught & released,3,mako,2021-04-05T08:27:00,SMART drumline trial,114.978,-33.8548
+382,caught & released,3,tiger,2021-04-05T07:57:00,SMART drumline trial,114.99,-33.8244
+383,sighted,1,unknown sp.,2021-04-05T06:31:54,Public report,115.751,-31.9958
+384,caught & released,3,tiger,2021-04-05T02:21:00,SMART drumline trial,114.981,-33.9091
+385,sighted,1,tiger,2021-04-04T18:20:16,Public report,115.745,-32.0346
+387,caught & released,3,dusky,2021-04-04T03:03:00,SMART drumline trial,114.97,-33.8626
+388,sighted,1,white,2021-04-03T15:47:46,SLS Westpac Heli report,115.051,-33.5439
+389,sighted,1,white,2021-04-03T15:00:39,SLS Westpac Heli report,115.051,-33.5439
+390,sighted,1,unknown sp.,2021-04-03T14:56:15,SLS Westpac Heli report,115.756,-31.9452
+391,sighted,1,unknown sp.,2021-04-03T14:32:42,SLS Westpac Heli report,115.754,-31.9365
+392,sighted,1,unknown sp.,2021-04-03T14:22:13,Public report,115.754,-31.9365
+393,sighted,1,unknown sp.,2021-04-03T12:01:51,Public report,115.755,-31.8944
+394,sighted,1,blacktip,2021-04-03T09:30:59,Public report,115.621,-31.5451
+395,sighted,1,bronze whaler,2021-04-02T16:00:41,Public report,118.17,-34.955
+396,sighted,1,unknown sp.,2021-04-02T15:48:15,SLS Westpac Heli report,115.204,-33.651
+397,sighted,1,unknown sp.,2021-04-02T14:57:20,SLS Westpac Heli report,115.04,-33.5452
+398,sighted,1,unknown sp.,2021-04-02T11:31:39,SLS Westpac Heli report,114.992,-33.692
+399,sighted,1,unknown sp.,2021-04-02T11:14:33,SLS Westpac Heli report,114.992,-33.9354
+400,sighted,1,unknown sp.,2021-04-02T10:41:50,SLS Westpac Heli report,115.065,-34.2908
+401,sighted,1,unknown sp.,2021-04-02T10:36:14,SLS Westpac Heli report,115.036,-34.1915
+402,sighted,1,unknown sp.,2021-04-02T10:16:41,SLS Westpac Heli report,115.556,-32.0033
+403,sighted,1,hammerhead,2021-04-01T14:32:00,SLS Westpac Heli report,115.756,-31.9414
+404,sighted,1,mako,2021-04-01T10:28:08,Fisheries Advise,114.975,-33.8641
+405,caught & released,3,tiger,2021-04-01T04:52:00,SMART drumline trial,114.992,-33.8125
+406,sighted,1,unknown sp.,2021-03-31T14:00:11,Public report,117.899,-35.1166
+407,caught & released,3,tiger,2021-03-31T03:41:00,SMART drumline trial,114.992,-33.8125
+408,sighted,1,bull,2021-03-30T16:00:03,Public report,115.718,-32.5382
+409,sighted,1,unknown sp.,2021-03-30T14:20:20,Public report,121.85,-33.8884
+410,sighted,1,unknown sp.,2021-03-30T14:03:31,Public report,118.199,-34.9753
+411,sighted,1,white,2021-03-30T10:56:59,Public report,121.846,-33.887
+412,sighted,1,unknown sp.,2021-03-30T08:45:26,SLS Westpac Heli report,115.691,-32.2691
+413,sighted,1,unknown sp.,2021-03-29T15:48:35,SLS Westpac Heli report,115.751,-31.8767
+414,sighted,1,unknown sp.,2021-03-29T15:27:22,Public report,121.856,-33.8877
+415,sighted,1,unknown sp.,2021-03-29T14:54:18,Public report,122.233,-33.9946
+416,sighted,1,bronze whaler,2021-03-29T14:13:28,DBCA officers report,118.199,-34.9753
+417,sighted,1,unknown sp.,2021-03-29T10:24:51,Public report,115.858,-32.0346
+418,sighted,1,unknown sp.,2021-03-29T10:00:57,Public report,116.93,-35.0412
+419,sighted,1,unknown sp.,2021-03-29T09:16:01,Public report,117.796,-35.069
+420,sighted,1,unknown sp.,2021-03-28T16:23:29,SLS Lifesavers report,115.754,-31.8975
+421,sighted,1,unknown sp.,2021-03-28T14:52:38,SLS Westpac Heli report,115.104,-33.5921
+422,sighted,1,bronze whaler,2021-03-28T14:26:33,Public report,117.075,-35.0351
+423,sighted,1,unknown sp.,2021-03-28T10:30:23,Public report,115.786,-32.0106
+424,sighted,1,tiger,2021-03-28T09:52:48,Public report,117.799,-35.0675
+425,sighted,1,unknown sp.,2021-03-28T08:57:02,SLS Lifesavers report,115.749,-32.0265
+426,sighted,1,unknown sp.,2021-03-28T08:12:54,Public report,115.745,-32.0346
+427,sighted,1,unknown sp.,2021-03-27T13:40:00,Fisheries Advise,113.768,-23.1423
+428,sighted,1,unknown sp.,2021-03-27T12:20:01,Fisheries Advise,113.768,-23.1423
+429,sighted,1,unknown sp.,2021-03-27T11:30:25,Public report,115.065,-34.2908
+430,sighted,1,bronze whaler,2021-03-27T10:30:11,Public report,122.233,-33.9946
+431,sighted,1,unknown sp.,2021-03-27T09:42:59,Public report,117.775,-35.0595
+432,Detected,4,white,2021-03-27T00:56:00,Fisheries Advise,121.827742,-33.897738
+433,Detected,4,white,2021-03-27T00:40:00,Fisheries Advise,121.828767,-33.892958
+434,Detected,4,white,2021-03-27T00:33:00,Fisheries Advise,121.828767,-33.892958
+435,Detected,4,white,2021-03-27T00:28:00,Fisheries Advise,121.828767,-33.892958
+436,sighted,1,unknown sp.,2021-03-26T13:11:45,Public report,121.823,-33.894
+437,sighted,1,unknown sp.,2021-03-26T09:20:01,Public report,122.301,-33.9432
+438,sighted,1,unknown sp.,2021-03-25T13:19:56,Public report,115.026,-33.6211
+439,sighted,1,unknown sp.,2021-03-25T12:00:15,Public report,118.199,-34.9753
+440,sighted,1,unknown sp.,2021-03-25T09:40:04,SLS Westpac Heli report,115.755,-31.9656
+441,sighted,1,unknown sp.,2021-03-25T08:41:58,SLS Westpac Heli report,115.66,-31.6087
+442,Detected,4,white,2021-03-24T22:46:00,Fisheries Advise,121.87883,-33.882133
+443,Detected,4,white,2021-03-24T22:41:00,Fisheries Advise,121.87883,-33.882133
+444,Detected,4,white,2021-03-24T17:12:00,Fisheries Advise,121.828767,-33.892958
+445,caught & released,3,tiger,2021-03-24T01:09:00,SMART drumline trial,114.97,-33.8626
+446,caught & released,3,tiger,2021-03-23T04:15:00,SMART drumline trial,114.99,-33.8244
+447,"caught, relocated & released",6,tiger,2021-03-23T01:36:00,SMART drumline trial,114.981,-33.9091
+448,sighted,1,unknown sp.,2021-03-22T14:40:49,Public report,121.856,-33.8877
+449,sighted,1,unknown sp.,2021-03-21T15:32:03,SLS Westpac Heli report,115.542,-31.9899
+450,sighted,1,white,2021-03-21T14:45:46,Public report,121.85,-33.8884
+451,sighted,1,unknown sp.,2021-03-21T14:17:43,SLS Westpac Heli report,114.982,-33.9609
+452,sighted,1,bronze whaler,2021-03-21T12:49:48,Public report,121.85,-33.8884
+453,sighted,1,white,2021-03-21T12:42:06,Public report,121.85,-33.8884
+454,sighted,1,unknown sp.,2021-03-21T11:30:21,SLS Westpac Heli report,115.085,-33.5658
+455,sighted,1,bronze whaler,2021-03-21T10:52:26,SLS Westpac Heli report,114.992,-33.9473
+456,sighted,1,bronze whaler,2021-03-21T09:00:36,Public report,122.233,-33.9946
+457,caught & released,3,dusky,2021-03-21T01:13:00,SMART drumline trial,114.981,-33.9091
+458,sighted,1,white,2021-03-20T16:00:26,Public report,122.202,-34.0026
+459,sighted,1,unknown sp.,2021-03-20T15:23:45,SLS Westpac Heli report,115.105,-33.6011
+460,sighted,1,unknown sp.,2021-03-20T15:10:19,Public report,115.023,-33.6371
+461,sighted,1,unknown sp.,2021-03-20T14:15:38,Public report,116.931,-35.0408
+462,sighted,1,unknown sp.,2021-03-20T11:59:31,Public report,115.749,-32.0265
+463,sighted,1,unknown sp.,2021-03-20T11:27:13,SLS Westpac Heli report,115.127,-33.6251
+464,sighted,1,unknown sp.,2021-03-20T11:15:24,SLS Westpac Heli report,115.051,-33.5439
+465,sighted,1,bronze whaler,2021-03-20T10:01:31,SLS Westpac Heli report,114.982,-33.9609
+466,sighted,1,bronze whaler,2021-03-19T11:50:52,Public report,121.858,-33.8879
+467,sighted,1,unknown sp.,2021-03-19T10:27:00,SLS Westpac Heli report,115.745,-32.0356
+468,sighted,1,unknown sp.,2021-03-19T07:43:29,Public report,115.745,-32.0346
+469,caught & released,3,mako,2021-03-19T02:49:00,SMART drumline trial,114.97,-33.8626
+470,sighted,1,unknown sp.,2021-03-18T14:57:00,SLS Westpac Heli report,115.756,-31.9245
+471,sighted,1,unknown sp.,2021-03-18T11:09:23,Public report,122.201,-17.9555
+472,sighted,1,unknown sp.,2021-03-17T14:39:48,SLS Westpac Heli report,115.756,-31.9269
+473,sighted,1,bronze whaler,2021-03-17T13:45:26,Public report,117.354,-34.9933
+474,sighted,1,unknown sp.,2021-03-16T15:40:56,Public report,121.822,-33.8952
+475,sighted,1,unknown sp.,2021-03-16T08:34:08,Public report,115.89,-32.0204
+477,caught & released,3,mako,2021-03-16T06:53:00,SMART drumline trial,114.97,-33.8626
+478,sighted,1,unknown sp.,2021-03-15T15:10:24,Public report,115.019,-33.6556
+479,sighted,1,unknown sp.,2021-03-15T14:36:31,Public report,115.024,-33.6464
+480,sighted,1,tiger,2021-03-14T15:27:16,SLS Westpac Heli report,115.127,-33.6251
+481,sighted,1,bronze whaler,2021-03-14T15:24:47,SLS Westpac Heli report,115.123,-33.6227
+482,sighted,1,unknown sp.,2021-03-14T15:17:24,SLS Westpac Heli report,115.542,-31.9899
+483,sighted,1,unknown sp.,2021-03-14T15:13:48,SLS Westpac Heli report,115.058,-33.5457
+484,sighted,1,bronze whaler,2021-03-14T14:24:37,SLS Westpac Heli report,114.982,-33.9609
+485,sighted,1,bronze whaler,2021-03-14T14:22:19,SLS Westpac Heli report,114.992,-33.9466
+486,sighted,1,unknown sp.,2021-03-14T13:35:44,SLS Westpac Heli report,115.311,-33.654
+487,sighted,1,unknown sp.,2021-03-14T11:24:36,Public report,115.525,-32.0243
+488,sighted,1,unknown sp.,2021-03-14T09:31:02,SLS Westpac Heli report,115.085,-33.5658
+489,caught & released,3,dusky,2021-03-14T08:39:00,SMART drumline trial,114.978,-33.8548
+491,sighted,1,unknown sp.,2021-03-13T12:32:17,Public report,115.713,-33.2786
+492,sighted,1,bull,2021-03-13T08:40:42,Public report,122.18,-17.974
+493,caught & released,3,mako,2021-03-13T06:07:00,SMART drumline trial,114.978,-33.8548
+494,caught & released,3,mako,2021-03-13T02:55:00,SMART drumline trial,114.97,-33.8626
+495,sighted,1,unknown sp.,2021-03-12T10:29:00,SLS Westpac Heli report,115.694,-32.53
+496,sighted,1,white,2021-03-11T14:40:48,Public report,121.823,-33.894
+497,sighted,1,unknown sp.,2021-03-11T12:50:07,Public report,121.843,-33.887
+498,sighted,1,unknown sp.,2021-03-11T10:01:54,Public report,115.731,-32.3627
+499,sighted,1,unknown sp.,2021-03-11T10:00:21,UPDATE to prior report,115.731,-32.3627
+500,sighted,1,bronze whaler,2021-03-11T09:27:53,Public report,115.015,-33.6603
+501,caught & released,3,bronze whaler,2021-03-11T02:10:00,SMART drumline trial,114.978,-33.8548
+502,caught & released,3,tiger,2021-03-11T01:27:00,SMART drumline trial,114.981,-33.9091
+503,sighted,1,unknown sp.,2021-03-10T17:29:09,SLS Lifesavers report,115.754,-31.9365
+504,sighted,1,bronze whaler,2021-03-10T16:07:56,Public report,121.85,-33.8884
+505,sighted,1,white,2021-03-10T15:03:30,Public report,121.823,-33.894
+506,sighted,1,unknown sp.,2021-03-10T14:58:57,SLS Westpac Heli report,115.755,-31.8944
+507,sighted,1,white,2021-03-10T14:51:07,Public report,121.795,-33.909
+508,sighted,1,white,2021-03-10T13:22:04,Public report,115.001,-34.0433
+509,sighted,1,unknown sp.,2021-03-09T11:21:28,Public report,115.751,-32.0189
+510,sighted,1,unknown sp.,2021-03-09T09:07:49,Public report,115.858,-32.0346
+511,sighted,1,unknown sp.,2021-03-09T08:47:23,Public report,114.99,-33.985
+512,caught & released,3,tiger,2021-03-09T01:08:00,SMART drumline trial,114.97,-33.8626
+513,sighted,1,white,2021-03-08T18:30:54,Public report,114.979,-33.7001
+514,sighted,1,unknown sp.,2021-03-08T15:09:00,SLS Westpac Heli report,115.653,-31.5983
+515,sighted,1,unknown sp.,2021-03-08T15:06:42,SLS Westpac Heli report,115.625,-31.5512
+517,caught & released,3,tiger,2021-03-08T01:41:00,SMART drumline trial,114.992,-33.8125
+518,sighted,1,white,2021-03-07T10:30:49,DBCA officers report,115.691,-32.3055
+519,sighted,1,unknown sp.,2021-03-07T10:07:25,Public report,121.985,-33.8298
+520,caught & released,3,bronze whaler,2021-03-07T04:25:00,SMART drumline trial,114.975,-33.8737
+521,sighted,1,unknown sp.,2021-03-06T12:10:08,Public report,114.597,-28.7904
+523,sighted,1,unknown sp.,2021-03-06T09:42:22,Public report,115.524,-32.0249
+524,sighted,1,unknown sp.,2021-03-06T08:34:32,Public report,115.617,-33.357
+525,sighted,1,unknown sp.,2021-03-06T07:33:58,Public report,115.382,-31.119
+526,sighted,1,unknown sp.,2021-03-05T20:00:35,Public report,114.978,-29.9455
+527,sighted,1,unknown sp.,2021-03-05T11:18:13,Public report,122.176,-17.9733
+528,sighted,1,unknown sp.,2021-03-05T07:55:38,Public report,115.733,-31.814
+529,sighted,1,unknown sp.,2021-03-04T12:27:12,Public report,114.992,-33.9841
+530,sighted,1,unknown sp.,2021-03-03T15:06:10,SLS Westpac Heli report,115.754,-31.96
+531,sighted,1,bronze whaler,2021-03-03T08:00:00,Public report,114.997,-34.0051
+532,caught & released,3,mako,2021-03-03T01:51:00,SMART drumline trial,114.97,-33.8626
+533,sighted,1,unknown sp.,2021-03-02T16:34:15,Public report,115.02,-33.6466
+534,sighted,1,white,2021-03-02T13:05:56,Public report,115.521,-31.9784
+535,sighted,1,bronze whaler,2021-03-02T11:12:27,Public report,114.997,-34.0051
+536,caught & released,3,tiger,2021-03-02T06:49:00,SMART drumline trial,114.989,-33.8367
+537,caught & released,3,tiger,2021-03-02T04:06:00,SMART drumline trial,114.989,-33.8367
+538,caught & released,3,tiger,2021-03-02T02:35:00,SMART drumline trial,114.981,-33.9091
+539,sighted,1,unknown sp.,2021-03-01T14:50:29,UPDATE to prior report,115.755,-31.9792
+540,sighted,1,unknown sp.,2021-03-01T14:50:20,SLS Westpac Heli report,115.755,-31.9792
+541,sighted,1,bronze whaler,2021-03-01T10:41:24,SLS Westpac Heli report,115.015,-33.6603
+542,sighted,1,unknown sp.,2021-03-01T08:00:44,Public report,115.621,-31.5451
+543,sighted,1,bronze whaler,2021-02-28T16:30:48,Public report,115.136,-34.3767
+544,sighted,1,white,2021-02-28T13:00:21,Public report,115.662,-32.1144
+545,sighted,1,unknown sp.,2021-02-28T08:15:32,Public report,115.484,-32.0071
+547,sighted,1,unknown sp.,2021-02-27T16:03:36,SLS Westpac Heli report,115.204,-33.651
+548,sighted,1,unknown sp.,2021-02-25T11:44:05,Public report,114.996,-33.9998
+549,sighted,1,unknown sp.,2021-02-24T21:15:50,Public report,115.866,-31.9744
+550,sighted,1,unknown sp.,2021-02-24T20:20:05,UPDATE to prior report,115.866,-31.9744
+552,sighted,1,tiger,2021-02-24T15:48:58,Fisheries Advise,114.998,-33.6701
+553,sighted,1,unknown sp.,2021-02-24T11:42:38,Public report,115.755,-31.9295
+554,sighted,1,unknown sp.,2021-02-24T08:39:36,Public report,115.853,-32.0111
+555,Detected,4,bronze whaler,2021-02-24T02:53:00,Fisheries Advise,121.87883,-33.882133
+556,sighted,1,unknown sp.,2021-02-23T18:05:44,Public report,121.906,-33.8614
+557,sighted,1,unknown sp.,2021-02-23T15:53:54,SLS Westpac Heli report,115.508,-32.0174
+558,sighted,1,unknown sp.,2021-02-23T15:50:52,SLS Westpac Heli report,115.508,-32.0174
+559,sighted,1,unknown sp.,2021-02-23T15:44:00,SLS Westpac Heli report,115.491,-31.9992
+560,sighted,1,unknown sp.,2021-02-23T11:45:22,Public report,115.03,-33.635
+561,sighted,1,unknown sp.,2021-02-23T10:17:26,SLS Westpac Heli report,115.717,-32.5208
+562,caught & released,3,bronze whaler,2021-02-23T07:26:00,SMART drumline trial,114.978,-33.8852
+563,"caught, relocated & released",6,tiger,2021-02-23T03:54:00,SMART drumline trial,114.989,-33.8367
+564,sighted,1,unknown sp.,2021-02-22T15:41:23,SLS Westpac Heli report,115.56,-32.0024
+565,sighted,1,hammerhead,2021-02-22T13:32:13,SLS Westpac Heli report,115.756,-31.9342
+566,sighted,1,white,2021-02-22T12:30:11,Public report,115.664,-32.1221
+567,sighted,1,hammerhead,2021-02-21T15:48:05,SLS Westpac Heli report,115.751,-31.8767
+568,sighted,1,unknown sp.,2021-02-20T15:16:34,SLS Westpac Heli report,115.111,-33.613
+569,sighted,1,bull,2021-02-20T13:30:11,Public report,117.945,-35.0627
+570,sighted,1,unknown sp.,2021-02-20T12:18:24,SLS Westpac Heli report,115.028,-34.2211
+571,sighted,1,unknown sp.,2021-02-20T12:09:18,SLS Westpac Heli report,115.744,-31.8286
+572,sighted,1,unknown sp.,2021-02-20T10:20:48,Public report,115.556,-31.991
+573,sighted,1,bronze whaler,2021-02-20T09:40:44,SLS Westpac Heli report,115.668,-31.9988
+574,sighted,1,bronze whaler,2021-02-20T09:40:08,UPDATE to prior report,115.668,-31.9988
+575,sighted,1,white,2021-02-20T09:00:20,Fisheries Advise,114.148,-21.9563
+576,sighted,1,unknown sp.,2021-02-20T07:43:53,Public report,115.735,-32.0553
+577,sighted,1,bull,2021-02-20T00:21:10,Public report,115.853,-32.0111
+578,sighted,1,white,2021-02-19T19:37:47,Public report,115.749,-32.0265
+579,sighted,1,unknown sp.,2021-02-19T17:48:13,Public report,115.754,-31.96
+580,sighted,1,unknown sp.,2021-02-19T17:19:43,Public report,115.855,-32.0232
+581,sighted,1,bronze whaler,2021-02-19T15:21:19,Public report,122.233,-33.9946
+582,sighted,1,white,2021-02-19T15:00:00,Public report,117.17,-35.0255
+583,sighted,1,bronze whaler,2021-02-19T13:15:38,Fisheries Advise,115.028,-34.2208
+584,sighted,1,bull,2021-02-19T12:50:00,Public report,115.792,-32.0133
+585,sighted,1,bull,2021-02-19T11:30:45,Public report,115.792,-32.0133
+586,sighted,1,tiger,2021-02-17T16:12:23,Public report,115.04,-30.2943
+587,sighted,1,unknown sp.,2021-02-17T15:56:40,SLS Westpac Heli report,115.753,-32.0842
+588,sighted,1,unknown sp.,2021-02-17T15:23:02,SLS Westpac Heli report,115.755,-31.8944
+589,sighted,1,unknown sp.,2021-02-17T06:40:10,Public report,115.901,-32.0253
+590,sighted,1,bull,2021-02-17T04:00:00,Public report,115.853,-32.0111
+591,sighted,1,unknown sp.,2021-02-16T16:10:51,Public report,115.755,-31.9295
+592,sighted,1,unknown sp.,2021-02-16T15:58:00,SLS Westpac Heli report,115.555,-32.0055
+593,sighted,1,unknown sp.,2021-02-16T15:20:33,Public report,116.738,-35.0291
+594,sighted,1,bull,2021-02-15T10:55:49,Public report,115.78,-32.0058
+595,sighted,1,unknown sp.,2021-02-15T10:47:08,SLS Westpac Heli report,115.542,-31.9919
+596,sighted,1,unknown sp.,2021-02-15T10:26:46,SLS Westpac Heli report,115.457,-32.0254
+597,sighted,1,unknown sp.,2021-02-14T15:44:20,SLS Westpac Heli report,115.292,-33.6563
+598,sighted,1,unknown sp.,2021-02-14T12:36:16,SLS Westpac Heli report,114.992,-33.9473
+599,sighted,1,tiger,2021-02-14T11:23:38,SLS Westpac Heli report,115.1,-33.5834
+600,sighted,1,unknown sp.,2021-02-14T09:43:44,SLS Westpac Heli report,115.02,-33.6466
+602,caught & released,3,tiger,2021-02-14T06:48:00,SMART drumline trial,114.99,-33.8244
+603,sighted,1,unknown sp.,2021-02-13T17:30:52,Public report,115.708,-32.5208
+604,sighted,1,white,2021-02-13T15:56:26,SLS Westpac Heli report,115.085,-33.5658
+605,Detected,4,white,2021-02-13T15:37:00,Fisheries Advise,115.093091,-33.57247
+606,Detected,4,white,2021-02-13T15:31:00,Fisheries Advise,115.093091,-33.57247
+607,sighted,1,unknown sp.,2021-02-13T15:00:16,Public report,115.1,-33.5834
+608,sighted,1,tiger,2021-02-13T11:45:31,SLS Westpac Heli report,115.653,-31.5983
+609,sighted,1,unknown sp.,2021-02-13T11:39:28,Fisheries Advise,115.028,-34.2208
+610,"caught, relocated & released",6,tiger,2021-02-13T02:10:00,SMART drumline trial,114.98,-33.8975
+611,sighted,1,unknown sp.,2021-02-12T18:34:19,Public report,122.18,-17.974
+612,sighted,1,unknown sp.,2021-02-12T10:50:37,Public report,122.201,-17.9555
+613,sighted,1,hammerhead,2021-02-10T15:56:25,Public report,119.439,-34.4057
+615,sighted,1,tiger,2021-02-09T18:00:28,DBCA officers report,114.052,-21.8364
+616,sighted,1,bronze whaler,2021-02-09T15:58:27,Public report,117.331,-35.0293
+617,sighted,1,unknown sp.,2021-02-09T12:20:17,Public report,122.18,-17.974
+618,sighted,1,unknown sp.,2021-02-09T10:24:27,SLS Westpac Heli report,115.691,-32.2691
+619,sighted,1,unknown sp.,2021-02-09T07:47:28,Public report,115.715,-32.5194
+620,sighted,1,bronze whaler,2021-02-08T16:30:36,Public report,115.032,-33.5369
+621,sighted,1,unknown sp.,2021-02-08T16:00:52,Public report,115.855,-32.0232
+622,sighted,1,unknown sp.,2021-02-07T16:00:06,Public report,114.607,-28.6815
+623,caught & released,3,tiger,2021-02-07T03:15:00,SMART drumline trial,114.987,-33.8482
+624,sighted,1,unknown sp.,2021-02-06T15:42:18,SLS Westpac Heli report,115.015,-33.6603
+625,sighted,1,unknown sp.,2021-02-06T13:16:12,SLS Westpac Heli report,115.015,-33.6603
+626,sighted,1,unknown sp.,2021-02-06T13:15:24,SLS Westpac Heli report,115.027,-33.6372
+627,sighted,1,unknown sp.,2021-02-06T11:49:16,SLS Westpac Heli report,115.02,-33.6488
+628,sighted,1,unknown sp.,2021-02-06T11:45:59,SLS Westpac Heli report,115.027,-33.6372
+629,sighted,1,tiger,2021-02-06T11:31:43,SLS Westpac Heli report,115.105,-33.605
+630,sighted,1,white,2021-02-06T10:30:00,UPDATE to prior report,114.614,-28.704
+631,sighted,1,tiger,2021-02-06T09:54:53,SLS Westpac Heli report,115.127,-33.6251
+632,sighted,1,unknown sp.,2021-02-06T09:40:52,SLS Westpac Heli report,115.027,-33.6372
+633,sighted,1,unknown sp.,2021-02-06T09:31:43,SLS Westpac Heli report,114.979,-33.6977
+634,sighted,1,white,2021-02-06T08:30:37,Public report,114.614,-28.704
+635,caught & released,3,bronze whaler,2021-02-06T06:15:00,SMART drumline trial,114.981,-33.9091
+636,caught & released,3,tiger,2021-02-06T05:07:00,SMART drumline trial,114.98,-33.8975
+637,sighted,1,tiger,2021-02-05T15:07:48,SLS Westpac Heli report,115.748,-32.0146
+638,sighted,1,unknown sp.,2021-02-05T11:50:15,Public report,115.686,-32.2694
+639,sighted,1,tiger,2021-02-05T11:31:01,SLS Westpac Heli report,115.758,-31.9161
+640,sighted,1,unknown sp.,2021-02-04T18:00:02,Public report,114.99,-33.985
+641,sighted,1,unknown sp.,2021-02-04T14:30:15,Public report,115.744,-32.4855
+642,sighted,1,unknown sp.,2021-02-04T11:20:49,Public report,115.733,-31.814
+643,sighted,1,white,2021-02-04T09:38:52,Public report,115.001,-34.0433
+644,sighted,1,bull,2021-02-04T07:30:14,Public report,115.901,-32.0281
+645,sighted,1,unknown sp.,2021-02-03T13:57:24,SLS Lifesavers report,115.756,-31.9392
+646,sighted,1,bull,2021-02-03T10:02:38,Public report,115.741,-33.299
+648,sighted,1,bull,2021-02-02T15:28:42,Public report,115.833,-32.0046
+649,sighted,1,white,2021-02-02T15:00:45,Public report,122.233,-33.9946
+650,sighted,1,unknown sp.,2021-02-02T14:51:10,Public report,115.763,-32.1076
+651,sighted,1,unknown sp.,2021-02-02T12:30:36,Public report,117.334,-35.0261
+652,sighted,1,unknown sp.,2021-02-02T10:53:47,Public report,115.176,-34.3254
+653,sighted,1,unknown sp.,2021-02-02T09:42:38,SLS Westpac Heli report,115.756,-31.9432
+654,sighted,1,unknown sp.,2021-02-02T09:39:28,Public report,115.718,-32.3058
+655,sighted,1,tiger,2021-02-01T14:57:34,SLS Westpac Heli report,115.686,-32.2694
+656,sighted,1,bronze whaler,2021-02-01T09:20:56,Public report,116.931,-35.0408
+657,sighted,1,tiger,2021-01-31T11:53:00,SLS Westpac Heli report,115.037,-33.5433
+658,sighted,1,white,2021-01-31T11:25:34,Public report,114.561,-28.546
+659,sighted,1,white,2021-01-31T11:19:28,Public report,114.561,-28.546
+660,sighted,1,unknown sp.,2021-01-31T10:30:26,Public report,115.556,-31.991
+661,sighted,1,unknown sp.,2021-01-31T08:04:38,Public report,115.472,-32.0132
+662,tagged & released,2,white,2021-01-31T08:00:58,Fisheries Advise,122.833,-33.9084
+663,caught & released,3,tiger,2021-01-31T02:29:00,SMART drumline trial,114.975,-33.8737
+664,Detected,4,white,2021-01-31T00:49:00,Fisheries Advise,115.093091,-33.57247
+665,sighted,1,hammerhead,2021-01-30T14:49:22,SLS Westpac Heli report,115.757,-31.9196
+666,sighted,1,unknown sp.,2021-01-30T14:45:52,SLS Lifesavers report,117.33,-35.0297
+667,sighted,1,unknown sp.,2021-01-30T14:29:06,SLS Westpac Heli report,114.99,-33.985
+668,sighted,1,unknown sp.,2021-01-30T10:30:39,Public report,114.987,-33.8639
+669,tagged & released,2,white,2021-01-30T09:30:44,Fisheries Advise,122.836,-33.9059
+670,sighted,1,unknown sp.,2021-01-30T08:30:07,Public report,115.792,-32.0133
+671,sighted,1,unknown sp.,2021-01-30T06:50:02,Public report,115.745,-32.1342
+672,sighted,1,bull,2021-01-29T23:15:14,Public report,115.853,-32.0111
+673,Detected,4,white,2021-01-29T21:19:00,Fisheries Advise,115.093091,-33.57247
+674,Detected,4,white,2021-01-29T21:14:00,Fisheries Advise,115.093091,-33.57247
+675,Detected,4,white,2021-01-29T19:50:00,Fisheries Advise,115.093091,-33.57247
+676,sighted,1,unknown sp.,2021-01-29T13:42:09,Public report,116.93,-35.0412
+678,sighted,1,tiger,2021-01-29T10:01:03,SLS Westpac Heli report,115.058,-33.5487
+679,Detected,4,white,2021-01-29T05:14:00,Fisheries Advise,115.093091,-33.57247
+680,Detected,4,white,2021-01-29T03:00:00,Fisheries Advise,115.045567,-33.542016
+681,Detected,4,white,2021-01-29T02:54:00,Fisheries Advise,115.045567,-33.542016
+682,Detected,4,white,2021-01-28T21:32:00,Fisheries Advise,115.093091,-33.57247
+683,Detected,4,white,2021-01-28T21:26:00,Fisheries Advise,115.093091,-33.57247
+684,sighted,1,unknown sp.,2021-01-28T16:03:28,Public report,115.745,-32.1366
+685,sighted,1,unknown sp.,2021-01-28T13:14:53,SLS Westpac Heli report,115.755,-31.8944
+686,sighted,1,unknown sp.,2021-01-28T12:00:16,Public report,117.368,-34.9724
+687,sighted,1,unknown sp.,2021-01-28T10:38:29,SLS Westpac Heli report,115.027,-34.1641
+688,sighted,1,unknown sp.,2021-01-28T10:26:41,DBCA officers report,115.556,-31.991
+689,sighted,1,unknown sp.,2021-01-28T10:02:25,SLS Westpac Heli report,114.992,-33.9473
+690,sighted,1,unknown sp.,2021-01-28T09:13:17,SLS Westpac Heli report,115.226,-33.6553
+691,Detected,4,white,2021-01-27T23:51:00,Fisheries Advise,115.093091,-33.57247
+692,Detected,4,white,2021-01-27T23:45:00,Fisheries Advise,115.093091,-33.57247
+693,Detected,4,white,2021-01-27T20:00:00,Fisheries Advise,115.045567,-33.542016
+694,Detected,4,white,2021-01-27T18:54:00,Fisheries Advise,115.037667,-33.539567
+695,Detected,4,white,2021-01-27T18:50:00,Fisheries Advise,115.045567,-33.542016
+696,Detected,4,white,2021-01-27T18:48:00,Fisheries Advise,115.045567,-33.542016
+697,Detected,4,white,2021-01-27T18:42:00,Fisheries Advise,115.045567,-33.542016
+698,sighted,1,unknown sp.,2021-01-27T16:20:40,Public report,117.945,-35.0922
+699,sighted,1,unknown sp.,2021-01-27T16:07:56,SLS Westpac Heli report,115.746,-32.033
+700,sighted,1,tiger,2021-01-27T14:48:47,UPDATE to prior report,115.745,-32.0364
+701,sighted,1,white,2021-01-27T14:11:56,SLS Westpac Heli report,115.745,-32.0364
+702,Detected,4,bronze whaler,2021-01-27T13:42:00,Fisheries Advise,121.87883,-33.882133
+703,Detected,4,bronze whaler,2021-01-27T13:14:00,Fisheries Advise,121.87883,-33.882133
+704,sighted,1,unknown sp.,2021-01-27T12:25:20,SLS Westpac Heli report,115.745,-32.0364
+705,sighted,1,unknown sp.,2021-01-27T12:12:13,Public report,115.749,-32.0265
+706,sighted,1,unknown sp.,2021-01-27T12:09:04,Public report,115.745,-32.0346
+707,sighted,1,unknown sp.,2021-01-27T11:55:09,Public report,115.749,-32.0265
+708,sighted,1,unknown sp.,2021-01-27T11:48:52,SLS Westpac Heli report,115.542,-31.9899
+709,sighted,1,unknown sp.,2021-01-27T11:19:06,SLS Westpac Heli report,115.047,-33.5441
+710,sighted,1,bull,2021-01-27T06:45:00,Public report,115.763,-32.0269
+711,"caught, relocated & released",6,tiger,2021-01-27T03:21:00,SMART drumline trial,114.992,-33.8125
+712,sighted,1,unknown sp.,2021-01-26T16:49:13,Public report,117.629,-35.1107
+713,sighted,1,unknown sp.,2021-01-26T15:13:15,SLS Westpac Heli report,115.256,-33.6567
+714,sighted,1,unknown sp.,2021-01-26T15:00:13,Public report,114.99,-33.985
+715,sighted,1,unknown sp.,2021-01-26T14:46:53,Public report,115.095,-33.5811
+716,sighted,1,unknown sp.,2021-01-26T12:46:41,SLS Westpac Heli report,114.992,-33.9473
+717,sighted,1,unknown sp.,2021-01-26T11:09:07,Public report,117.629,-35.1087
+718,sighted,1,unknown sp.,2021-01-26T11:08:08,Public report,115.111,-33.613
+719,sighted,1,tiger,2021-01-26T10:40:51,Public report,115.484,-32.0168
+720,sighted,1,tiger,2021-01-26T09:02:40,Public report,115.105,-33.6011
+721,sighted,1,unknown sp.,2021-01-26T08:38:04,Public report,122.233,-33.9946
+722,caught & released,3,tiger,2021-01-26T08:22:00,SMART drumline trial,114.978,-33.8852
+723,caught & released,3,tiger,2021-01-26T07:40:00,SMART drumline trial,114.987,-33.8482
+724,caught & released,3,tiger,2021-01-26T06:59:00,SMART drumline trial,114.99,-33.8244
+725,"caught, relocated & released",6,tiger,2021-01-26T06:39:00,SMART drumline trial,114.97,-33.8626
+726,Detected,4,white,2021-01-26T00:10:00,Fisheries Advise,115.093091,-33.57247
+727,Detected,4,white,2021-01-26T00:01:00,Fisheries Advise,115.093091,-33.57247
+728,Detected,4,bronze whaler,2021-01-25T19:38:00,Fisheries Advise,115.093091,-33.57247
+729,Detected,4,white,2021-01-25T18:57:00,Fisheries Advise,115.093091,-33.57247
+730,sighted,1,unknown sp.,2021-01-25T17:07:57,Public report,115.75,-32.1198
+731,sighted,1,unknown sp.,2021-01-25T15:27:03,SLS Westpac Heli report,115.498,-32.0158
+732,sighted,1,unknown sp.,2021-01-25T14:43:56,SLS Westpac Heli report,115.204,-33.651
+733,sighted,1,unknown sp.,2021-01-25T13:54:34,Public report,114.99,-33.985
+734,sighted,1,unknown sp.,2021-01-25T13:03:32,Public report,114.986,-33.9761
+735,sighted,1,unknown sp.,2021-01-25T12:20:10,Public report,121.843,-33.887
+736,sighted,1,unknown sp.,2021-01-25T12:01:06,SLS Westpac Heli report,115.542,-31.9899
+737,sighted,1,unknown sp.,2021-01-25T10:54:14,Public report,121.843,-33.887
+738,sighted,1,bronze whaler,2021-01-25T10:34:53,Public report,115.546,-31.9979
+739,sighted,1,unknown sp.,2021-01-25T09:27:33,Public report,121.873,-33.8793
+740,sighted,1,white,2021-01-25T09:20:00,Public report,115.256,-33.6567
+741,Detected,4,white,2021-01-24T22:33:00,Fisheries Advise,115.093091,-33.57247
+742,Detected,4,white,2021-01-24T22:27:00,Fisheries Advise,115.093091,-33.57247
+743,Detected,4,white,2021-01-24T22:22:00,Fisheries Advise,115.093091,-33.57247
+744,Detected,4,white,2021-01-24T21:54:00,Fisheries Advise,115.093091,-33.57247
+745,sighted,1,bronze whaler,2021-01-24T15:15:57,DBCA officers report,122.233,-33.9946
+746,sighted,1,unknown sp.,2021-01-24T14:54:46,SLS Westpac Heli report,114.996,-33.6703
+747,Detected,4,bronze whaler,2021-01-24T14:32:00,Fisheries Advise,121.87883,-33.882133
+748,Detected,4,bronze whaler,2021-01-24T14:32:00,Fisheries Advise,121.87883,-33.882133
+749,sighted,1,unknown sp.,2021-01-24T12:32:50,Public report,121.897,-33.8564
+750,sighted,1,bull,2021-01-24T09:10:11,Public report,115.679,-31.7802
+751,sighted,1,unknown sp.,2021-01-24T07:55:10,Public report,115.882,-31.9653
+752,sighted,1,white,2021-01-24T06:30:53,Public report,115.716,-31.7589
+753,caught & released,3,bronze whaler,2021-01-24T04:40:00,SMART drumline trial,114.987,-33.8482
+754,caught & released,3,tiger,2021-01-24T03:23:00,SMART drumline trial,114.981,-33.9091
+755,sighted,1,unknown sp.,2021-01-23T14:21:40,Public report,119.381,-34.3867
+756,sighted,1,unknown sp.,2021-01-23T14:15:43,SLS Westpac Heli report,115.024,-34.2233
+757,sighted,1,tiger,2021-01-23T14:01:47,Public report,115.519,-31.9804
+758,sighted,1,bronze whaler,2021-01-23T13:58:38,SLS Westpac Heli report,114.982,-33.9609
+759,sighted,1,bull,2021-01-23T12:42:18,Public report,115.853,-32.0111
+760,sighted,1,unknown sp.,2021-01-23T11:25:57,SLS Westpac Heli report,115.536,-31.9896
+761,sighted,1,hammerhead,2021-01-23T05:42:42,Public report,117.331,-35.0293
+762,caught & released,3,tiger,2021-01-23T02:50:00,SMART drumline trial,114.978,-33.8548
+763,sighted,1,unknown sp.,2021-01-22T16:04:24,SLS Westpac Heli report,115.226,-33.6531
+764,sighted,1,unknown sp.,2021-01-22T15:45:54,SLS Westpac Heli report,115.682,-34.4928
+765,sighted,1,hammerhead,2021-01-22T15:01:32,SLS Westpac Heli report,115.047,-33.5441
+766,sighted,1,unknown sp.,2021-01-22T15:00:44,SLS Westpac Heli report,115.04,-33.5452
+767,sighted,1,hammerhead,2021-01-22T15:00:41,SLS Westpac Heli report,115.04,-33.5452
+768,sighted,1,unknown sp.,2021-01-22T14:02:08,Public report,115.5,-31.993
+771,sighted,1,unknown sp.,2021-01-22T11:01:01,SLS Westpac Heli report,114.985,-33.9703
+772,sighted,1,unknown sp.,2021-01-22T10:56:04,SLS Westpac Heli report,114.997,-34.0051
+773,Detected,4,white,2021-01-21T22:56:00,Fisheries Advise,115.093091,-33.57247
+774,sighted,1,unknown sp.,2021-01-21T18:00:42,Public report,115.028,-34.2208
+775,sighted,1,unknown sp.,2021-01-21T15:00:27,SLS Westpac Heli report,115.009,-33.5525
+776,sighted,1,white,2021-01-21T14:53:35,Public report,118.082,-34.9903
+777,sighted,1,bull,2021-01-21T12:00:13,Public report,115.775,-32.0125
+778,sighted,1,unknown sp.,2021-01-21T11:17:18,SLS Westpac Heli report,115.089,-33.5694
+779,sighted,1,unknown sp.,2021-01-21T10:59:10,Public report,115.751,-31.9958
+780,sighted,1,bronze whaler,2021-01-21T10:30:30,SLS Westpac Heli report,114.992,-33.9473
+781,sighted,1,unknown sp.,2021-01-20T15:45:13,SLS Westpac Heli report,115.542,-31.9899
+782,sighted,1,tiger,2021-01-20T15:41:05,SLS Westpac Heli report,115.536,-31.9894
+783,sighted,1,unknown sp.,2021-01-20T15:35:58,SLS Westpac Heli report,115.105,-33.6011
+784,sighted,1,hammerhead,2021-01-20T15:03:37,SLS Westpac Heli report,115.04,-33.5452
+785,sighted,1,unknown sp.,2021-01-20T13:14:35,Public report,117.89,-35.0492
+786,Detected,4,white,2021-01-20T12:55:00,Fisheries Advise,115.093091,-33.57247
+787,sighted,1,hammerhead,2021-01-20T10:23:55,SLS Westpac Heli report,115.687,-32.2712
+788,sighted,1,hammerhead,2021-01-20T10:03:34,SLS Westpac Heli report,115.089,-33.5746
+789,sighted,1,unknown sp.,2021-01-20T08:30:50,Public report,115.026,-30.2656
+790,sighted,1,unknown sp.,2021-01-19T16:47:08,Public report,114.602,-28.7656
+791,sighted,1,unknown sp.,2021-01-19T15:39:40,SLS Westpac Heli report,115.288,-33.6567
+792,sighted,1,unknown sp.,2021-01-19T15:29:01,SLS Westpac Heli report,115.102,-33.5931
+793,sighted,1,unknown sp.,2021-01-19T15:12:49,SLS Westpac Heli report,115.012,-33.6613
+794,sighted,1,tiger,2021-01-19T15:01:36,SLS Westpac Heli report,115.733,-31.7761
+795,sighted,1,tiger,2021-01-19T14:58:00,SLS Westpac Heli report,115.004,-33.5325
+796,sighted,1,unknown sp.,2021-01-19T14:30:37,Public report,122.233,-33.9946
+797,sighted,1,tiger,2021-01-19T11:30:58,Public report,114.608,-28.7724
+798,caught & released,3,tiger,2021-01-19T10:26:00,SMART drumline trial,114.98,-33.8975
+799,sighted,1,unknown sp.,2021-01-19T09:52:09,SLS Westpac Heli report,115.032,-33.5369
+800,sighted,1,tiger,2021-01-19T07:31:49,Fisheries Advise,114.984,-33.8585
+801,"caught, relocated & released",6,tiger,2021-01-19T06:39:00,SMART drumline trial,114.992,-33.8125
+802,sighted,1,tiger,2021-01-19T05:27:11,Public report,115.1,-33.5834
+803,sighted,1,unknown sp.,2021-01-19T05:24:11,Public report,115.698,-33.3094
+804,caught & released,3,tiger,2021-01-19T02:16:00,SMART drumline trial,114.975,-33.8737
+805,caught & released,3,tiger,2021-01-19T00:54:00,SMART drumline trial,114.992,-33.8125
+806,sighted,1,grey nurse,2021-01-18T19:10:41,Public report,115.169,-34.3439
+807,sighted,1,bull,2021-01-18T18:11:43,Public report,115.792,-32.0133
+808,sighted,1,bull,2021-01-18T17:17:11,Public report,115.865,-32.0275
+809,sighted,1,unknown sp.,2021-01-18T16:50:09,SLS Lifesavers report,115.733,-31.773
+810,sighted,1,unknown sp.,2021-01-18T16:28:11,Public report,115.731,-31.7723
+811,sighted,1,unknown sp.,2021-01-18T15:07:02,SLS Westpac Heli report,115.524,-31.9918
+812,sighted,1,tiger,2021-01-18T14:52:09,SLS Westpac Heli report,115.089,-33.5746
+813,sighted,1,hammerhead,2021-01-18T14:43:30,SLS Westpac Heli report,115.758,-31.9098
+814,sighted,1,tiger,2021-01-18T14:36:59,SLS Westpac Heli report,115.757,-31.9196
+815,sighted,1,tiger,2021-01-18T14:17:53,SLS Westpac Heli report,115.758,-31.9098
+816,sighted,1,unknown sp.,2021-01-18T13:18:49,SLS Lifesavers report,114.983,-33.9678
+817,sighted,1,unknown sp.,2021-01-18T11:57:52,Public report,115.751,-31.8767
+818,sighted,1,unknown sp.,2021-01-18T11:07:20,Public report,115.027,-34.1641
+819,sighted,1,unknown sp.,2021-01-18T10:38:18,SLS Westpac Heli report,114.992,-33.9473
+820,sighted,1,white,2021-01-18T09:22:06,Public report,115.182,-34.3305
+821,sighted,1,unknown sp.,2021-01-17T18:30:55,Public report,115.343,-33.6355
+822,sighted,1,white,2021-01-17T16:27:45,Public report,115.546,-31.9979
+823,sighted,1,tiger,2021-01-17T15:50:05,Public report,115.542,-31.9899
+824,sighted,1,unknown sp.,2021-01-17T15:28:22,SLS Westpac Heli report,115.508,-32.0174
+825,sighted,1,unknown sp.,2021-01-17T15:18:45,SLS Westpac Heli report,115.058,-33.5457
+826,sighted,1,unknown sp.,2021-01-17T15:10:55,SLS Westpac Heli report,115.536,-31.9889
+827,sighted,1,unknown sp.,2021-01-17T15:07:50,SLS Westpac Heli report,115.542,-31.9899
+828,sighted,1,bronze whaler,2021-01-17T15:00:50,Public report,114.988,-33.9087
+829,sighted,1,unknown sp.,2021-01-17T14:56:30,SLS Westpac Heli report,115.027,-33.6372
+830,sighted,1,unknown sp.,2021-01-17T14:10:17,SLS Lifesavers report,115.089,-33.5746
+831,sighted,1,unknown sp.,2021-01-17T12:39:57,Public report,115.674,-32.5581
+832,sighted,1,white,2021-01-17T12:30:26,Public report,122.165,-34.0068
+833,caught & released,3,tiger,2021-01-17T05:47:00,SMART drumline trial,114.989,-33.8367
+834,Detected,4,white,2021-01-16T20:36:00,Fisheries Advise,115.093091,-33.57247
+835,Detected,4,white,2021-01-16T20:27:00,Fisheries Advise,115.093091,-33.57247
+836,Detected,4,white,2021-01-16T19:07:00,Fisheries Advise,115.093091,-33.57247
+837,Detected,4,white,2021-01-16T18:59:00,Fisheries Advise,115.093091,-33.57247
+838,Detected,4,white,2021-01-16T18:54:00,Fisheries Advise,115.093091,-33.57247
+839,tagged & released,2,white,2021-01-16T14:54:34,Fisheries Advise,123.564,-34.3693
+840,sighted,1,unknown sp.,2021-01-16T14:30:13,SLS Westpac Heli report,115.204,-33.651
+841,tagged & released,2,white,2021-01-16T12:55:56,Fisheries Advise,123.564,-34.3693
+842,tagged & released,2,white,2021-01-16T11:20:01,Fisheries Advise,123.564,-34.3693
+843,caught & released,3,tiger,2021-01-16T10:28:00,SMART drumline trial,114.989,-33.8367
+844,sighted,1,unknown sp.,2021-01-16T10:12:26,Public report,114.994,-33.6929
+845,sighted,1,unknown sp.,2021-01-16T09:54:53,Public report,121.906,-33.8614
+847,caught & released,3,mako,2021-01-16T07:55:00,SMART drumline trial,114.981,-33.9091
+848,Detected,4,white,2021-01-16T05:22:00,Fisheries Advise,115.093091,-33.57247
+849,"caught, relocated & released",6,tiger,2021-01-16T04:48:00,SMART drumline trial,114.975,-33.8737
+850,sighted,1,unknown sp.,2021-01-15T20:49:28,Public report,115.855,-32.0232
+851,tagged & released,2,white,2021-01-15T19:08:06,Fisheries Advise,123.564,-34.3693
+852,sighted,1,unknown sp.,2021-01-15T18:30:25,Public report,115.855,-32.0367
+853,Detected,4,white,2021-01-15T17:24:00,Fisheries Advise,115.093091,-33.57247
+854,tagged & released,2,white,2021-01-15T14:54:00,Fisheries Advise,123.564,-34.3693
+855,sighted,1,unknown sp.,2021-01-15T14:22:44,SLS Westpac Heli report,115.632,-33.3185
+856,tagged & released,2,white,2021-01-15T13:50:36,Fisheries Advise,123.564,-34.3693
+857,sighted,1,white,2021-01-15T12:51:45,UPDATE to prior report,115.632,-33.3185
+858,sighted,1,unknown sp.,2021-01-15T12:39:42,UPDATE to prior report,115.632,-33.3185
+859,sighted,1,unknown sp.,2021-01-15T12:24:51,Public report,115.632,-33.3185
+860,sighted,1,unknown sp.,2021-01-15T11:59:16,DBCA officers report,114.167,-21.8406
+861,sighted,1,hammerhead,2021-01-15T11:51:18,Public report,115.585,-32.0279
+862,sighted,1,bronze whaler,2021-01-15T11:42:41,Fisheries Advise,122.233,-33.9946
+863,tagged & released,2,white,2021-01-15T11:40:40,Fisheries Advise,123.564,-34.3693
+864,sighted,1,unknown sp.,2021-01-15T11:37:17,SLS Westpac Heli report,115.089,-33.5746
+865,sighted,1,unknown sp.,2021-01-15T10:27:14,Public report,115.627,-33.3343
+866,sighted,1,unknown sp.,2021-01-15T10:01:39,SLS Westpac Heli report,115.089,-33.5746
+867,sighted,1,tiger,2021-01-15T09:57:40,SLS Westpac Heli report,115.105,-33.6011
+868,caught & released,3,tiger,2021-01-15T08:30:00,SMART drumline trial,114.989,-33.8367
+869,caught & released,3,tiger,2021-01-15T03:15:00,SMART drumline trial,114.992,-33.8125
+870,Detected,4,tiger,2021-01-14T23:56:00,Fisheries Advise,115.73338,-32.34915
+871,Detected,4,white,2021-01-14T19:43:00,Fisheries Advise,115.093091,-33.57247
+872,Detected,4,white,2021-01-14T18:16:00,Fisheries Advise,115.093091,-33.57247
+873,sighted,1,unknown sp.,2021-01-14T17:50:28,Public report,115.89,-32.0204
+874,sighted,1,white,2021-01-14T17:15:58,Public report,118.402,-34.8802
+875,sighted,1,unknown sp.,2021-01-14T15:58:56,SLS Westpac Heli report,115.542,-31.9899
+876,sighted,1,hammerhead,2021-01-14T15:29:51,SLS Westpac Heli report,115.752,-32.0163
+877,sighted,1,unknown sp.,2021-01-14T13:14:19,Public report,121.894,-33.8639
+878,sighted,1,unknown sp.,2021-01-14T09:39:07,Public report,115.858,-32.0346
+880,sighted,1,bull,2021-01-14T08:20:24,Public report,115.778,-32.0228
+881,Detected,4,white,2021-01-14T04:40:00,Fisheries Advise,115.093091,-33.57247
+882,Detected,4,white,2021-01-14T04:15:00,Fisheries Advise,115.093091,-33.57247
+883,Detected,4,white,2021-01-14T03:36:00,Fisheries Advise,115.093091,-33.57247
+884,Detected,4,bronze whaler,2021-01-13T22:59:00,Fisheries Advise,117.94592,-35.08678
+885,Detected,4,white,2021-01-13T18:22:00,Fisheries Advise,115.093091,-33.57247
+886,sighted,1,unknown sp.,2021-01-13T17:31:02,Public report,115.026,-33.6211
+887,sighted,1,unknown sp.,2021-01-13T16:47:48,SLS Lifesavers report,115.027,-33.6372
+888,sighted,1,unknown sp.,2021-01-13T15:02:27,SLS Westpac Heli report,115.028,-33.6341
+889,sighted,1,unknown sp.,2021-01-13T14:51:24,SLS Westpac Heli report,115.02,-33.6466
+890,sighted,1,unknown sp.,2021-01-13T14:47:41,SLS Westpac Heli report,115.028,-33.6341
+891,Detected,4,white,2021-01-13T14:41:00,Fisheries Advise,115.093091,-33.57247
+892,sighted,1,unknown sp.,2021-01-13T11:45:48,UPDATE to prior report,115.027,-33.6372
+893,sighted,1,unknown sp.,2021-01-13T11:45:41,SLS Westpac Heli report,115.027,-33.6372
+894,sighted,1,unknown sp.,2021-01-13T10:47:54,SLS Westpac Heli report,115.026,-33.6381
+895,sighted,1,unknown sp.,2021-01-13T09:46:58,SLS Westpac Heli report,115.027,-33.6372
+896,caught & released,3,tiger,2021-01-13T05:18:00,SMART drumline trial,114.978,-33.8548
+897,caught & released,3,hammerhead,2021-01-13T02:28:00,SMART drumline trial,114.978,-33.8548
+898,caught & released,3,tiger,2021-01-13T00:58:00,SMART drumline trial,114.97,-33.8626
+899,sighted,1,bronze whaler,2021-01-12T18:05:00,Public report,115.602,-33.4057
+900,sighted,1,unknown sp.,2021-01-12T16:20:36,Public report,115.748,-32.4443
+901,sighted,1,unknown sp.,2021-01-12T15:21:05,SLS Westpac Heli report,115.292,-33.6563
+902,sighted,1,unknown sp.,2021-01-12T14:50:17,Public report,115.744,-32.136
+903,sighted,1,unknown sp.,2021-01-12T12:15:02,Public report,115.491,-31.9992
+904,sighted,1,unknown sp.,2021-01-12T11:09:10,SLS Westpac Heli report,115.204,-33.651
+905,sighted,1,unknown sp.,2021-01-12T06:30:27,Public report,115.001,-34.0753
+906,sighted,1,unknown sp.,2021-01-12T05:58:10,Public report,115.754,-31.9365
+907,Detected,4,bronze whaler,2021-01-11T22:48:00,Fisheries Advise,117.94592,-35.08678
+908,Detected,4,bronze whaler,2021-01-11T22:40:00,Fisheries Advise,117.94592,-35.08678
+909,Detected,4,bronze whaler,2021-01-11T22:32:00,Fisheries Advise,117.94592,-35.08678
+910,sighted,1,tiger,2021-01-11T16:30:42,Public report,115.683,-33.2013
+911,sighted,1,bull,2021-01-11T16:00:03,Public report,115.735,-32.0553
+912,sighted,1,unknown sp.,2021-01-11T15:51:35,SLS Westpac Heli report,115.542,-31.9899
+913,sighted,1,tiger,2021-01-11T15:41:05,SLS Westpac Heli report,115.5,-31.993
+914,sighted,1,unknown sp.,2021-01-11T14:44:34,SLS Westpac Heli report,115.18,-33.6416
+915,sighted,1,white,2021-01-11T10:45:23,Public report,115.5,-31.993
+916,sighted,1,unknown sp.,2021-01-11T09:50:22,SLS Westpac Heli report,115.1,-33.5834
+917,sighted,1,unknown sp.,2021-01-11T09:41:47,SLS Westpac Heli report,115.204,-33.651
+918,sighted,1,unknown sp.,2021-01-11T06:50:07,Public report,115.747,-32.409
+919,caught & released,3,tiger,2021-01-11T02:15:00,SMART drumline trial,114.978,-33.8852
+920,sighted,1,bull,2021-01-10T09:53:31,Public report,114.998,-33.6701
+921,sighted,1,unknown sp.,2021-01-10T06:39:41,UPDATE to prior report,121.823,-33.894
+922,sighted,1,unknown sp.,2021-01-10T06:38:30,Public report,126.046,-32.2724
+923,sighted,1,unknown sp.,2021-01-10T06:03:15,UPDATE to prior report,115.716,-32.3711
+924,sighted,1,unknown sp.,2021-01-10T05:59:48,Public report,115.716,-32.3711
+925,Detected,4,white,2021-01-09T18:23:00,Fisheries Advise,114.976043,-33.859383
+926,Detected,4,white,2021-01-09T18:16:00,Fisheries Advise,114.976043,-33.859383
+927,sighted,1,unknown sp.,2021-01-09T17:08:16,Public report,122.233,-33.9946
+928,sighted,1,unknown sp.,2021-01-09T16:30:14,Public report,115.69,-31.6722
+929,sighted,1,unknown sp.,2021-01-09T15:39:13,SLS Westpac Heli report,115.297,-33.6557
+930,sighted,1,white,2021-01-09T14:00:38,Public report,115.457,-32.0254
+931,sighted,1,white,2021-01-09T14:00:28,UPDATE to prior report,115.74,-32.1453
+932,sighted,1,tiger,2021-01-09T11:30:21,Public report,115.691,-31.6955
+933,sighted,1,unknown sp.,2021-01-09T11:00:26,Public report,115.027,-33.6324
+934,sighted,1,unknown sp.,2021-01-09T09:15:52,SLS Lifesavers report,115.742,-32.0401
+935,sighted,1,unknown sp.,2021-01-09T09:07:43,SLS Westpac Heli report,114.998,-33.6701
+936,caught & released,3,tiger,2021-01-09T08:51:00,SMART drumline trial,114.99,-33.8244
+937,sighted,1,unknown sp.,2021-01-09T07:50:29,SLS Westpac Heli report,115.744,-31.8286
+938,caught & released,3,tiger,2021-01-09T07:11:00,SMART drumline trial,114.987,-33.8482
+939,caught & released,3,tiger,2021-01-09T03:03:00,SMART drumline trial,114.981,-33.9091
+940,"caught, relocated & released",6,tiger,2021-01-09T00:59:00,SMART drumline trial,114.992,-33.8125
+941,caught & released,3,tiger,2021-01-09T00:11:00,SMART drumline trial,114.987,-33.8482
+942,sighted,1,unknown sp.,2021-01-08T18:15:31,Public report,115.32,-33.6249
+943,sighted,1,unknown sp.,2021-01-08T16:57:31,Public report,115.472,-32.0132
+944,sighted,1,unknown sp.,2021-01-08T15:41:55,SLS Westpac Heli report,115.198,-33.6483
+945,sighted,1,tiger,2021-01-08T15:35:43,SLS Westpac Heli report,115.752,-32.0163
+946,sighted,1,hammerhead,2021-01-08T15:28:25,SLS Westpac Heli report,115.754,-31.8975
+947,sighted,1,tiger,2021-01-08T15:26:32,SLS Westpac Heli report,115.754,-31.8975
+948,sighted,1,unknown sp.,2021-01-08T15:20:52,Public report,121.895,-33.8609
+949,sighted,1,tiger,2021-01-08T15:19:57,SLS Westpac Heli report,115.754,-31.8975
+950,sighted,1,unknown sp.,2021-01-08T15:15:02,SLS Westpac Heli report,114.996,-33.6703
+951,sighted,1,hammerhead,2021-01-08T15:14:38,SLS Westpac Heli report,115.752,-31.8749
+952,sighted,1,hammerhead,2021-01-08T14:57:41,SLS Westpac Heli report,115.752,-31.8703
+953,sighted,1,unknown sp.,2021-01-08T11:32:36,Public report,115.624,-32.0661
+954,sighted,1,bronze whaler,2021-01-08T10:36:32,SLS Westpac Heli report,114.982,-33.9609
+955,sighted,1,unknown sp.,2021-01-08T09:38:03,Public report,121.863,-33.8829
+956,sighted,1,unknown sp.,2021-01-08T09:08:48,Public report,121.877,-33.8782
+957,sighted,1,unknown sp.,2021-01-08T08:19:32,Public report,122.201,-17.9555
+958,sighted,1,tiger,2021-01-07T17:30:02,Fisheries Advise,114.997,-33.8163
+959,sighted,1,bronze whaler,2021-01-07T17:16:17,Public report,115.16,-34.3666
+960,sighted,1,unknown sp.,2021-01-07T15:52:20,SLS Westpac Heli report,115.536,-31.9894
+961,sighted,1,white,2021-01-07T15:45:10,SLS Westpac Heli report,115.536,-31.9894
+962,sighted,1,hammerhead,2021-01-07T15:31:18,SLS Westpac Heli report,115.756,-32.0887
+963,sighted,1,unknown sp.,2021-01-07T15:29:01,SLS Westpac Heli report,115.02,-33.6488
+964,sighted,1,hammerhead,2021-01-07T15:22:43,SLS Westpac Heli report,115.742,-32.0401
+965,sighted,1,tiger,2021-01-07T15:16:53,SLS Westpac Heli report,115.04,-33.5452
+966,sighted,1,hammerhead,2021-01-07T15:10:02,SLS Westpac Heli report,115.751,-31.8767
+967,sighted,1,unknown sp.,2021-01-07T14:30:36,Public report,115.127,-33.6251
+968,sighted,1,unknown sp.,2021-01-07T14:07:52,Public report,115.026,-34.1888
+969,sighted,1,hammerhead,2021-01-07T12:58:48,Public report,115.117,-33.5985
+970,sighted,1,unknown sp.,2021-01-07T10:55:04,SLS Westpac Heli report,114.992,-33.9473
+971,sighted,1,unknown sp.,2021-01-07T09:50:56,Public report,122.201,-17.9555
+972,sighted,1,unknown sp.,2021-01-07T09:46:57,SLS Westpac Heli report,115.23,-33.6559
+973,sighted,1,unknown sp.,2021-01-07T08:26:06,Public report,121.991,-33.8323
+974,caught & released,3,tiger,2021-01-07T07:09:00,SMART drumline trial,114.981,-33.9091
+975,caught & released,3,tiger,2021-01-07T05:08:00,SMART drumline trial,114.975,-33.8737
+976,caught & released,3,tiger,2021-01-07T04:30:00,SMART drumline trial,114.987,-33.8482
+977,caught & released,3,tiger,2021-01-07T03:44:00,SMART drumline trial,114.978,-33.8548
+978,Detected,4,white,2021-01-07T01:44:00,Fisheries Advise,115.093091,-33.57247
+979,Detected,4,tiger,2021-01-06T23:16:00,Fisheries Advise,122.0137,-33.8393
+980,Detected,4,tiger,2021-01-06T23:04:00,Fisheries Advise,122.0137,-33.8393
+981,Detected,4,tiger,2021-01-06T22:56:00,Fisheries Advise,122.0137,-33.8393
+982,sighted,1,unknown sp.,2021-01-06T15:10:04,SLS Westpac Heli report,115.102,-33.5882
+983,sighted,1,unknown sp.,2021-01-06T14:48:49,SLS Westpac Heli report,115.756,-31.8953
+984,sighted,1,unknown sp.,2021-01-06T14:42:57,SLS Westpac Heli report,115.754,-31.9553
+985,sighted,1,unknown sp.,2021-01-06T11:22:13,Public report,115.754,-31.8975
+986,sighted,1,unknown sp.,2021-01-06T11:21:17,SLS Westpac Heli report,115.536,-31.9889
+987,sighted,1,unknown sp.,2021-01-06T11:10:00,SLS Westpac Heli report,115.508,-32.0174
+988,sighted,1,unknown sp.,2021-01-06T10:59:07,SLS Westpac Heli report,115.556,-31.991
+989,sighted,1,hammerhead,2021-01-06T10:38:25,SLS Westpac Heli report,115.755,-31.9792
+990,sighted,1,tiger,2021-01-06T10:37:10,SLS Westpac Heli report,115.758,-31.9161
+991,"caught, relocated & released",6,tiger,2021-01-06T10:35:00,SMART drumline trial,114.987,-33.8482
+992,sighted,1,unknown sp.,2021-01-06T10:34:54,SLS Westpac Heli report,115.758,-31.9098
+993,sighted,1,unknown sp.,2021-01-06T09:38:33,SLS Westpac Heli report,115.754,-31.8975
+994,sighted,1,unknown sp.,2021-01-06T08:26:08,Public report,115.754,-31.8975
+995,sighted,1,unknown sp.,2021-01-06T08:24:11,Public report,115.754,-31.8975
+996,caught & released,3,tiger,2021-01-06T07:54:00,SMART drumline trial,114.987,-33.8482
+997,Detected,4,white,2021-01-06T03:56:00,Fisheries Advise,115.093091,-33.57247
+998,caught & released,3,tiger,2021-01-06T02:37:00,SMART drumline trial,114.992,-33.8125
+999,caught & released,3,tiger,2021-01-05T23:42:00,SMART drumline trial,114.978,-33.8548
+1000,sighted,1,unknown sp.,2021-01-05T17:15:33,Public report,115.001,-34.0753
+1001,sighted,1,unknown sp.,2021-01-05T15:30:06,SLS Westpac Heli report,115.099,-33.581
+1002,sighted,1,unknown sp.,2021-01-05T15:19:15,SLS Westpac Heli report,115.198,-33.6483
+1003,sighted,1,unknown sp.,2021-01-05T15:15:27,SLS Westpac Heli report,115.686,-32.2694
+1004,sighted,1,unknown sp.,2021-01-05T14:58:00,SLS Westpac Heli report,115.755,-31.9792
+1005,sighted,1,bronze whaler,2021-01-05T13:03:50,Public report,115.515,-31.9885
+1006,Detected,4,white,2021-01-05T12:32:00,Fisheries Advise,115.093091,-33.57247
+1007,Detected,4,white,2021-01-05T12:21:00,Fisheries Advise,115.093091,-33.57247
+1008,sighted,1,tiger,2021-01-05T12:20:46,Public report,115.464,-32.0141
+1011,sighted,1,bronze whaler,2021-01-05T09:56:36,Public report,115.515,-31.9885
+1012,caught & released,3,tiger,2021-01-05T07:48:00,SMART drumline trial,114.975,-33.8737
+1013,caught & released,3,tiger,2021-01-05T06:01:00,SMART drumline trial,114.987,-33.8482
+1014,Detected,4,white,2021-01-05T02:16:00,Fisheries Advise,115.093091,-33.57247
+1015,caught & released,3,tiger,2021-01-05T00:18:00,SMART drumline trial,114.975,-33.8737
+1016,caught & released,3,tiger,2021-01-04T23:55:00,SMART drumline trial,114.978,-33.8852
+1017,Detected,4,white,2021-01-04T19:04:00,Fisheries Advise,121.87883,-33.882133
+1018,Detected,4,white,2021-01-04T18:59:00,Fisheries Advise,121.87883,-33.882133
+1019,sighted,1,unknown sp.,2021-01-04T16:03:46,SLS Westpac Heli report,115.302,-33.6547
+1020,sighted,1,unknown sp.,2021-01-04T16:03:39,Public report,115.754,-31.8975
+1021,sighted,1,unknown sp.,2021-01-04T16:00:33,SLS Westpac Heli report,115.226,-33.6531
+1022,sighted,1,unknown sp.,2021-01-04T15:38:18,Public report,115.754,-31.8975
+1023,sighted,1,unknown sp.,2021-01-04T15:22:39,SLS Westpac Heli report,115.02,-33.6466
+1024,Detected,4,white,2021-01-04T14:52:00,Fisheries Advise,115.093091,-33.57247
+1025,Detected,4,white,2021-01-04T14:47:00,Fisheries Advise,115.093091,-33.57247
+1026,sighted,1,unknown sp.,2021-01-04T14:33:09,SLS Westpac Heli report,115.751,-31.8767
+1027,sighted,1,unknown sp.,2021-01-04T14:16:10,SLS Westpac Heli report,115.752,-31.8822
+1028,sighted,1,unknown sp.,2021-01-04T13:30:04,Public report,115.754,-31.8975
+1029,sighted,1,unknown sp.,2021-01-04T13:13:09,Public report,115.226,-33.6531
+1030,sighted,1,unknown sp.,2021-01-04T12:05:48,Public report,115.617,-33.357
+1031,sighted,1,hammerhead,2021-01-04T11:35:02,Public report,115.755,-31.8944
+1032,sighted,1,unknown sp.,2021-01-04T11:33:02,Public report,115.755,-31.8944
+1033,sighted,1,tiger,2021-01-04T11:27:52,Public report,115.693,-31.6783
+1034,sighted,1,unknown sp.,2021-01-04T10:15:12,SLS Westpac Heli report,115.758,-31.9098
+1035,sighted,1,unknown sp.,2021-01-04T10:12:29,SLS Westpac Heli report,115.758,-31.9135
+1036,sighted,1,unknown sp.,2021-01-04T09:54:03,SLS Westpac Heli report,115.226,-33.6531
+1037,sighted,1,unknown sp.,2021-01-04T09:47:46,SLS Westpac Heli report,115.752,-31.8822
+1038,sighted,1,unknown sp.,2021-01-04T09:43:50,SLS Westpac Heli report,115.758,-31.9098
+1039,sighted,1,unknown sp.,2021-01-04T09:40:39,SLS Westpac Heli report,115.758,-31.9175
+1040,sighted,1,unknown sp.,2021-01-04T09:07:23,Public report,115.752,-31.8822
+1041,sighted,1,unknown sp.,2021-01-04T08:43:51,Public report,115.752,-31.8822
+1042,sighted,1,tiger,2021-01-04T07:09:33,Public report,115.752,-31.8556
+1043,caught & released,3,tiger,2021-01-04T06:01:00,SMART drumline trial,114.987,-33.8482
+1044,sighted,1,tiger,2021-01-04T05:51:36,Public report,115.751,-31.8767
+1045,Detected,4,white,2021-01-04T01:03:00,Fisheries Advise,115.093091,-33.57247
+1046,Detected,4,white,2021-01-04T00:57:00,Fisheries Advise,115.093091,-33.57247
+1047,sighted,1,unknown sp.,2021-01-03T19:10:09,Public report,122.013,-33.9609
+1048,sighted,1,unknown sp.,2021-01-03T17:03:30,Public report,115.226,-33.6531
+1049,sighted,1,unknown sp.,2021-01-03T16:44:35,SLS Lifesavers report,115.755,-31.8944
+1050,sighted,1,unknown sp.,2021-01-03T15:46:01,SLS Westpac Heli report,115.248,-33.6568
+1051,sighted,1,unknown sp.,2021-01-03T15:08:33,SLS Westpac Heli report,115.542,-31.9899
+1052,sighted,1,unknown sp.,2021-01-03T15:06:44,SLS Westpac Heli report,115.536,-31.9894
+1053,sighted,1,unknown sp.,2021-01-03T14:56:34,SLS Lifesavers report,115.753,-31.8779
+1054,sighted,1,unknown sp.,2021-01-03T14:51:22,SLS Westpac Heli report,115.256,-33.6567
+1055,sighted,1,unknown sp.,2021-01-03T14:25:17,Public report,121.985,-33.8298
+1056,sighted,1,unknown sp.,2021-01-03T14:22:32,SLS Westpac Heli report,115.752,-31.8822
+1057,sighted,1,unknown sp.,2021-01-03T14:18:55,Public report,117.775,-35.0595
+1058,caught & released,3,tiger,2021-01-03T08:10:00,SMART drumline trial,114.97,-33.8626
+1059,sighted,1,tiger,2021-01-03T07:19:00,Public report,115.755,-31.8944
+1060,"caught, relocated & released",6,tiger,2021-01-03T03:10:00,SMART drumline trial,114.987,-33.8482
+1061,sighted,1,bronze whaler,2021-01-02T15:40:37,SLS Westpac Heli report,115.256,-33.6567
+1062,sighted,1,hammerhead,2021-01-02T15:40:26,SLS Westpac Heli report,115.687,-32.2712
+1063,sighted,1,unknown sp.,2021-01-02T15:12:20,SLS Westpac Heli report,115.02,-33.6466
+1064,sighted,1,unknown sp.,2021-01-02T14:50:34,SLS Lifesavers report,117.331,-35.0293
+1065,sighted,1,tiger,2021-01-02T13:48:52,Public report,115.346,-33.6442
+1066,sighted,1,unknown sp.,2021-01-02T13:36:55,Public report,114.99,-33.985
+1067,sighted,1,unknown sp.,2021-01-02T11:29:01,SLS Westpac Heli report,115.198,-33.6483
+1068,caught & released,3,mako,2021-01-02T10:35:00,SMART drumline trial,114.978,-33.8548
+1069,sighted,1,bronze whaler,2021-01-02T09:30:14,SLS Westpac Heli report,115.18,-33.6416
+1070,caught & released,3,tiger,2021-01-02T00:58:00,SMART drumline trial,114.975,-33.8737
+1071,sighted,1,tiger,2021-01-01T16:00:22,Public report,115.484,-32.0071
+1072,sighted,1,white,2021-01-01T15:30:07,Public report,122.58,-33.924
+1073,sighted,1,white,2021-01-01T15:30:02,Public report,122.542,-33.9343
+1074,sighted,1,unknown sp.,2021-01-01T15:27:36,SLS Westpac Heli report,115.051,-33.5439
+1075,sighted,1,tiger,2021-01-01T12:52:09,Public report,114.615,-28.761
+1076,sighted,1,white,2021-01-01T11:52:33,Public report,121.933,-33.8329
+1077,sighted,1,unknown sp.,2021-01-01T10:50:01,SLS Westpac Heli report,114.992,-33.9473
+1078,sighted,1,unknown sp.,2021-01-01T10:18:02,Public report,122.146,-34.0119
+1079,sighted,1,unknown sp.,2021-01-01T10:16:38,Public report,115.346,-33.6441
+1080,Detected,4,white,2021-01-01T00:49:00,Fisheries Advise,115.093091,-33.57247
+1081,Detected,4,white,2021-01-01T00:43:00,Fisheries Advise,115.093091,-33.57247
+1082,Detected,4,white,2021-01-01T00:38:00,Fisheries Advise,115.093091,-33.57247
