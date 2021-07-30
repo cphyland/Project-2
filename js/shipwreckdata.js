@@ -20,8 +20,8 @@ var layers = {
 // Access the leaflet library and create a gps coordinate grid, the variable map, to plot the data to.
 // the empty layers are added to the map, they will be filled later.
 var map = L.map("map", {
-    center: [-27.67,121.63],
-    zoom: 5,
+    center: [-31.98,115.70],
+    zoom: 12,
     worldCopyJump: "True",
     layers: [
         layers.ships,
@@ -34,8 +34,8 @@ var map = L.map("map", {
         layers.hammerhead,
         layers.mako,
         layers.tiger,
-        layers.unknown,
-        layers.white
+        layers.white,
+        layers.unknown
     ]
 });
 
@@ -62,7 +62,7 @@ var overlays = {
     "Mako": layers.mako,
     "Tiger": layers.tiger,
     "White": layers.white,
-    "Unknown": layers.unknown
+    "species unknown": layers.unknown
     };
 
  
@@ -104,7 +104,7 @@ options: {
 var customMarkers = {
     blacktip: new customIcon({iconUrl: 'images/black-shark-24.png'}),
     blue: new customIcon({iconUrl: 'images/blue-shark-24.png'}),
-    bull: new customIcon({iconUrl: 'images/black-shark-24.png'}),
+    bull: new customIcon({iconUrl: 'images/yellow-shark-24.png'}),
     bronzeWhaler: new customIcon({iconUrl: 'images/orange-shark-24.png'}),
     dusky: new customIcon({iconUrl: 'images/brown-shark-24.png'}),
     greyNurse: new customIcon({iconUrl: 'images/gray-shark-24.png'}),
@@ -145,10 +145,11 @@ let sharkData = d3.csv(sharkDataClean).then((sharkData)=> {
         // place a new marker on the map, in the correct species layer 
         var placeMarker = L.marker([lat,lon],{
             icon: customMarkers[sharkSpecies]
-        });
+        })
         placeMarker.addTo(map);
         placeMarker.addTo(layers[sharkSpecies]);
     }
+    layers.unknown.removeFrom(map);
 })
 
 
