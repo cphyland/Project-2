@@ -150,7 +150,7 @@ let sharkData = d3.csv(sharkDataClean).then((sharkData)=> {
         placeMarker.addTo(map);
         placeMarker.addTo(layers[sharkSpecies]);
     }
-    layers.unknown.removeFrom(map);
+    initialView(map);
 })
 
 function addLegend(map) {
@@ -177,7 +177,53 @@ function addLegend(map) {
     legend.addTo(map);
 }
 
+function shipsOnly(map) {
+    layers.blacktip.removeFrom(map)
+    layers.blue.removeFrom(map)
+    layers.bull.removeFrom(map)
+    layers.bronzeWhaler.removeFrom(map)
+    layers.dusky.removeFrom(map)
+    layers.greyNurse.removeFrom(map)
+    layers.hammerhead.removeFrom(map)
+    layers.mako.removeFrom(map)
+    layers.tiger.removeFrom(map)
+    layers.white.removeFrom(map)
+    layers.unknown.removeFrom(map)
+    layers.ships.addTo(map)
+}
+
+function knownSharksOnly(map) {
+    layers.blacktip.addTo(map)
+    layers.blue.addTo(map)
+    layers.bull.addTo(map)
+    layers.bronzeWhaler.addTo(map)
+    layers.dusky.addTo(map)
+    layers.greyNurse.addTo(map)
+    layers.hammerhead.addTo(map)
+    layers.mako.addTo(map)
+    layers.tiger.addTo(map)
+    layers.white.addTo(map)
+    layers.unknown.removeFrom(map)
+    layers.ships.removeFrom(map)
+}
+
+function initialView(map) {
+    layers.blacktip.removeFrom(map)
+    layers.blue.removeFrom(map)
+    layers.bull.removeFrom(map)
+    layers.bronzeWhaler.removeFrom(map)
+    layers.dusky.removeFrom(map)
+    layers.greyNurse.removeFrom(map)
+    layers.hammerhead.removeFrom(map)
+    layers.mako.removeFrom(map)
+    layers.tiger.addTo(map)
+    layers.white.removeFrom(map)
+    layers.unknown.removeFrom(map)
+    layers.ships.addTo(map)
+}
+
 addLegend(map);
+(map);
 
 
 
