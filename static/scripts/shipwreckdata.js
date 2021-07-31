@@ -1,6 +1,6 @@
 // Strings to reference the data locations
-shipDataRaw = "{{ url_for('static',filename='data/shipwreckWAM_002.geojason') }}"
-sharkDataClean = "{{ url_for('static',filename='data/sharks_cleaned.csv') }}"
+shipDataRaw = "/static/data/ShipwrecksWAM_002.geojson"
+sharkDataClean = "/static/data/sharks_cleaned.csv"
 
 // Create new empty layers for ships and each shark species. These will contain the markers. 
 var layers = {
@@ -73,7 +73,7 @@ L.control.layers(null,overlays,{
 }).addTo(map);
 
 let shipMarker = L.icon({
-    iconUrl: "images/icons8-historic-ship-50.png",
+    iconUrl: "/static/images/icons8-historic-ship-50.png",
     iconSize: [13,13],
     iconAnchor: [5,5],
     popupAnchr: [-10,-20]
@@ -102,17 +102,17 @@ options: {
 });
 
 var customMarkers = {
-    blacktip: new customIcon({iconUrl: "{{ url_for('static',filename='images/black-shark-24.png')" }),
-    blue: new customIcon({ iconUrl: "{{ url_for('static',filename='images/blue-shark-24.png')" }),
-    bull: new customIcon({iconUrl: "{{ url_for('static',filename='images/yellow-shark-24.png')" }),
-    bronzeWhaler: new customIcon({iconUrl: "{{ url_for('static',filename='images/orange-shark-24.png')" }),
-    dusky: new customIcon({iconUrl: "{{ url_for('static',filename='images/brown-shark-24.png')" }),
-    greyNurse: new customIcon({iconUrl: "{{ url_for('static',filename='images/gray-shark-24.png')" }),
-    hammerhead: new customIcon({iconUrl: "{{ url_for('static',filename='images/black-shark-24.png')" }),
-    mako: new customIcon({iconUrl: "{{ url_for('static',filename='images/pink-shark-24.png')" }),
-    tiger: new customIcon({iconUrl: "{{ url_for('static',filename='images/purple-shark-24.png')" }),
-    unknown: new customIcon({iconUrl: "{{ url_for('static',filename='images/red-shark-24.png')" }),
-    white: new customIcon({iconUrl: "{{ url_for('static',filename='images/white-shark-24.png')" })
+    blacktip: new customIcon({iconUrl: "/static/images/black-shark-24.png" }),
+    blue: new customIcon({ iconUrl: "/static/images/blue-shark-24.png" }),
+    bull: new customIcon({iconUrl: "/static/images/yellow-shark-24.png" }),
+    bronzeWhaler: new customIcon({iconUrl: "/static/images/orange-shark-24.png" }),
+    dusky: new customIcon({iconUrl: "/static/images/brown-shark-24.png" }),
+    greyNurse: new customIcon({iconUrl: "/static/images/gray-shark-24.png" }),
+    hammerhead: new customIcon({iconUrl: "/static/images/black-shark-24.png" }),
+    mako: new customIcon({iconUrl: "/static/images/pink-shark-24.png" }),
+    tiger: new customIcon({iconUrl: "/static/images/purple-shark-24.png" }),
+    unknown: new customIcon({iconUrl: "/static/images/red-shark-24.png" }),
+    white: new customIcon({iconUrl: "/static/images/white-shark-24.png" })
 };
 
 // Add sharks to the map by filling the previously created species layers
