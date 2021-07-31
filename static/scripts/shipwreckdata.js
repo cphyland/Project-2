@@ -159,18 +159,18 @@ function addLegend(map) {
     legend.onAdd = function(myMap) {
         var div = L.DomUtil.create("div", "legend");
         div.innerHTML += '<h3>Map Icons</h3>';
-        div.innerHTML += '<i style="background: #ffffcc"></i><span>0-10</span><br>';
-        div.innerHTML += '<i style="background: #ffeda0"></i><span>11-20</span><br>';
-        div.innerHTML += '<i style="background: #fed976"></i><span>21-30</span><br>';
-        div.innerHTML += '<i style="background: #feb24c"></i><span>31-40</span><br>';
-        div.innerHTML += '<i style="background: #fd8d3c"></i><span>41-50</span><br>';
-        div.innerHTML += '<i style="background: #fc4e2a"></i><span>51-60</span><br>';
-        div.innerHTML += '<i style="background: #e31a1c"></i><span>61-70</span><br>';
-        div.innerHTML += '<i style="background: #b10026"></i><span> >70</span><br>';
-        div.innerHTML += '<i style="background: #fd8d3c"></i><span>41-50</span><br>';
-        div.innerHTML += '<i style="background: #fc4e2a"></i><span>51-60</span><br>';
-        div.innerHTML += '<i style="background: #e31a1c"></i><span>61-70</span><br>';
-        div.innerHTML += '<i style="background: #b10026"></i><span> >70</span><br>';
+        div.innerHTML += '<i><img src="/static/images/icons8-historic-ship-50.png"></i><span>Ships</span><br>';
+        div.innerHTML += '<i><img src="/static/images/black-shark-24.png"></i><span>Blacktip</span><br>';
+        div.innerHTML += '<i><img src="/static/images/blue-shark-24.png"></i><span>Blue</span><br>';
+        div.innerHTML += '<i><img src="/static/images/yellow-shark-24.png"</i><span>Bull</span><br>';
+        div.innerHTML += '<i><img src="/static/images/orange-shark-24.png"></i><span>Bronze Whaler</span><br>';
+        div.innerHTML += '<i><img src="/static/images/brown-shark-24.png"></i><span>Dusky</span><br>';
+        div.innerHTML += '<i><img src="/static/images/gray-shark-24.png"></i><span>Grey Nurse</span><br>';
+        div.innerHTML += '<i><img src="/static/images/black-shark-24.png"></i><span>Hammerhead</span><br>';
+        div.innerHTML += '<i><img src="/static/images/pink-shark-24.png"></i><span>Mako</span><br>';
+        div.innerHTML += '<i><img src="/static/images/purple-shark-24.png"></i><span>Tiger</span><br>';
+        div.innerHTML += '<i><img src="/static/images/white-shark-24.png" ></i><span>White</span><br>';
+        div.innerHTML += '<i><img src="/static/images/red-shark-24.png"></i><span>species unknown</span><br>';
 
         return div;
     }
