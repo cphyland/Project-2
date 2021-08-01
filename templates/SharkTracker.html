@@ -79,4 +79,24 @@
    <script src="{{ url_for('static',filename='scripts/config.js') }}"></script>
    <script type="text/javascript" src="{{ url_for('static',filename='scripts/shipwreckdata.js') }}"></script>
    </body>
+
+   <footer>
+   <button onclick="myFunction()">Jaws</button>
+  
+    <script>
+    function myFunction() {
+      var x = document.createElement("AUDIO");
+    
+      if (x.canPlayType("audio/mpeg")) {
+        x.setAttribute("src","/statis/audio/Jaws-theme-song.mp3");
+      } else {
+        x.setAttribute("src","Jaws-theme-song.ogg");
+      }
+    
+      x.setAttribute("controls", "controls");
+      document.body.appendChild(x);
+    }
+    </script>
+
+   </footer>
    </html> 
