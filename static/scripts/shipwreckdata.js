@@ -108,7 +108,7 @@ var customMarkers = {
     bronzeWhaler: new customIcon({iconUrl: "/static/images/orange-shark-24.png" }),
     dusky: new customIcon({iconUrl: "/static/images/brown-shark-24.png" }),
     greyNurse: new customIcon({iconUrl: "/static/images/gray-shark-24.png" }),
-    hammerhead: new customIcon({iconUrl: "/static/images/black-shark-24.png" }),
+    hammerhead: new customIcon({iconUrl: "/static/images/green-shark-24.png" }),
     mako: new customIcon({iconUrl: "/static/images/pink-shark-24.png" }),
     tiger: new customIcon({iconUrl: "/static/images/purple-shark-24.png" }),
     unknown: new customIcon({iconUrl: "/static/images/red-shark-24.png" }),
@@ -158,18 +158,17 @@ function addLegend(map) {
 
     legend.onAdd = function(myMap) {
         var div = L.DomUtil.create("div", "legend");
-        div.innerHTML += '<h3>Map Icons</h3>';
         div.innerHTML += '<i><img src="/static/images/icons8-historic-ship-50.png"></i><span>Ships</span><br>';
         div.innerHTML += '<i><img src="/static/images/black-shark-24.png"></i><span>Blacktip</span><br>';
         div.innerHTML += '<i><img src="/static/images/blue-shark-24.png"></i><span>Blue</span><br>';
-        div.innerHTML += '<i><img src="/static/images/yellow-shark-24.png"</i><span>Bull</span><br>';
+        div.innerHTML += '<i><img src="/static/images/yellow-shark-24.png"></i><span>Bull</span><br>';
         div.innerHTML += '<i><img src="/static/images/orange-shark-24.png"></i><span>Bronze Whaler</span><br>';
         div.innerHTML += '<i><img src="/static/images/brown-shark-24.png"></i><span>Dusky</span><br>';
         div.innerHTML += '<i><img src="/static/images/gray-shark-24.png"></i><span>Grey Nurse</span><br>';
-        div.innerHTML += '<i><img src="/static/images/black-shark-24.png"></i><span>Hammerhead</span><br>';
+        div.innerHTML += '<i><img src="/static/images/green-shark-24.png"></i><span>Hammerhead</span><br>';
         div.innerHTML += '<i><img src="/static/images/pink-shark-24.png"></i><span>Mako</span><br>';
         div.innerHTML += '<i><img src="/static/images/purple-shark-24.png"></i><span>Tiger</span><br>';
-        div.innerHTML += '<i><img src="/static/images/white-shark-24.png" ></i><span>White</span><br>';
+        div.innerHTML += '<i><img src="/static/images/white-shark-24.png"></i><span>White</span><br>';
         div.innerHTML += '<i><img src="/static/images/red-shark-24.png"></i><span>species unknown</span><br>';
 
         return div;
@@ -177,7 +176,7 @@ function addLegend(map) {
     legend.addTo(map);
 }
 
-function shipsOnly(map) {
+function shipsOnly() {
     layers.blacktip.removeFrom(map)
     layers.blue.removeFrom(map)
     layers.bull.removeFrom(map)
@@ -192,7 +191,7 @@ function shipsOnly(map) {
     layers.ships.addTo(map)
 }
 
-function knownSharksOnly(map) {
+function knownSharksOnly() {
     layers.blacktip.addTo(map)
     layers.blue.addTo(map)
     layers.bull.addTo(map)
@@ -207,7 +206,7 @@ function knownSharksOnly(map) {
     layers.ships.removeFrom(map)
 }
 
-function initialView(map) {
+function initialView() {
     layers.blacktip.removeFrom(map)
     layers.blue.removeFrom(map)
     layers.bull.removeFrom(map)
@@ -223,7 +222,9 @@ function initialView(map) {
 }
 
 addLegend(map);
-(map);
+
+d3.selectAll("#ships-only").on('click', shipsOnly);
+d3.selectAll("#sharks-only").on('click', knownSharksOnly);
 
 
 

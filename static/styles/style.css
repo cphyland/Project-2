@@ -1,7 +1,7 @@
 /* remove default margin and padding from body */
-body {
-  padding: 0;
-  margin: 0;
+body{
+  padding: 0px;
+  margin: 0px;
   background-image: linear-gradient(
     to right, lightskyblue, dodgerblue, darkblue);
 }
@@ -10,17 +10,16 @@ body {
 #map,
 body,
 html {
-  height: 92%;
+  height: 90%;
 }
 
 .legend {
   line-height: 20px;
   color: black;
-  background-color: white;
   padding: 5px;
   border-radius: 6px;
-  padding-top: 0px;
-  border-top: 1px
+  border-top: 1px;
+  background: rgba(59, 59, 59, 0.3);
   
 }
 .legend img {
@@ -28,5 +27,14 @@ html {
   height: 20px;
   float: left;
   margin-right: 8px;
-  opacity: 0.7;
+}
+
+.legend span {
+  font-size: 13px;
+}
+
+#ships-only,
+#sharks-only {
+  background-color: darkblue;
+  margin: 6px;
 }

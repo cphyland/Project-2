@@ -7,28 +7,14 @@ shark_api_url = "http://api.fish.wa.gov.au/webapi/v1/RawData"
 shark_table_name = "sharks1"
 shark_csv_path = "../data/sharks/sharks_cleaned.csv"
 
-
-#################################################
-# Database Setup
-#################################################
-#engine = create_engine("sqlite:///data/sharks.sqlite")
-
-
-#################################################
 # Flask Setup
-#################################################
 app = Flask(__name__)
 
-#################################################
 # Flask Routes
-#################################################
-
 @app.route("/")
 def index():
   return render_template("SharkTracker.html")
   
-  
-
 @app.route("/update")
 def update_data():
     sharks_df = flask_functions.shark_data(shark_api_url, "2020-01-01", "2021-07-01")
