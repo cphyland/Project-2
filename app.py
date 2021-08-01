@@ -14,6 +14,10 @@ app = Flask(__name__)
 @app.route("/")
 def index():
   return render_template("SharkTracker.html")
+
+@app.route("/sources")  
+def sources():
+  return render_template("sources.html")
   
 @app.route("/update")
 def update_data():
