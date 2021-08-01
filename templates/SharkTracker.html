@@ -69,7 +69,15 @@
   </div>
 </div>
       <div id='map'></div>
-     
+      <button onclick="myFunction()">Jaws</button>
+  
+</script>
+    <audio controls autoplay>
+       <source src="/static/audio/Jaws-theme-song.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+</script>
+   
    <script type="text/javascript" src="js/mdb.min.js"></script>
    <script src="https://npmcdn.com/csv2geojson@latest/csv2geojson.js"></script>
    <script src="https://d3js.org/d3.v7.min.js"></script>
@@ -80,23 +88,7 @@
    <script type="text/javascript" src="{{ url_for('static',filename='scripts/shipwreckdata.js') }}"></script>
    </body>
 
-   <footer>
-   <button onclick="myFunction()">Jaws</button>
-  
-    <script>
-    function myFunction() {
-      var x = document.createElement("AUDIO");
-    
-      if (x.canPlayType("audio/mpeg")) {
-        x.setAttribute("src","/statis/audio/Jaws-theme-song.mp3");
-      } else {
-        x.setAttribute("src","Jaws-theme-song.ogg");
-      }
-    
-      x.setAttribute("controls", "controls");
-      document.body.appendChild(x);
-    }
-    </script>
-
-   </footer>
+   
+   
+   
    </html> 
