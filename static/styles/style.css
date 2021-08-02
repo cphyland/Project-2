@@ -53,3 +53,9 @@ h1, h3, .navbar, .btn {
   font-family: Amity Jack;
   src: url(/static/styles/Amity\ Jack.ttf);
 }
+
+.chart {
+  width:90%;
+  max-width:1000px;
+  height:auto;
+}
