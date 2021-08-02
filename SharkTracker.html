@@ -6,9 +6,9 @@
        <meta http-equiv="X-UA-Compatible" content="IE=edge">
        <meta name="viewport" content="width=device-width, initial-scale=1.0">
        <title>Shark Tracker</title>
-       <link rel="stylesheet" type="text/css" href="/static/styles/mdb.min.css">
-       <link rel= "stylesheet" type="text/css" href="/static/styles/style.css">
-       <link rel= "stylesheet" type="text/css" href="/static/styles/animate.css">
+       <link rel="stylesheet" type="text/css" href="static/styles/mdb.min.css">
+       <link rel= "stylesheet" type="text/css" href="static/styles/style.css">
+       <link rel= "stylesheet" type="text/html" href="static/styles/animate.css">
        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
        
        <script src="/static/scripts/jquery.lettering.js"></script>
@@ -67,13 +67,16 @@
 <!-- Navbar -->
     <!-- End your project here-->
     <!-- MDB -->
-    
+  <script>
+  $(function() {
+    $('.tlt').textillate();
+  });
+  </script>
+
    <center><h1 class="tlt">Shark Tracker</h1>
    <p>Be able to track sharks as they roam the ocean around Australia. Do they reside at known shipwreck locations?</p></center>
    <div id='map'></div>
-   <script>
-    $('.tlt').textillate({ in: { effect: 'pulse' } });
-</script>
+   
 
      
 
