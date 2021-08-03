@@ -29,9 +29,9 @@ In the future, this analysis would be better completed by monitoring individual 
 
 ### Articles
 
-Dvorsky, George. “Atlantic Shipwreck Graveyard May Be Key Habitat For IMPERILED SHARKS.” Gizmodo, Gizmodo, 23 Apr. 2019, gizmodo.com/atlantic-shipwreck-graveyard-may-be-key-habitat-for-imp-1834244023.
+Dvorsky, George. “Atlantic Shipwreck Graveyard May Be Key Habitat For IMPERILED SHARKS.” Gizmodo, Gizmodo, 23 Apr. 2019, [gizmodo.com/atlantic-shipwreck-graveyard-may-be-key-habitat-for-imp-1834244023](gizmodo.com/atlantic-shipwreck-graveyard-may-be-key-habitat-for-imp-1834244023).
 
-Paxton, Avery B., et al. “Citizen Science Reveals Female Sand Tiger Sharks (Carcharias Taurus) Exhibit Signs of Site Fidelity On Shipwrecks.” The Ecological Society of America, John Wiley & Sons, Ltd, 22 Apr. 2019, esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.2687.
+Paxton, Avery B., et al. “Citizen Science Reveals Female Sand Tiger Sharks (Carcharias Taurus) Exhibit Signs of Site Fidelity On Shipwrecks.” The Ecological Society of America, John Wiley & Sons, Ltd, 22 Apr. 2019, [esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.2687](esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.2687).
 
 
 ### Data Sets
